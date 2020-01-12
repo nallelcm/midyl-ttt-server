@@ -1,0 +1,1865 @@
+{
+  "Start": "2018-12-13T14:03:30.0168324-06:00",
+  "End": "2018-12-13T14:04:01.8383628-06:00",
+  "RegionalRule1": "None",
+  "RegionalRule2": "None",
+  "MatchRule1": "Roulette",
+  "MatchRule2": "Roulette",
+  "Player1Name": "Default",
+  "Player2Name": "Rowena",
+  "Player1SelectedDeck": [
+    {
+      "Id": 109,
+      "Name": "Coeurlregina",
+      "Rarity": 3,
+      "Family": "None",
+      "Up": 5,
+      "Down": 5,
+      "Right": 5,
+      "Left": 8
+    },
+    {
+      "Id": 108,
+      "Name": "Vedrfolnir",
+      "Rarity": 3,
+      "Family": "None",
+      "Up": 8,
+      "Down": 7,
+      "Right": 2,
+      "Left": 4
+    },
+    {
+      "Id": 50,
+      "Name": "Urianger",
+      "Rarity": 3,
+      "Family": "Scion",
+      "Up": 8,
+      "Down": 4,
+      "Right": 1,
+      "Left": 7
+    },
+    {
+      "Id": 38,
+      "Name": "Behemoth",
+      "Rarity": 3,
+      "Family": "None",
+      "Up": 7,
+      "Down": 4,
+      "Right": 8,
+      "Left": 2
+    },
+    {
+      "Id": 70,
+      "Name": "Onion Knight",
+      "Rarity": 5,
+      "Family": "None",
+      "Up": 8,
+      "Down": 8,
+      "Right": 2,
+      "Left": 10
+    }
+  ],
+  "Player2SelectedDeck": [
+    {
+      "Id": 34,
+      "Name": "Gerolt",
+      "Rarity": 2,
+      "Family": "None",
+      "Up": 1,
+      "Down": 3,
+      "Right": 7,
+      "Left": 7
+    },
+    {
+      "Id": 61,
+      "Name": "Bahamut",
+      "Rarity": 5,
+      "Family": "Primal",
+      "Up": 9,
+      "Down": 9,
+      "Right": 5,
+      "Left": 6
+    },
+    {
+      "Id": 29,
+      "Name": "Baderon Tenfingers",
+      "Rarity": 2,
+      "Family": "None",
+      "Up": 3,
+      "Down": 5,
+      "Right": 7,
+      "Left": 5
+    },
+    {
+      "Id": 60,
+      "Name": "Louisoix Leveilleur",
+      "Rarity": 4,
+      "Family": "Scion",
+      "Up": 9,
+      "Down": 9,
+      "Right": 4,
+      "Left": 3
+    },
+    {
+      "Id": 47,
+      "Name": "Nero tol Scaeva",
+      "Rarity": 3,
+      "Family": "Garlean",
+      "Up": 4,
+      "Down": 8,
+      "Right": 1,
+      "Left": 7
+    },
+    {
+      "Id": 39,
+      "Name": "Gilgamesh & Enkidu",
+      "Rarity": 3,
+      "Family": "None",
+      "Up": 8,
+      "Down": 7,
+      "Right": 3,
+      "Left": 3
+    },
+    {
+      "Id": 45,
+      "Name": "Godbert Manderville",
+      "Rarity": 3,
+      "Family": "None",
+      "Up": 6,
+      "Down": 5,
+      "Right": 6,
+      "Left": 6
+    }
+  ],
+  "MoveHistory": [
+    {
+      "Card": {
+        "Id": 38,
+        "Name": "Behemoth",
+        "Rarity": 3,
+        "Family": "None",
+        "Up": 7,
+        "Down": 4,
+        "Right": 8,
+        "Left": 2
+      },
+      "Position": 0
+    },
+    {
+      "Card": {
+        "Id": 29,
+        "Name": "Baderon Tenfingers",
+        "Rarity": 2,
+        "Family": "None",
+        "Up": 3,
+        "Down": 5,
+        "Right": 7,
+        "Left": 5
+      },
+      "Position": 6
+    },
+    {
+      "Card": {
+        "Id": 50,
+        "Name": "Urianger",
+        "Rarity": 3,
+        "Family": "Scion",
+        "Up": 8,
+        "Down": 4,
+        "Right": 1,
+        "Left": 7
+      },
+      "Position": 3
+    },
+    {
+      "Card": {
+        "Id": 45,
+        "Name": "Godbert Manderville",
+        "Rarity": 3,
+        "Family": "None",
+        "Up": 6,
+        "Down": 5,
+        "Right": 6,
+        "Left": 6
+      },
+      "Position": 4
+    },
+    {
+      "Card": {
+        "Id": 108,
+        "Name": "Vedrfolnir",
+        "Rarity": 3,
+        "Family": "None",
+        "Up": 8,
+        "Down": 7,
+        "Right": 2,
+        "Left": 4
+      },
+      "Position": 2
+    },
+    {
+      "Card": {
+        "Id": 34,
+        "Name": "Gerolt",
+        "Rarity": 2,
+        "Family": "None",
+        "Up": 1,
+        "Down": 3,
+        "Right": 7,
+        "Left": 7
+      },
+      "Position": 1
+    },
+    {
+      "Card": {
+        "Id": 70,
+        "Name": "Onion Knight",
+        "Rarity": 5,
+        "Family": "None",
+        "Up": 8,
+        "Down": 8,
+        "Right": 2,
+        "Left": 10
+      },
+      "Position": 5
+    },
+    {
+      "Card": {
+        "Id": 61,
+        "Name": "Bahamut",
+        "Rarity": 5,
+        "Family": "Primal",
+        "Up": 9,
+        "Down": 9,
+        "Right": 5,
+        "Left": 6
+      },
+      "Position": 8
+    },
+    {
+      "Card": {
+        "Id": 109,
+        "Name": "Coeurlregina",
+        "Rarity": 3,
+        "Family": "None",
+        "Up": 5,
+        "Down": 5,
+        "Right": 5,
+        "Left": 8
+      },
+      "Position": 7
+    }
+  ],
+  "RoundHistory": [
+    {
+      "StartingPlayer": 1,
+      "Rules": "AllOpen, Plus",
+      "TurnCount": 1,
+      "RoundState": "Ongoing",
+      "PlayerToMove": 2,
+      "NextPlayerToMove": 1,
+      "Player1RevealedCards": [
+        {
+          "Id": 109,
+          "Name": "Coeurlregina",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 5,
+          "Down": 5,
+          "Right": 5,
+          "Left": 8
+        },
+        {
+          "Id": 108,
+          "Name": "Vedrfolnir",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 8,
+          "Down": 7,
+          "Right": 2,
+          "Left": 4
+        },
+        {
+          "Id": 50,
+          "Name": "Urianger",
+          "Rarity": 3,
+          "Family": "Scion",
+          "Up": 8,
+          "Down": 4,
+          "Right": 1,
+          "Left": 7
+        },
+        {
+          "Id": 70,
+          "Name": "Onion Knight",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 8,
+          "Down": 8,
+          "Right": 2,
+          "Left": 10
+        }
+      ],
+      "Player1ConcealedCards": [],
+      "Player2RevealedCards": [
+        {
+          "Id": 34,
+          "Name": "Gerolt",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 1,
+          "Down": 3,
+          "Right": 7,
+          "Left": 7
+        },
+        {
+          "Id": 61,
+          "Name": "Bahamut",
+          "Rarity": 5,
+          "Family": "Primal",
+          "Up": 9,
+          "Down": 9,
+          "Right": 5,
+          "Left": 6
+        },
+        {
+          "Id": 39,
+          "Name": "Gilgamesh & Enkidu",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 8,
+          "Down": 7,
+          "Right": 3,
+          "Left": 3
+        },
+        {
+          "Id": 29,
+          "Name": "Baderon Tenfingers",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 3,
+          "Down": 5,
+          "Right": 7,
+          "Left": 5
+        },
+        {
+          "Id": 45,
+          "Name": "Godbert Manderville",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 6,
+          "Down": 5,
+          "Right": 6,
+          "Left": 6
+        }
+      ],
+      "Player2ConcealedCards": [],
+      "Ownership": [
+        1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "Wardenship": [
+        1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "BoardCards": [
+        {
+          "Id": 38,
+          "Name": "Behemoth",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 7,
+          "Down": 4,
+          "Right": 8,
+          "Left": 2
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        }
+      ],
+      "IsDeterminized": true
+    },
+    {
+      "StartingPlayer": 1,
+      "Rules": "AllOpen, Plus",
+      "TurnCount": 2,
+      "RoundState": "Ongoing",
+      "PlayerToMove": 1,
+      "NextPlayerToMove": 2,
+      "Player1RevealedCards": [
+        {
+          "Id": 109,
+          "Name": "Coeurlregina",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 5,
+          "Down": 5,
+          "Right": 5,
+          "Left": 8
+        },
+        {
+          "Id": 108,
+          "Name": "Vedrfolnir",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 8,
+          "Down": 7,
+          "Right": 2,
+          "Left": 4
+        },
+        {
+          "Id": 50,
+          "Name": "Urianger",
+          "Rarity": 3,
+          "Family": "Scion",
+          "Up": 8,
+          "Down": 4,
+          "Right": 1,
+          "Left": 7
+        },
+        {
+          "Id": 70,
+          "Name": "Onion Knight",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 8,
+          "Down": 8,
+          "Right": 2,
+          "Left": 10
+        }
+      ],
+      "Player1ConcealedCards": [],
+      "Player2RevealedCards": [
+        {
+          "Id": 34,
+          "Name": "Gerolt",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 1,
+          "Down": 3,
+          "Right": 7,
+          "Left": 7
+        },
+        {
+          "Id": 61,
+          "Name": "Bahamut",
+          "Rarity": 5,
+          "Family": "Primal",
+          "Up": 9,
+          "Down": 9,
+          "Right": 5,
+          "Left": 6
+        },
+        {
+          "Id": 39,
+          "Name": "Gilgamesh & Enkidu",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 8,
+          "Down": 7,
+          "Right": 3,
+          "Left": 3
+        },
+        {
+          "Id": 45,
+          "Name": "Godbert Manderville",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 6,
+          "Down": 5,
+          "Right": 6,
+          "Left": 6
+        }
+      ],
+      "Player2ConcealedCards": [],
+      "Ownership": [
+        1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        2,
+        -1,
+        -1
+      ],
+      "Wardenship": [
+        1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        2,
+        -1,
+        -1
+      ],
+      "BoardCards": [
+        {
+          "Id": 38,
+          "Name": "Behemoth",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 7,
+          "Down": 4,
+          "Right": 8,
+          "Left": 2
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 29,
+          "Name": "Baderon Tenfingers",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 3,
+          "Down": 5,
+          "Right": 7,
+          "Left": 5
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        }
+      ],
+      "IsDeterminized": true
+    },
+    {
+      "StartingPlayer": 1,
+      "Rules": "AllOpen, Plus",
+      "TurnCount": 3,
+      "RoundState": "Ongoing",
+      "PlayerToMove": 2,
+      "NextPlayerToMove": 1,
+      "Player1RevealedCards": [
+        {
+          "Id": 109,
+          "Name": "Coeurlregina",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 5,
+          "Down": 5,
+          "Right": 5,
+          "Left": 8
+        },
+        {
+          "Id": 108,
+          "Name": "Vedrfolnir",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 8,
+          "Down": 7,
+          "Right": 2,
+          "Left": 4
+        },
+        {
+          "Id": 70,
+          "Name": "Onion Knight",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 8,
+          "Down": 8,
+          "Right": 2,
+          "Left": 10
+        }
+      ],
+      "Player1ConcealedCards": [],
+      "Player2RevealedCards": [
+        {
+          "Id": 34,
+          "Name": "Gerolt",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 1,
+          "Down": 3,
+          "Right": 7,
+          "Left": 7
+        },
+        {
+          "Id": 61,
+          "Name": "Bahamut",
+          "Rarity": 5,
+          "Family": "Primal",
+          "Up": 9,
+          "Down": 9,
+          "Right": 5,
+          "Left": 6
+        },
+        {
+          "Id": 39,
+          "Name": "Gilgamesh & Enkidu",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 8,
+          "Down": 7,
+          "Right": 3,
+          "Left": 3
+        },
+        {
+          "Id": 45,
+          "Name": "Godbert Manderville",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 6,
+          "Down": 5,
+          "Right": 6,
+          "Left": 6
+        }
+      ],
+      "Player2ConcealedCards": [],
+      "Ownership": [
+        1,
+        -1,
+        -1,
+        1,
+        -1,
+        -1,
+        2,
+        -1,
+        -1
+      ],
+      "Wardenship": [
+        1,
+        -1,
+        -1,
+        1,
+        -1,
+        -1,
+        1,
+        -1,
+        -1
+      ],
+      "BoardCards": [
+        {
+          "Id": 38,
+          "Name": "Behemoth",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 7,
+          "Down": 4,
+          "Right": 8,
+          "Left": 2
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 50,
+          "Name": "Urianger",
+          "Rarity": 3,
+          "Family": "Scion",
+          "Up": 8,
+          "Down": 4,
+          "Right": 1,
+          "Left": 7
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 29,
+          "Name": "Baderon Tenfingers",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 3,
+          "Down": 5,
+          "Right": 7,
+          "Left": 5
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        }
+      ],
+      "IsDeterminized": true
+    },
+    {
+      "StartingPlayer": 1,
+      "Rules": "AllOpen, Plus",
+      "TurnCount": 4,
+      "RoundState": "Ongoing",
+      "PlayerToMove": 1,
+      "NextPlayerToMove": 2,
+      "Player1RevealedCards": [
+        {
+          "Id": 109,
+          "Name": "Coeurlregina",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 5,
+          "Down": 5,
+          "Right": 5,
+          "Left": 8
+        },
+        {
+          "Id": 108,
+          "Name": "Vedrfolnir",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 8,
+          "Down": 7,
+          "Right": 2,
+          "Left": 4
+        },
+        {
+          "Id": 70,
+          "Name": "Onion Knight",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 8,
+          "Down": 8,
+          "Right": 2,
+          "Left": 10
+        }
+      ],
+      "Player1ConcealedCards": [],
+      "Player2RevealedCards": [
+        {
+          "Id": 34,
+          "Name": "Gerolt",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 1,
+          "Down": 3,
+          "Right": 7,
+          "Left": 7
+        },
+        {
+          "Id": 61,
+          "Name": "Bahamut",
+          "Rarity": 5,
+          "Family": "Primal",
+          "Up": 9,
+          "Down": 9,
+          "Right": 5,
+          "Left": 6
+        },
+        {
+          "Id": 39,
+          "Name": "Gilgamesh & Enkidu",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 8,
+          "Down": 7,
+          "Right": 3,
+          "Left": 3
+        }
+      ],
+      "Player2ConcealedCards": [],
+      "Ownership": [
+        1,
+        -1,
+        -1,
+        1,
+        2,
+        -1,
+        2,
+        -1,
+        -1
+      ],
+      "Wardenship": [
+        1,
+        -1,
+        -1,
+        2,
+        2,
+        -1,
+        1,
+        -1,
+        -1
+      ],
+      "BoardCards": [
+        {
+          "Id": 38,
+          "Name": "Behemoth",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 7,
+          "Down": 4,
+          "Right": 8,
+          "Left": 2
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 50,
+          "Name": "Urianger",
+          "Rarity": 3,
+          "Family": "Scion",
+          "Up": 8,
+          "Down": 4,
+          "Right": 1,
+          "Left": 7
+        },
+        {
+          "Id": 45,
+          "Name": "Godbert Manderville",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 6,
+          "Down": 5,
+          "Right": 6,
+          "Left": 6
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 29,
+          "Name": "Baderon Tenfingers",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 3,
+          "Down": 5,
+          "Right": 7,
+          "Left": 5
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        }
+      ],
+      "IsDeterminized": true
+    },
+    {
+      "StartingPlayer": 1,
+      "Rules": "AllOpen, Plus",
+      "TurnCount": 5,
+      "RoundState": "Ongoing",
+      "PlayerToMove": 2,
+      "NextPlayerToMove": 1,
+      "Player1RevealedCards": [
+        {
+          "Id": 109,
+          "Name": "Coeurlregina",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 5,
+          "Down": 5,
+          "Right": 5,
+          "Left": 8
+        },
+        {
+          "Id": 70,
+          "Name": "Onion Knight",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 8,
+          "Down": 8,
+          "Right": 2,
+          "Left": 10
+        }
+      ],
+      "Player1ConcealedCards": [],
+      "Player2RevealedCards": [
+        {
+          "Id": 34,
+          "Name": "Gerolt",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 1,
+          "Down": 3,
+          "Right": 7,
+          "Left": 7
+        },
+        {
+          "Id": 61,
+          "Name": "Bahamut",
+          "Rarity": 5,
+          "Family": "Primal",
+          "Up": 9,
+          "Down": 9,
+          "Right": 5,
+          "Left": 6
+        },
+        {
+          "Id": 39,
+          "Name": "Gilgamesh & Enkidu",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 8,
+          "Down": 7,
+          "Right": 3,
+          "Left": 3
+        }
+      ],
+      "Player2ConcealedCards": [],
+      "Ownership": [
+        1,
+        -1,
+        1,
+        1,
+        2,
+        -1,
+        2,
+        -1,
+        -1
+      ],
+      "Wardenship": [
+        1,
+        -1,
+        1,
+        2,
+        2,
+        -1,
+        1,
+        -1,
+        -1
+      ],
+      "BoardCards": [
+        {
+          "Id": 38,
+          "Name": "Behemoth",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 7,
+          "Down": 4,
+          "Right": 8,
+          "Left": 2
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 108,
+          "Name": "Vedrfolnir",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 8,
+          "Down": 7,
+          "Right": 2,
+          "Left": 4
+        },
+        {
+          "Id": 50,
+          "Name": "Urianger",
+          "Rarity": 3,
+          "Family": "Scion",
+          "Up": 8,
+          "Down": 4,
+          "Right": 1,
+          "Left": 7
+        },
+        {
+          "Id": 45,
+          "Name": "Godbert Manderville",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 6,
+          "Down": 5,
+          "Right": 6,
+          "Left": 6
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 29,
+          "Name": "Baderon Tenfingers",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 3,
+          "Down": 5,
+          "Right": 7,
+          "Left": 5
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        }
+      ],
+      "IsDeterminized": true
+    },
+    {
+      "StartingPlayer": 1,
+      "Rules": "AllOpen, Plus",
+      "TurnCount": 6,
+      "RoundState": "Ongoing",
+      "PlayerToMove": 1,
+      "NextPlayerToMove": 2,
+      "Player1RevealedCards": [
+        {
+          "Id": 109,
+          "Name": "Coeurlregina",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 5,
+          "Down": 5,
+          "Right": 5,
+          "Left": 8
+        },
+        {
+          "Id": 70,
+          "Name": "Onion Knight",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 8,
+          "Down": 8,
+          "Right": 2,
+          "Left": 10
+        }
+      ],
+      "Player1ConcealedCards": [],
+      "Player2RevealedCards": [
+        {
+          "Id": 61,
+          "Name": "Bahamut",
+          "Rarity": 5,
+          "Family": "Primal",
+          "Up": 9,
+          "Down": 9,
+          "Right": 5,
+          "Left": 6
+        },
+        {
+          "Id": 39,
+          "Name": "Gilgamesh & Enkidu",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 8,
+          "Down": 7,
+          "Right": 3,
+          "Left": 3
+        }
+      ],
+      "Player2ConcealedCards": [],
+      "Ownership": [
+        1,
+        2,
+        1,
+        1,
+        2,
+        -1,
+        2,
+        -1,
+        -1
+      ],
+      "Wardenship": [
+        1,
+        2,
+        2,
+        2,
+        2,
+        -1,
+        1,
+        -1,
+        -1
+      ],
+      "BoardCards": [
+        {
+          "Id": 38,
+          "Name": "Behemoth",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 7,
+          "Down": 4,
+          "Right": 8,
+          "Left": 2
+        },
+        {
+          "Id": 34,
+          "Name": "Gerolt",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 1,
+          "Down": 3,
+          "Right": 7,
+          "Left": 7
+        },
+        {
+          "Id": 108,
+          "Name": "Vedrfolnir",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 8,
+          "Down": 7,
+          "Right": 2,
+          "Left": 4
+        },
+        {
+          "Id": 50,
+          "Name": "Urianger",
+          "Rarity": 3,
+          "Family": "Scion",
+          "Up": 8,
+          "Down": 4,
+          "Right": 1,
+          "Left": 7
+        },
+        {
+          "Id": 45,
+          "Name": "Godbert Manderville",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 6,
+          "Down": 5,
+          "Right": 6,
+          "Left": 6
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 29,
+          "Name": "Baderon Tenfingers",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 3,
+          "Down": 5,
+          "Right": 7,
+          "Left": 5
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        }
+      ],
+      "IsDeterminized": true
+    },
+    {
+      "StartingPlayer": 1,
+      "Rules": "AllOpen, Plus",
+      "TurnCount": 7,
+      "RoundState": "Ongoing",
+      "PlayerToMove": 2,
+      "NextPlayerToMove": 1,
+      "Player1RevealedCards": [
+        {
+          "Id": 109,
+          "Name": "Coeurlregina",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 5,
+          "Down": 5,
+          "Right": 5,
+          "Left": 8
+        }
+      ],
+      "Player1ConcealedCards": [],
+      "Player2RevealedCards": [
+        {
+          "Id": 61,
+          "Name": "Bahamut",
+          "Rarity": 5,
+          "Family": "Primal",
+          "Up": 9,
+          "Down": 9,
+          "Right": 5,
+          "Left": 6
+        },
+        {
+          "Id": 39,
+          "Name": "Gilgamesh & Enkidu",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 8,
+          "Down": 7,
+          "Right": 3,
+          "Left": 3
+        }
+      ],
+      "Player2ConcealedCards": [],
+      "Ownership": [
+        1,
+        2,
+        1,
+        1,
+        2,
+        1,
+        2,
+        -1,
+        -1
+      ],
+      "Wardenship": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        -1,
+        -1
+      ],
+      "BoardCards": [
+        {
+          "Id": 38,
+          "Name": "Behemoth",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 7,
+          "Down": 4,
+          "Right": 8,
+          "Left": 2
+        },
+        {
+          "Id": 34,
+          "Name": "Gerolt",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 1,
+          "Down": 3,
+          "Right": 7,
+          "Left": 7
+        },
+        {
+          "Id": 108,
+          "Name": "Vedrfolnir",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 8,
+          "Down": 7,
+          "Right": 2,
+          "Left": 4
+        },
+        {
+          "Id": 50,
+          "Name": "Urianger",
+          "Rarity": 3,
+          "Family": "Scion",
+          "Up": 8,
+          "Down": 4,
+          "Right": 1,
+          "Left": 7
+        },
+        {
+          "Id": 45,
+          "Name": "Godbert Manderville",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 6,
+          "Down": 5,
+          "Right": 6,
+          "Left": 6
+        },
+        {
+          "Id": 70,
+          "Name": "Onion Knight",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 8,
+          "Down": 8,
+          "Right": 2,
+          "Left": 10
+        },
+        {
+          "Id": 29,
+          "Name": "Baderon Tenfingers",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 3,
+          "Down": 5,
+          "Right": 7,
+          "Left": 5
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        }
+      ],
+      "IsDeterminized": true
+    },
+    {
+      "StartingPlayer": 1,
+      "Rules": "AllOpen, Plus",
+      "TurnCount": 8,
+      "RoundState": "Ongoing",
+      "PlayerToMove": 1,
+      "NextPlayerToMove": 2,
+      "Player1RevealedCards": [
+        {
+          "Id": 109,
+          "Name": "Coeurlregina",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 5,
+          "Down": 5,
+          "Right": 5,
+          "Left": 8
+        }
+      ],
+      "Player1ConcealedCards": [],
+      "Player2RevealedCards": [
+        {
+          "Id": 39,
+          "Name": "Gilgamesh & Enkidu",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 8,
+          "Down": 7,
+          "Right": 3,
+          "Left": 3
+        }
+      ],
+      "Player2ConcealedCards": [],
+      "Ownership": [
+        1,
+        2,
+        1,
+        1,
+        2,
+        1,
+        2,
+        -1,
+        2
+      ],
+      "Wardenship": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        1,
+        -1,
+        2
+      ],
+      "BoardCards": [
+        {
+          "Id": 38,
+          "Name": "Behemoth",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 7,
+          "Down": 4,
+          "Right": 8,
+          "Left": 2
+        },
+        {
+          "Id": 34,
+          "Name": "Gerolt",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 1,
+          "Down": 3,
+          "Right": 7,
+          "Left": 7
+        },
+        {
+          "Id": 108,
+          "Name": "Vedrfolnir",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 8,
+          "Down": 7,
+          "Right": 2,
+          "Left": 4
+        },
+        {
+          "Id": 50,
+          "Name": "Urianger",
+          "Rarity": 3,
+          "Family": "Scion",
+          "Up": 8,
+          "Down": 4,
+          "Right": 1,
+          "Left": 7
+        },
+        {
+          "Id": 45,
+          "Name": "Godbert Manderville",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 6,
+          "Down": 5,
+          "Right": 6,
+          "Left": 6
+        },
+        {
+          "Id": 70,
+          "Name": "Onion Knight",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 8,
+          "Down": 8,
+          "Right": 2,
+          "Left": 10
+        },
+        {
+          "Id": 29,
+          "Name": "Baderon Tenfingers",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 3,
+          "Down": 5,
+          "Right": 7,
+          "Left": 5
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 61,
+          "Name": "Bahamut",
+          "Rarity": 5,
+          "Family": "Primal",
+          "Up": 9,
+          "Down": 9,
+          "Right": 5,
+          "Left": 6
+        }
+      ],
+      "IsDeterminized": true
+    },
+    {
+      "StartingPlayer": 1,
+      "Rules": "AllOpen, Plus",
+      "TurnCount": 9,
+      "RoundState": "Player1Win",
+      "PlayerToMove": 2,
+      "NextPlayerToMove": 1,
+      "Player1RevealedCards": [],
+      "Player1ConcealedCards": [],
+      "Player2RevealedCards": [
+        {
+          "Id": 39,
+          "Name": "Gilgamesh & Enkidu",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 8,
+          "Down": 7,
+          "Right": 3,
+          "Left": 3
+        }
+      ],
+      "Player2ConcealedCards": [],
+      "Ownership": [
+        1,
+        2,
+        1,
+        1,
+        2,
+        1,
+        2,
+        1,
+        2
+      ],
+      "Wardenship": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "BoardCards": [
+        {
+          "Id": 38,
+          "Name": "Behemoth",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 7,
+          "Down": 4,
+          "Right": 8,
+          "Left": 2
+        },
+        {
+          "Id": 34,
+          "Name": "Gerolt",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 1,
+          "Down": 3,
+          "Right": 7,
+          "Left": 7
+        },
+        {
+          "Id": 108,
+          "Name": "Vedrfolnir",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 8,
+          "Down": 7,
+          "Right": 2,
+          "Left": 4
+        },
+        {
+          "Id": 50,
+          "Name": "Urianger",
+          "Rarity": 3,
+          "Family": "Scion",
+          "Up": 8,
+          "Down": 4,
+          "Right": 1,
+          "Left": 7
+        },
+        {
+          "Id": 45,
+          "Name": "Godbert Manderville",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 6,
+          "Down": 5,
+          "Right": 6,
+          "Left": 6
+        },
+        {
+          "Id": 70,
+          "Name": "Onion Knight",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 8,
+          "Down": 8,
+          "Right": 2,
+          "Left": 10
+        },
+        {
+          "Id": 29,
+          "Name": "Baderon Tenfingers",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 3,
+          "Down": 5,
+          "Right": 7,
+          "Left": 5
+        },
+        {
+          "Id": 109,
+          "Name": "Coeurlregina",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 5,
+          "Down": 5,
+          "Right": 5,
+          "Left": 8
+        },
+        {
+          "Id": 61,
+          "Name": "Bahamut",
+          "Rarity": 5,
+          "Family": "Primal",
+          "Up": 9,
+          "Down": 9,
+          "Right": 5,
+          "Left": 6
+        }
+      ],
+      "IsDeterminized": true
+    }
+  ]
+}

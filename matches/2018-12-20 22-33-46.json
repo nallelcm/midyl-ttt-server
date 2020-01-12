@@ -1,0 +1,2010 @@
+{
+  "Start": "2018-12-20T22:32:41.1704485-06:00",
+  "End": "2018-12-20T22:33:46.063955-06:00",
+  "RegionalRule1": "None",
+  "RegionalRule2": "None",
+  "MatchRule1": "Chaos",
+  "MatchRule2": "None",
+  "Player1Name": "Default",
+  "Player2Name": "Swift",
+  "Player1SelectedDeck": [
+    {
+      "Id": 109,
+      "Name": "Coeurlregina",
+      "Rarity": 3,
+      "Family": "None",
+      "Up": 5,
+      "Down": 5,
+      "Right": 5,
+      "Left": 8
+    },
+    {
+      "Id": 108,
+      "Name": "Vedrfolnir",
+      "Rarity": 3,
+      "Family": "None",
+      "Up": 8,
+      "Down": 7,
+      "Right": 2,
+      "Left": 4
+    },
+    {
+      "Id": 50,
+      "Name": "Urianger",
+      "Rarity": 3,
+      "Family": "Scion",
+      "Up": 8,
+      "Down": 4,
+      "Right": 1,
+      "Left": 7
+    },
+    {
+      "Id": 75,
+      "Name": "Squall Leonhart",
+      "Rarity": 5,
+      "Family": "None",
+      "Up": 6,
+      "Down": 10,
+      "Right": 10,
+      "Left": 1
+    },
+    {
+      "Id": 38,
+      "Name": "Behemoth",
+      "Rarity": 3,
+      "Family": "None",
+      "Up": 7,
+      "Down": 4,
+      "Right": 8,
+      "Left": 2
+    }
+  ],
+  "Player2SelectedDeck": [
+    {
+      "Id": 67,
+      "Name": "Raubahn Aldynn",
+      "Rarity": 5,
+      "Family": "None",
+      "Up": 6,
+      "Down": 9,
+      "Right": 2,
+      "Left": 10
+    },
+    {
+      "Id": 28,
+      "Name": "Momodi Modi",
+      "Rarity": 2,
+      "Family": "None",
+      "Up": 7,
+      "Down": 5,
+      "Right": 5,
+      "Left": 3
+    },
+    {
+      "Id": 22,
+      "Name": "Ultros & Typhon",
+      "Rarity": 2,
+      "Family": "None",
+      "Up": 2,
+      "Down": 6,
+      "Right": 3,
+      "Left": 7
+    },
+    {
+      "Id": 59,
+      "Name": "Alphinaud & Alisaie",
+      "Rarity": 4,
+      "Family": "Scion",
+      "Up": 9,
+      "Down": 3,
+      "Right": 3,
+      "Left": 9
+    },
+    {
+      "Id": 46,
+      "Name": "Thancred",
+      "Rarity": 3,
+      "Family": "Scion",
+      "Up": 2,
+      "Down": 8,
+      "Right": 3,
+      "Left": 7
+    },
+    {
+      "Id": 40,
+      "Name": "Ifrit",
+      "Rarity": 3,
+      "Family": "Primal",
+      "Up": 7,
+      "Down": 6,
+      "Right": 1,
+      "Left": 7
+    },
+    {
+      "Id": 33,
+      "Name": "Biggs & Wedge",
+      "Rarity": 2,
+      "Family": "None",
+      "Up": 5,
+      "Down": 7,
+      "Right": 3,
+      "Left": 5
+    },
+    {
+      "Id": 19,
+      "Name": "Tataru Taru",
+      "Rarity": 1,
+      "Family": "Scion",
+      "Up": 7,
+      "Down": 3,
+      "Right": 2,
+      "Left": 2
+    }
+  ],
+  "MoveHistory": [
+    {
+      "Card": {
+        "Id": 59,
+        "Name": "Alphinaud & Alisaie",
+        "Rarity": 4,
+        "Family": "Scion",
+        "Up": 9,
+        "Down": 3,
+        "Right": 3,
+        "Left": 9
+      },
+      "Position": 2
+    },
+    {
+      "Card": {
+        "Id": 50,
+        "Name": "Urianger",
+        "Rarity": 3,
+        "Family": "Scion",
+        "Up": 8,
+        "Down": 4,
+        "Right": 1,
+        "Left": 7
+      },
+      "Position": 1
+    },
+    {
+      "Card": {
+        "Id": 28,
+        "Name": "Momodi Modi",
+        "Rarity": 2,
+        "Family": "None",
+        "Up": 7,
+        "Down": 5,
+        "Right": 5,
+        "Left": 3
+      },
+      "Position": 3
+    },
+    {
+      "Card": {
+        "Id": 75,
+        "Name": "Squall Leonhart",
+        "Rarity": 5,
+        "Family": "None",
+        "Up": 6,
+        "Down": 10,
+        "Right": 10,
+        "Left": 1
+      },
+      "Position": 5
+    },
+    {
+      "Card": {
+        "Id": 46,
+        "Name": "Thancred",
+        "Rarity": 3,
+        "Family": "Scion",
+        "Up": 2,
+        "Down": 8,
+        "Right": 3,
+        "Left": 7
+      },
+      "Position": 4
+    },
+    {
+      "Card": {
+        "Id": 109,
+        "Name": "Coeurlregina",
+        "Rarity": 3,
+        "Family": "None",
+        "Up": 5,
+        "Down": 5,
+        "Right": 5,
+        "Left": 8
+      },
+      "Position": 7
+    },
+    {
+      "Card": {
+        "Id": 22,
+        "Name": "Ultros & Typhon",
+        "Rarity": 2,
+        "Family": "None",
+        "Up": 2,
+        "Down": 6,
+        "Right": 3,
+        "Left": 7
+      },
+      "Position": 8
+    },
+    {
+      "Card": {
+        "Id": 38,
+        "Name": "Behemoth",
+        "Rarity": 3,
+        "Family": "None",
+        "Up": 7,
+        "Down": 4,
+        "Right": 8,
+        "Left": 2
+      },
+      "Position": 6
+    },
+    {
+      "Card": {
+        "Id": 67,
+        "Name": "Raubahn Aldynn",
+        "Rarity": 5,
+        "Family": "None",
+        "Up": 6,
+        "Down": 9,
+        "Right": 2,
+        "Left": 10
+      },
+      "Position": 0
+    }
+  ],
+  "RoundHistory": [
+    {
+      "StartingPlayer": 2,
+      "Rules": "Chaos",
+      "TurnCount": 1,
+      "RoundState": "Ongoing",
+      "PlayerToMove": 1,
+      "NextPlayerToMove": 2,
+      "Player1RevealedCards": [
+        {
+          "Id": 109,
+          "Name": "Coeurlregina",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 5,
+          "Down": 5,
+          "Right": 5,
+          "Left": 8
+        },
+        {
+          "Id": 108,
+          "Name": "Vedrfolnir",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 8,
+          "Down": 7,
+          "Right": 2,
+          "Left": 4
+        },
+        {
+          "Id": 50,
+          "Name": "Urianger",
+          "Rarity": 3,
+          "Family": "Scion",
+          "Up": 8,
+          "Down": 4,
+          "Right": 1,
+          "Left": 7
+        },
+        {
+          "Id": 75,
+          "Name": "Squall Leonhart",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 6,
+          "Down": 10,
+          "Right": 10,
+          "Left": 1
+        },
+        {
+          "Id": 38,
+          "Name": "Behemoth",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 7,
+          "Down": 4,
+          "Right": 8,
+          "Left": 2
+        }
+      ],
+      "Player1ConcealedCards": [],
+      "Player2RevealedCards": [
+        {
+          "Id": 28,
+          "Name": "Momodi Modi",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 7,
+          "Down": 5,
+          "Right": 5,
+          "Left": 3
+        },
+        {
+          "Id": 22,
+          "Name": "Ultros & Typhon",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 2,
+          "Down": 6,
+          "Right": 3,
+          "Left": 7
+        },
+        {
+          "Id": 67,
+          "Name": "Raubahn Aldynn",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 6,
+          "Down": 9,
+          "Right": 2,
+          "Left": 10
+        }
+      ],
+      "Player2ConcealedCards": [
+        {
+          "Id": 46,
+          "Name": "Thancred",
+          "Rarity": 3,
+          "Family": "Scion",
+          "Up": 2,
+          "Down": 8,
+          "Right": 3,
+          "Left": 7
+        },
+        {
+          "Id": 40,
+          "Name": "Ifrit",
+          "Rarity": 3,
+          "Family": "Primal",
+          "Up": 7,
+          "Down": 6,
+          "Right": 1,
+          "Left": 7
+        },
+        {
+          "Id": 33,
+          "Name": "Biggs & Wedge",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 5,
+          "Down": 7,
+          "Right": 3,
+          "Left": 5
+        },
+        {
+          "Id": 19,
+          "Name": "Tataru Taru",
+          "Rarity": 1,
+          "Family": "Scion",
+          "Up": 7,
+          "Down": 3,
+          "Right": 2,
+          "Left": 2
+        }
+      ],
+      "Ownership": [
+        -1,
+        -1,
+        2,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "Wardenship": [
+        -1,
+        -1,
+        2,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "BoardCards": [
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 59,
+          "Name": "Alphinaud & Alisaie",
+          "Rarity": 4,
+          "Family": "Scion",
+          "Up": 9,
+          "Down": 3,
+          "Right": 3,
+          "Left": 9
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        }
+      ],
+      "IsDeterminized": false
+    },
+    {
+      "StartingPlayer": 2,
+      "Rules": "Chaos",
+      "TurnCount": 2,
+      "RoundState": "Ongoing",
+      "PlayerToMove": 2,
+      "NextPlayerToMove": 1,
+      "Player1RevealedCards": [
+        {
+          "Id": 108,
+          "Name": "Vedrfolnir",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 8,
+          "Down": 7,
+          "Right": 2,
+          "Left": 4
+        },
+        {
+          "Id": 109,
+          "Name": "Coeurlregina",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 5,
+          "Down": 5,
+          "Right": 5,
+          "Left": 8
+        },
+        {
+          "Id": 75,
+          "Name": "Squall Leonhart",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 6,
+          "Down": 10,
+          "Right": 10,
+          "Left": 1
+        },
+        {
+          "Id": 38,
+          "Name": "Behemoth",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 7,
+          "Down": 4,
+          "Right": 8,
+          "Left": 2
+        }
+      ],
+      "Player1ConcealedCards": [],
+      "Player2RevealedCards": [
+        {
+          "Id": 28,
+          "Name": "Momodi Modi",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 7,
+          "Down": 5,
+          "Right": 5,
+          "Left": 3
+        },
+        {
+          "Id": 22,
+          "Name": "Ultros & Typhon",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 2,
+          "Down": 6,
+          "Right": 3,
+          "Left": 7
+        },
+        {
+          "Id": 67,
+          "Name": "Raubahn Aldynn",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 6,
+          "Down": 9,
+          "Right": 2,
+          "Left": 10
+        }
+      ],
+      "Player2ConcealedCards": [
+        {
+          "Id": 46,
+          "Name": "Thancred",
+          "Rarity": 3,
+          "Family": "Scion",
+          "Up": 2,
+          "Down": 8,
+          "Right": 3,
+          "Left": 7
+        },
+        {
+          "Id": 40,
+          "Name": "Ifrit",
+          "Rarity": 3,
+          "Family": "Primal",
+          "Up": 7,
+          "Down": 6,
+          "Right": 1,
+          "Left": 7
+        },
+        {
+          "Id": 33,
+          "Name": "Biggs & Wedge",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 5,
+          "Down": 7,
+          "Right": 3,
+          "Left": 5
+        },
+        {
+          "Id": 19,
+          "Name": "Tataru Taru",
+          "Rarity": 1,
+          "Family": "Scion",
+          "Up": 7,
+          "Down": 3,
+          "Right": 2,
+          "Left": 2
+        }
+      ],
+      "Ownership": [
+        -1,
+        1,
+        2,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "Wardenship": [
+        -1,
+        1,
+        2,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "BoardCards": [
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 50,
+          "Name": "Urianger",
+          "Rarity": 3,
+          "Family": "Scion",
+          "Up": 8,
+          "Down": 4,
+          "Right": 1,
+          "Left": 7
+        },
+        {
+          "Id": 59,
+          "Name": "Alphinaud & Alisaie",
+          "Rarity": 4,
+          "Family": "Scion",
+          "Up": 9,
+          "Down": 3,
+          "Right": 3,
+          "Left": 9
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        }
+      ],
+      "IsDeterminized": false
+    },
+    {
+      "StartingPlayer": 2,
+      "Rules": "Chaos",
+      "TurnCount": 3,
+      "RoundState": "Ongoing",
+      "PlayerToMove": 1,
+      "NextPlayerToMove": 2,
+      "Player1RevealedCards": [
+        {
+          "Id": 108,
+          "Name": "Vedrfolnir",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 8,
+          "Down": 7,
+          "Right": 2,
+          "Left": 4
+        },
+        {
+          "Id": 109,
+          "Name": "Coeurlregina",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 5,
+          "Down": 5,
+          "Right": 5,
+          "Left": 8
+        },
+        {
+          "Id": 75,
+          "Name": "Squall Leonhart",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 6,
+          "Down": 10,
+          "Right": 10,
+          "Left": 1
+        },
+        {
+          "Id": 38,
+          "Name": "Behemoth",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 7,
+          "Down": 4,
+          "Right": 8,
+          "Left": 2
+        }
+      ],
+      "Player1ConcealedCards": [],
+      "Player2RevealedCards": [
+        {
+          "Id": 22,
+          "Name": "Ultros & Typhon",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 2,
+          "Down": 6,
+          "Right": 3,
+          "Left": 7
+        },
+        {
+          "Id": 67,
+          "Name": "Raubahn Aldynn",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 6,
+          "Down": 9,
+          "Right": 2,
+          "Left": 10
+        }
+      ],
+      "Player2ConcealedCards": [
+        {
+          "Id": 46,
+          "Name": "Thancred",
+          "Rarity": 3,
+          "Family": "Scion",
+          "Up": 2,
+          "Down": 8,
+          "Right": 3,
+          "Left": 7
+        },
+        {
+          "Id": 40,
+          "Name": "Ifrit",
+          "Rarity": 3,
+          "Family": "Primal",
+          "Up": 7,
+          "Down": 6,
+          "Right": 1,
+          "Left": 7
+        },
+        {
+          "Id": 33,
+          "Name": "Biggs & Wedge",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 5,
+          "Down": 7,
+          "Right": 3,
+          "Left": 5
+        },
+        {
+          "Id": 19,
+          "Name": "Tataru Taru",
+          "Rarity": 1,
+          "Family": "Scion",
+          "Up": 7,
+          "Down": 3,
+          "Right": 2,
+          "Left": 2
+        }
+      ],
+      "Ownership": [
+        -1,
+        1,
+        2,
+        2,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "Wardenship": [
+        -1,
+        1,
+        2,
+        2,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "BoardCards": [
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 50,
+          "Name": "Urianger",
+          "Rarity": 3,
+          "Family": "Scion",
+          "Up": 8,
+          "Down": 4,
+          "Right": 1,
+          "Left": 7
+        },
+        {
+          "Id": 59,
+          "Name": "Alphinaud & Alisaie",
+          "Rarity": 4,
+          "Family": "Scion",
+          "Up": 9,
+          "Down": 3,
+          "Right": 3,
+          "Left": 9
+        },
+        {
+          "Id": 28,
+          "Name": "Momodi Modi",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 7,
+          "Down": 5,
+          "Right": 5,
+          "Left": 3
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        }
+      ],
+      "IsDeterminized": false
+    },
+    {
+      "StartingPlayer": 2,
+      "Rules": "Chaos",
+      "TurnCount": 4,
+      "RoundState": "Ongoing",
+      "PlayerToMove": 2,
+      "NextPlayerToMove": 1,
+      "Player1RevealedCards": [
+        {
+          "Id": 109,
+          "Name": "Coeurlregina",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 5,
+          "Down": 5,
+          "Right": 5,
+          "Left": 8
+        },
+        {
+          "Id": 108,
+          "Name": "Vedrfolnir",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 8,
+          "Down": 7,
+          "Right": 2,
+          "Left": 4
+        },
+        {
+          "Id": 38,
+          "Name": "Behemoth",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 7,
+          "Down": 4,
+          "Right": 8,
+          "Left": 2
+        }
+      ],
+      "Player1ConcealedCards": [],
+      "Player2RevealedCards": [
+        {
+          "Id": 22,
+          "Name": "Ultros & Typhon",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 2,
+          "Down": 6,
+          "Right": 3,
+          "Left": 7
+        },
+        {
+          "Id": 67,
+          "Name": "Raubahn Aldynn",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 6,
+          "Down": 9,
+          "Right": 2,
+          "Left": 10
+        }
+      ],
+      "Player2ConcealedCards": [
+        {
+          "Id": 46,
+          "Name": "Thancred",
+          "Rarity": 3,
+          "Family": "Scion",
+          "Up": 2,
+          "Down": 8,
+          "Right": 3,
+          "Left": 7
+        },
+        {
+          "Id": 40,
+          "Name": "Ifrit",
+          "Rarity": 3,
+          "Family": "Primal",
+          "Up": 7,
+          "Down": 6,
+          "Right": 1,
+          "Left": 7
+        },
+        {
+          "Id": 33,
+          "Name": "Biggs & Wedge",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 5,
+          "Down": 7,
+          "Right": 3,
+          "Left": 5
+        },
+        {
+          "Id": 19,
+          "Name": "Tataru Taru",
+          "Rarity": 1,
+          "Family": "Scion",
+          "Up": 7,
+          "Down": 3,
+          "Right": 2,
+          "Left": 2
+        }
+      ],
+      "Ownership": [
+        -1,
+        1,
+        2,
+        2,
+        -1,
+        1,
+        -1,
+        -1,
+        -1
+      ],
+      "Wardenship": [
+        -1,
+        1,
+        1,
+        2,
+        -1,
+        1,
+        -1,
+        -1,
+        -1
+      ],
+      "BoardCards": [
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 50,
+          "Name": "Urianger",
+          "Rarity": 3,
+          "Family": "Scion",
+          "Up": 8,
+          "Down": 4,
+          "Right": 1,
+          "Left": 7
+        },
+        {
+          "Id": 59,
+          "Name": "Alphinaud & Alisaie",
+          "Rarity": 4,
+          "Family": "Scion",
+          "Up": 9,
+          "Down": 3,
+          "Right": 3,
+          "Left": 9
+        },
+        {
+          "Id": 28,
+          "Name": "Momodi Modi",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 7,
+          "Down": 5,
+          "Right": 5,
+          "Left": 3
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 75,
+          "Name": "Squall Leonhart",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 6,
+          "Down": 10,
+          "Right": 10,
+          "Left": 1
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        }
+      ],
+      "IsDeterminized": false
+    },
+    {
+      "StartingPlayer": 2,
+      "Rules": "Chaos",
+      "TurnCount": 5,
+      "RoundState": "Ongoing",
+      "PlayerToMove": 1,
+      "NextPlayerToMove": 2,
+      "Player1RevealedCards": [
+        {
+          "Id": 109,
+          "Name": "Coeurlregina",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 5,
+          "Down": 5,
+          "Right": 5,
+          "Left": 8
+        },
+        {
+          "Id": 108,
+          "Name": "Vedrfolnir",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 8,
+          "Down": 7,
+          "Right": 2,
+          "Left": 4
+        },
+        {
+          "Id": 38,
+          "Name": "Behemoth",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 7,
+          "Down": 4,
+          "Right": 8,
+          "Left": 2
+        }
+      ],
+      "Player1ConcealedCards": [],
+      "Player2RevealedCards": [
+        {
+          "Id": 22,
+          "Name": "Ultros & Typhon",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 2,
+          "Down": 6,
+          "Right": 3,
+          "Left": 7
+        },
+        {
+          "Id": 67,
+          "Name": "Raubahn Aldynn",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 6,
+          "Down": 9,
+          "Right": 2,
+          "Left": 10
+        }
+      ],
+      "Player2ConcealedCards": [],
+      "Ownership": [
+        -1,
+        1,
+        2,
+        2,
+        2,
+        1,
+        -1,
+        -1,
+        -1
+      ],
+      "Wardenship": [
+        -1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        -1,
+        -1,
+        -1
+      ],
+      "BoardCards": [
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 50,
+          "Name": "Urianger",
+          "Rarity": 3,
+          "Family": "Scion",
+          "Up": 8,
+          "Down": 4,
+          "Right": 1,
+          "Left": 7
+        },
+        {
+          "Id": 59,
+          "Name": "Alphinaud & Alisaie",
+          "Rarity": 4,
+          "Family": "Scion",
+          "Up": 9,
+          "Down": 3,
+          "Right": 3,
+          "Left": 9
+        },
+        {
+          "Id": 28,
+          "Name": "Momodi Modi",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 7,
+          "Down": 5,
+          "Right": 5,
+          "Left": 3
+        },
+        {
+          "Id": 46,
+          "Name": "Thancred",
+          "Rarity": 3,
+          "Family": "Scion",
+          "Up": 2,
+          "Down": 8,
+          "Right": 3,
+          "Left": 7
+        },
+        {
+          "Id": 75,
+          "Name": "Squall Leonhart",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 6,
+          "Down": 10,
+          "Right": 10,
+          "Left": 1
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        }
+      ],
+      "IsDeterminized": true
+    },
+    {
+      "StartingPlayer": 2,
+      "Rules": "Chaos",
+      "TurnCount": 6,
+      "RoundState": "Ongoing",
+      "PlayerToMove": 2,
+      "NextPlayerToMove": 1,
+      "Player1RevealedCards": [
+        {
+          "Id": 108,
+          "Name": "Vedrfolnir",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 8,
+          "Down": 7,
+          "Right": 2,
+          "Left": 4
+        },
+        {
+          "Id": 38,
+          "Name": "Behemoth",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 7,
+          "Down": 4,
+          "Right": 8,
+          "Left": 2
+        }
+      ],
+      "Player1ConcealedCards": [],
+      "Player2RevealedCards": [
+        {
+          "Id": 22,
+          "Name": "Ultros & Typhon",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 2,
+          "Down": 6,
+          "Right": 3,
+          "Left": 7
+        },
+        {
+          "Id": 67,
+          "Name": "Raubahn Aldynn",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 6,
+          "Down": 9,
+          "Right": 2,
+          "Left": 10
+        }
+      ],
+      "Player2ConcealedCards": [],
+      "Ownership": [
+        -1,
+        1,
+        2,
+        2,
+        2,
+        1,
+        -1,
+        1,
+        -1
+      ],
+      "Wardenship": [
+        -1,
+        1,
+        1,
+        2,
+        1,
+        2,
+        -1,
+        1,
+        -1
+      ],
+      "BoardCards": [
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 50,
+          "Name": "Urianger",
+          "Rarity": 3,
+          "Family": "Scion",
+          "Up": 8,
+          "Down": 4,
+          "Right": 1,
+          "Left": 7
+        },
+        {
+          "Id": 59,
+          "Name": "Alphinaud & Alisaie",
+          "Rarity": 4,
+          "Family": "Scion",
+          "Up": 9,
+          "Down": 3,
+          "Right": 3,
+          "Left": 9
+        },
+        {
+          "Id": 28,
+          "Name": "Momodi Modi",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 7,
+          "Down": 5,
+          "Right": 5,
+          "Left": 3
+        },
+        {
+          "Id": 46,
+          "Name": "Thancred",
+          "Rarity": 3,
+          "Family": "Scion",
+          "Up": 2,
+          "Down": 8,
+          "Right": 3,
+          "Left": 7
+        },
+        {
+          "Id": 75,
+          "Name": "Squall Leonhart",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 6,
+          "Down": 10,
+          "Right": 10,
+          "Left": 1
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 109,
+          "Name": "Coeurlregina",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 5,
+          "Down": 5,
+          "Right": 5,
+          "Left": 8
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        }
+      ],
+      "IsDeterminized": true
+    },
+    {
+      "StartingPlayer": 2,
+      "Rules": "Chaos",
+      "TurnCount": 7,
+      "RoundState": "Ongoing",
+      "PlayerToMove": 1,
+      "NextPlayerToMove": 2,
+      "Player1RevealedCards": [
+        {
+          "Id": 108,
+          "Name": "Vedrfolnir",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 8,
+          "Down": 7,
+          "Right": 2,
+          "Left": 4
+        },
+        {
+          "Id": 38,
+          "Name": "Behemoth",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 7,
+          "Down": 4,
+          "Right": 8,
+          "Left": 2
+        }
+      ],
+      "Player1ConcealedCards": [],
+      "Player2RevealedCards": [
+        {
+          "Id": 67,
+          "Name": "Raubahn Aldynn",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 6,
+          "Down": 9,
+          "Right": 2,
+          "Left": 10
+        }
+      ],
+      "Player2ConcealedCards": [],
+      "Ownership": [
+        -1,
+        1,
+        2,
+        2,
+        2,
+        1,
+        -1,
+        1,
+        2
+      ],
+      "Wardenship": [
+        -1,
+        1,
+        1,
+        2,
+        1,
+        2,
+        -1,
+        2,
+        2
+      ],
+      "BoardCards": [
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 50,
+          "Name": "Urianger",
+          "Rarity": 3,
+          "Family": "Scion",
+          "Up": 8,
+          "Down": 4,
+          "Right": 1,
+          "Left": 7
+        },
+        {
+          "Id": 59,
+          "Name": "Alphinaud & Alisaie",
+          "Rarity": 4,
+          "Family": "Scion",
+          "Up": 9,
+          "Down": 3,
+          "Right": 3,
+          "Left": 9
+        },
+        {
+          "Id": 28,
+          "Name": "Momodi Modi",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 7,
+          "Down": 5,
+          "Right": 5,
+          "Left": 3
+        },
+        {
+          "Id": 46,
+          "Name": "Thancred",
+          "Rarity": 3,
+          "Family": "Scion",
+          "Up": 2,
+          "Down": 8,
+          "Right": 3,
+          "Left": 7
+        },
+        {
+          "Id": 75,
+          "Name": "Squall Leonhart",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 6,
+          "Down": 10,
+          "Right": 10,
+          "Left": 1
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 109,
+          "Name": "Coeurlregina",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 5,
+          "Down": 5,
+          "Right": 5,
+          "Left": 8
+        },
+        {
+          "Id": 22,
+          "Name": "Ultros & Typhon",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 2,
+          "Down": 6,
+          "Right": 3,
+          "Left": 7
+        }
+      ],
+      "IsDeterminized": true
+    },
+    {
+      "StartingPlayer": 2,
+      "Rules": "Chaos",
+      "TurnCount": 8,
+      "RoundState": "Ongoing",
+      "PlayerToMove": 2,
+      "NextPlayerToMove": 1,
+      "Player1RevealedCards": [
+        {
+          "Id": 108,
+          "Name": "Vedrfolnir",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 8,
+          "Down": 7,
+          "Right": 2,
+          "Left": 4
+        }
+      ],
+      "Player1ConcealedCards": [],
+      "Player2RevealedCards": [
+        {
+          "Id": 67,
+          "Name": "Raubahn Aldynn",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 6,
+          "Down": 9,
+          "Right": 2,
+          "Left": 10
+        }
+      ],
+      "Player2ConcealedCards": [],
+      "Ownership": [
+        -1,
+        1,
+        2,
+        2,
+        2,
+        1,
+        1,
+        1,
+        2
+      ],
+      "Wardenship": [
+        -1,
+        1,
+        1,
+        2,
+        1,
+        2,
+        1,
+        2,
+        2
+      ],
+      "BoardCards": [
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 50,
+          "Name": "Urianger",
+          "Rarity": 3,
+          "Family": "Scion",
+          "Up": 8,
+          "Down": 4,
+          "Right": 1,
+          "Left": 7
+        },
+        {
+          "Id": 59,
+          "Name": "Alphinaud & Alisaie",
+          "Rarity": 4,
+          "Family": "Scion",
+          "Up": 9,
+          "Down": 3,
+          "Right": 3,
+          "Left": 9
+        },
+        {
+          "Id": 28,
+          "Name": "Momodi Modi",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 7,
+          "Down": 5,
+          "Right": 5,
+          "Left": 3
+        },
+        {
+          "Id": 46,
+          "Name": "Thancred",
+          "Rarity": 3,
+          "Family": "Scion",
+          "Up": 2,
+          "Down": 8,
+          "Right": 3,
+          "Left": 7
+        },
+        {
+          "Id": 75,
+          "Name": "Squall Leonhart",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 6,
+          "Down": 10,
+          "Right": 10,
+          "Left": 1
+        },
+        {
+          "Id": 38,
+          "Name": "Behemoth",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 7,
+          "Down": 4,
+          "Right": 8,
+          "Left": 2
+        },
+        {
+          "Id": 109,
+          "Name": "Coeurlregina",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 5,
+          "Down": 5,
+          "Right": 5,
+          "Left": 8
+        },
+        {
+          "Id": 22,
+          "Name": "Ultros & Typhon",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 2,
+          "Down": 6,
+          "Right": 3,
+          "Left": 7
+        }
+      ],
+      "IsDeterminized": true
+    },
+    {
+      "StartingPlayer": 2,
+      "Rules": "Chaos",
+      "TurnCount": 9,
+      "RoundState": "Draw",
+      "PlayerToMove": 1,
+      "NextPlayerToMove": 2,
+      "Player1RevealedCards": [
+        {
+          "Id": 108,
+          "Name": "Vedrfolnir",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 8,
+          "Down": 7,
+          "Right": 2,
+          "Left": 4
+        }
+      ],
+      "Player1ConcealedCards": [],
+      "Player2RevealedCards": [
+        {
+          "Id": 67,
+          "Name": "Raubahn Aldynn",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 6,
+          "Down": 9,
+          "Right": 2,
+          "Left": 10
+        }
+      ],
+      "Player2ConcealedCards": [],
+      "Ownership": [
+        2,
+        1,
+        2,
+        2,
+        2,
+        1,
+        1,
+        1,
+        2
+      ],
+      "Wardenship": [
+        2,
+        1,
+        1,
+        2,
+        1,
+        2,
+        1,
+        2,
+        2
+      ],
+      "BoardCards": [
+        {
+          "Id": 67,
+          "Name": "Raubahn Aldynn",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 6,
+          "Down": 9,
+          "Right": 2,
+          "Left": 10
+        },
+        {
+          "Id": 50,
+          "Name": "Urianger",
+          "Rarity": 3,
+          "Family": "Scion",
+          "Up": 8,
+          "Down": 4,
+          "Right": 1,
+          "Left": 7
+        },
+        {
+          "Id": 59,
+          "Name": "Alphinaud & Alisaie",
+          "Rarity": 4,
+          "Family": "Scion",
+          "Up": 9,
+          "Down": 3,
+          "Right": 3,
+          "Left": 9
+        },
+        {
+          "Id": 28,
+          "Name": "Momodi Modi",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 7,
+          "Down": 5,
+          "Right": 5,
+          "Left": 3
+        },
+        {
+          "Id": 46,
+          "Name": "Thancred",
+          "Rarity": 3,
+          "Family": "Scion",
+          "Up": 2,
+          "Down": 8,
+          "Right": 3,
+          "Left": 7
+        },
+        {
+          "Id": 75,
+          "Name": "Squall Leonhart",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 6,
+          "Down": 10,
+          "Right": 10,
+          "Left": 1
+        },
+        {
+          "Id": 38,
+          "Name": "Behemoth",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 7,
+          "Down": 4,
+          "Right": 8,
+          "Left": 2
+        },
+        {
+          "Id": 109,
+          "Name": "Coeurlregina",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 5,
+          "Down": 5,
+          "Right": 5,
+          "Left": 8
+        },
+        {
+          "Id": 22,
+          "Name": "Ultros & Typhon",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 2,
+          "Down": 6,
+          "Right": 3,
+          "Left": 7
+        }
+      ],
+      "IsDeterminized": true
+    }
+  ]
+}

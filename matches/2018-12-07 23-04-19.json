@@ -1,0 +1,2061 @@
+{
+  "Start": "2018-12-07T23:03:42.6571666-06:00",
+  "End": "2018-12-07T23:04:19.1636734-06:00",
+  "RegionalRule1": "Order",
+  "RegionalRule2": "None",
+  "MatchRule1": "ThreeOpen",
+  "MatchRule2": "None",
+  "Player1Name": "Default",
+  "Player2Name": "F'hobhas",
+  "Player1SelectedDeck": [
+    {
+      "Id": 30,
+      "Name": "Mother Miounne",
+      "Rarity": 2,
+      "Family": "None",
+      "Up": 5,
+      "Down": 3,
+      "Right": 5,
+      "Left": 7
+    },
+    {
+      "Id": 29,
+      "Name": "Baderon Tenfingers",
+      "Rarity": 2,
+      "Family": "None",
+      "Up": 3,
+      "Down": 5,
+      "Right": 7,
+      "Left": 5
+    },
+    {
+      "Id": 28,
+      "Name": "Momodi Modi",
+      "Rarity": 2,
+      "Family": "None",
+      "Up": 7,
+      "Down": 5,
+      "Right": 5,
+      "Left": 3
+    },
+    {
+      "Id": 27,
+      "Name": "Scarface Bugaal Ja",
+      "Rarity": 2,
+      "Family": "Beastman",
+      "Up": 6,
+      "Down": 2,
+      "Right": 6,
+      "Left": 6
+    },
+    {
+      "Id": 70,
+      "Name": "Onion Knight",
+      "Rarity": 5,
+      "Family": "None",
+      "Up": 8,
+      "Down": 8,
+      "Right": 2,
+      "Left": 10
+    }
+  ],
+  "Player2SelectedDeck": [
+    {
+      "Id": 45,
+      "Name": "Godbert Manderville",
+      "Rarity": 3,
+      "Family": "None",
+      "Up": 6,
+      "Down": 5,
+      "Right": 6,
+      "Left": 6
+    },
+    {
+      "Id": 36,
+      "Name": "Mutamix Bubblypots",
+      "Rarity": 2,
+      "Family": "Beastman",
+      "Up": 2,
+      "Down": 6,
+      "Right": 6,
+      "Left": 6
+    },
+    {
+      "Id": 14,
+      "Name": "Amalj'aa",
+      "Rarity": 1,
+      "Family": "Beastman",
+      "Up": 1,
+      "Down": 7,
+      "Right": 4,
+      "Left": 1
+    },
+    {
+      "Id": 23,
+      "Name": "Demon Wall",
+      "Rarity": 2,
+      "Family": "None",
+      "Up": 6,
+      "Down": 2,
+      "Right": 7,
+      "Left": 3
+    },
+    {
+      "Id": 13,
+      "Name": "Chocobo",
+      "Rarity": 1,
+      "Family": "None",
+      "Up": 3,
+      "Down": 2,
+      "Right": 7,
+      "Left": 1
+    },
+    {
+      "Id": 18,
+      "Name": "Sahagin",
+      "Rarity": 1,
+      "Family": "Beastman",
+      "Up": 4,
+      "Down": 3,
+      "Right": 5,
+      "Left": 3
+    },
+    {
+      "Id": 5,
+      "Name": "Pudding",
+      "Rarity": 1,
+      "Family": "None",
+      "Up": 2,
+      "Down": 3,
+      "Right": 4,
+      "Left": 5
+    },
+    {
+      "Id": 6,
+      "Name": "Bomb",
+      "Rarity": 1,
+      "Family": "None",
+      "Up": 3,
+      "Down": 3,
+      "Right": 4,
+      "Left": 3
+    }
+  ],
+  "MoveHistory": [
+    {
+      "Card": {
+        "Id": 45,
+        "Name": "Godbert Manderville",
+        "Rarity": 3,
+        "Family": "None",
+        "Up": 6,
+        "Down": 5,
+        "Right": 6,
+        "Left": 6
+      },
+      "Position": 1
+    },
+    {
+      "Card": {
+        "Id": 30,
+        "Name": "Mother Miounne",
+        "Rarity": 2,
+        "Family": "None",
+        "Up": 5,
+        "Down": 3,
+        "Right": 5,
+        "Left": 7
+      },
+      "Position": 2
+    },
+    {
+      "Card": {
+        "Id": 36,
+        "Name": "Mutamix Bubblypots",
+        "Rarity": 2,
+        "Family": "Beastman",
+        "Up": 2,
+        "Down": 6,
+        "Right": 6,
+        "Left": 6
+      },
+      "Position": 5
+    },
+    {
+      "Card": {
+        "Id": 29,
+        "Name": "Baderon Tenfingers",
+        "Rarity": 2,
+        "Family": "None",
+        "Up": 3,
+        "Down": 5,
+        "Right": 7,
+        "Left": 5
+      },
+      "Position": 8
+    },
+    {
+      "Card": {
+        "Id": 14,
+        "Name": "Amalj'aa",
+        "Rarity": 1,
+        "Family": "Beastman",
+        "Up": 1,
+        "Down": 7,
+        "Right": 4,
+        "Left": 1
+      },
+      "Position": 6
+    },
+    {
+      "Card": {
+        "Id": 28,
+        "Name": "Momodi Modi",
+        "Rarity": 2,
+        "Family": "None",
+        "Up": 7,
+        "Down": 5,
+        "Right": 5,
+        "Left": 3
+      },
+      "Position": 0
+    },
+    {
+      "Card": {
+        "Id": 6,
+        "Name": "Bomb",
+        "Rarity": 1,
+        "Family": "None",
+        "Up": 3,
+        "Down": 3,
+        "Right": 4,
+        "Left": 3
+      },
+      "Position": 3
+    },
+    {
+      "Card": {
+        "Id": 27,
+        "Name": "Scarface Bugaal Ja",
+        "Rarity": 2,
+        "Family": "Beastman",
+        "Up": 6,
+        "Down": 2,
+        "Right": 6,
+        "Left": 6
+      },
+      "Position": 4
+    },
+    {
+      "Card": {
+        "Id": 5,
+        "Name": "Pudding",
+        "Rarity": 1,
+        "Family": "None",
+        "Up": 2,
+        "Down": 3,
+        "Right": 4,
+        "Left": 5
+      },
+      "Position": 7
+    }
+  ],
+  "RoundHistory": [
+    {
+      "StartingPlayer": 2,
+      "Rules": "ThreeOpen, Order",
+      "TurnCount": 1,
+      "RoundState": "Ongoing",
+      "PlayerToMove": 1,
+      "NextPlayerToMove": 2,
+      "Player1RevealedCards": [
+        {
+          "Id": 30,
+          "Name": "Mother Miounne",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 5,
+          "Down": 3,
+          "Right": 5,
+          "Left": 7
+        },
+        {
+          "Id": 29,
+          "Name": "Baderon Tenfingers",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 3,
+          "Down": 5,
+          "Right": 7,
+          "Left": 5
+        },
+        {
+          "Id": 28,
+          "Name": "Momodi Modi",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 7,
+          "Down": 5,
+          "Right": 5,
+          "Left": 3
+        },
+        {
+          "Id": 27,
+          "Name": "Scarface Bugaal Ja",
+          "Rarity": 2,
+          "Family": "Beastman",
+          "Up": 6,
+          "Down": 2,
+          "Right": 6,
+          "Left": 6
+        },
+        {
+          "Id": 70,
+          "Name": "Onion Knight",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 8,
+          "Down": 8,
+          "Right": 2,
+          "Left": 10
+        }
+      ],
+      "Player1ConcealedCards": [],
+      "Player2RevealedCards": [
+        {
+          "Id": 36,
+          "Name": "Mutamix Bubblypots",
+          "Rarity": 2,
+          "Family": "Beastman",
+          "Up": 2,
+          "Down": 6,
+          "Right": 6,
+          "Left": 6
+        },
+        {
+          "Id": 14,
+          "Name": "Amalj'aa",
+          "Rarity": 1,
+          "Family": "Beastman",
+          "Up": 1,
+          "Down": 7,
+          "Right": 4,
+          "Left": 1
+        },
+        {
+          "Id": 5,
+          "Name": "Pudding",
+          "Rarity": 1,
+          "Family": "None",
+          "Up": 2,
+          "Down": 3,
+          "Right": 4,
+          "Left": 5
+        }
+      ],
+      "Player2ConcealedCards": [
+        {
+          "Id": 23,
+          "Name": "Demon Wall",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 6,
+          "Down": 2,
+          "Right": 7,
+          "Left": 3
+        },
+        {
+          "Id": 13,
+          "Name": "Chocobo",
+          "Rarity": 1,
+          "Family": "None",
+          "Up": 3,
+          "Down": 2,
+          "Right": 7,
+          "Left": 1
+        },
+        {
+          "Id": 18,
+          "Name": "Sahagin",
+          "Rarity": 1,
+          "Family": "Beastman",
+          "Up": 4,
+          "Down": 3,
+          "Right": 5,
+          "Left": 3
+        },
+        {
+          "Id": 6,
+          "Name": "Bomb",
+          "Rarity": 1,
+          "Family": "None",
+          "Up": 3,
+          "Down": 3,
+          "Right": 4,
+          "Left": 3
+        }
+      ],
+      "Ownership": [
+        -1,
+        2,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "Wardenship": [
+        -1,
+        2,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "BoardCards": [
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 45,
+          "Name": "Godbert Manderville",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 6,
+          "Down": 5,
+          "Right": 6,
+          "Left": 6
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        }
+      ],
+      "IsDeterminized": false
+    },
+    {
+      "StartingPlayer": 2,
+      "Rules": "ThreeOpen, Order",
+      "TurnCount": 2,
+      "RoundState": "Ongoing",
+      "PlayerToMove": 2,
+      "NextPlayerToMove": 1,
+      "Player1RevealedCards": [
+        {
+          "Id": 29,
+          "Name": "Baderon Tenfingers",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 3,
+          "Down": 5,
+          "Right": 7,
+          "Left": 5
+        },
+        {
+          "Id": 28,
+          "Name": "Momodi Modi",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 7,
+          "Down": 5,
+          "Right": 5,
+          "Left": 3
+        },
+        {
+          "Id": 27,
+          "Name": "Scarface Bugaal Ja",
+          "Rarity": 2,
+          "Family": "Beastman",
+          "Up": 6,
+          "Down": 2,
+          "Right": 6,
+          "Left": 6
+        },
+        {
+          "Id": 70,
+          "Name": "Onion Knight",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 8,
+          "Down": 8,
+          "Right": 2,
+          "Left": 10
+        }
+      ],
+      "Player1ConcealedCards": [],
+      "Player2RevealedCards": [
+        {
+          "Id": 36,
+          "Name": "Mutamix Bubblypots",
+          "Rarity": 2,
+          "Family": "Beastman",
+          "Up": 2,
+          "Down": 6,
+          "Right": 6,
+          "Left": 6
+        },
+        {
+          "Id": 14,
+          "Name": "Amalj'aa",
+          "Rarity": 1,
+          "Family": "Beastman",
+          "Up": 1,
+          "Down": 7,
+          "Right": 4,
+          "Left": 1
+        },
+        {
+          "Id": 5,
+          "Name": "Pudding",
+          "Rarity": 1,
+          "Family": "None",
+          "Up": 2,
+          "Down": 3,
+          "Right": 4,
+          "Left": 5
+        }
+      ],
+      "Player2ConcealedCards": [
+        {
+          "Id": 23,
+          "Name": "Demon Wall",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 6,
+          "Down": 2,
+          "Right": 7,
+          "Left": 3
+        },
+        {
+          "Id": 13,
+          "Name": "Chocobo",
+          "Rarity": 1,
+          "Family": "None",
+          "Up": 3,
+          "Down": 2,
+          "Right": 7,
+          "Left": 1
+        },
+        {
+          "Id": 18,
+          "Name": "Sahagin",
+          "Rarity": 1,
+          "Family": "Beastman",
+          "Up": 4,
+          "Down": 3,
+          "Right": 5,
+          "Left": 3
+        },
+        {
+          "Id": 6,
+          "Name": "Bomb",
+          "Rarity": 1,
+          "Family": "None",
+          "Up": 3,
+          "Down": 3,
+          "Right": 4,
+          "Left": 3
+        }
+      ],
+      "Ownership": [
+        -1,
+        2,
+        1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "Wardenship": [
+        -1,
+        1,
+        1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "BoardCards": [
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 45,
+          "Name": "Godbert Manderville",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 6,
+          "Down": 5,
+          "Right": 6,
+          "Left": 6
+        },
+        {
+          "Id": 30,
+          "Name": "Mother Miounne",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 5,
+          "Down": 3,
+          "Right": 5,
+          "Left": 7
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        }
+      ],
+      "IsDeterminized": false
+    },
+    {
+      "StartingPlayer": 2,
+      "Rules": "ThreeOpen, Order",
+      "TurnCount": 3,
+      "RoundState": "Ongoing",
+      "PlayerToMove": 1,
+      "NextPlayerToMove": 2,
+      "Player1RevealedCards": [
+        {
+          "Id": 29,
+          "Name": "Baderon Tenfingers",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 3,
+          "Down": 5,
+          "Right": 7,
+          "Left": 5
+        },
+        {
+          "Id": 28,
+          "Name": "Momodi Modi",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 7,
+          "Down": 5,
+          "Right": 5,
+          "Left": 3
+        },
+        {
+          "Id": 27,
+          "Name": "Scarface Bugaal Ja",
+          "Rarity": 2,
+          "Family": "Beastman",
+          "Up": 6,
+          "Down": 2,
+          "Right": 6,
+          "Left": 6
+        },
+        {
+          "Id": 70,
+          "Name": "Onion Knight",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 8,
+          "Down": 8,
+          "Right": 2,
+          "Left": 10
+        }
+      ],
+      "Player1ConcealedCards": [],
+      "Player2RevealedCards": [
+        {
+          "Id": 14,
+          "Name": "Amalj'aa",
+          "Rarity": 1,
+          "Family": "Beastman",
+          "Up": 1,
+          "Down": 7,
+          "Right": 4,
+          "Left": 1
+        },
+        {
+          "Id": 5,
+          "Name": "Pudding",
+          "Rarity": 1,
+          "Family": "None",
+          "Up": 2,
+          "Down": 3,
+          "Right": 4,
+          "Left": 5
+        }
+      ],
+      "Player2ConcealedCards": [
+        {
+          "Id": 23,
+          "Name": "Demon Wall",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 6,
+          "Down": 2,
+          "Right": 7,
+          "Left": 3
+        },
+        {
+          "Id": 13,
+          "Name": "Chocobo",
+          "Rarity": 1,
+          "Family": "None",
+          "Up": 3,
+          "Down": 2,
+          "Right": 7,
+          "Left": 1
+        },
+        {
+          "Id": 18,
+          "Name": "Sahagin",
+          "Rarity": 1,
+          "Family": "Beastman",
+          "Up": 4,
+          "Down": 3,
+          "Right": 5,
+          "Left": 3
+        },
+        {
+          "Id": 6,
+          "Name": "Bomb",
+          "Rarity": 1,
+          "Family": "None",
+          "Up": 3,
+          "Down": 3,
+          "Right": 4,
+          "Left": 3
+        }
+      ],
+      "Ownership": [
+        -1,
+        2,
+        1,
+        -1,
+        -1,
+        2,
+        -1,
+        -1,
+        -1
+      ],
+      "Wardenship": [
+        -1,
+        1,
+        2,
+        -1,
+        -1,
+        2,
+        -1,
+        -1,
+        -1
+      ],
+      "BoardCards": [
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 45,
+          "Name": "Godbert Manderville",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 6,
+          "Down": 5,
+          "Right": 6,
+          "Left": 6
+        },
+        {
+          "Id": 30,
+          "Name": "Mother Miounne",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 5,
+          "Down": 3,
+          "Right": 5,
+          "Left": 7
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 36,
+          "Name": "Mutamix Bubblypots",
+          "Rarity": 2,
+          "Family": "Beastman",
+          "Up": 2,
+          "Down": 6,
+          "Right": 6,
+          "Left": 6
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        }
+      ],
+      "IsDeterminized": false
+    },
+    {
+      "StartingPlayer": 2,
+      "Rules": "ThreeOpen, Order",
+      "TurnCount": 4,
+      "RoundState": "Ongoing",
+      "PlayerToMove": 2,
+      "NextPlayerToMove": 1,
+      "Player1RevealedCards": [
+        {
+          "Id": 28,
+          "Name": "Momodi Modi",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 7,
+          "Down": 5,
+          "Right": 5,
+          "Left": 3
+        },
+        {
+          "Id": 27,
+          "Name": "Scarface Bugaal Ja",
+          "Rarity": 2,
+          "Family": "Beastman",
+          "Up": 6,
+          "Down": 2,
+          "Right": 6,
+          "Left": 6
+        },
+        {
+          "Id": 70,
+          "Name": "Onion Knight",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 8,
+          "Down": 8,
+          "Right": 2,
+          "Left": 10
+        }
+      ],
+      "Player1ConcealedCards": [],
+      "Player2RevealedCards": [
+        {
+          "Id": 14,
+          "Name": "Amalj'aa",
+          "Rarity": 1,
+          "Family": "Beastman",
+          "Up": 1,
+          "Down": 7,
+          "Right": 4,
+          "Left": 1
+        },
+        {
+          "Id": 5,
+          "Name": "Pudding",
+          "Rarity": 1,
+          "Family": "None",
+          "Up": 2,
+          "Down": 3,
+          "Right": 4,
+          "Left": 5
+        }
+      ],
+      "Player2ConcealedCards": [
+        {
+          "Id": 23,
+          "Name": "Demon Wall",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 6,
+          "Down": 2,
+          "Right": 7,
+          "Left": 3
+        },
+        {
+          "Id": 13,
+          "Name": "Chocobo",
+          "Rarity": 1,
+          "Family": "None",
+          "Up": 3,
+          "Down": 2,
+          "Right": 7,
+          "Left": 1
+        },
+        {
+          "Id": 18,
+          "Name": "Sahagin",
+          "Rarity": 1,
+          "Family": "Beastman",
+          "Up": 4,
+          "Down": 3,
+          "Right": 5,
+          "Left": 3
+        },
+        {
+          "Id": 6,
+          "Name": "Bomb",
+          "Rarity": 1,
+          "Family": "None",
+          "Up": 3,
+          "Down": 3,
+          "Right": 4,
+          "Left": 3
+        }
+      ],
+      "Ownership": [
+        -1,
+        2,
+        1,
+        -1,
+        -1,
+        2,
+        -1,
+        -1,
+        1
+      ],
+      "Wardenship": [
+        -1,
+        1,
+        2,
+        -1,
+        -1,
+        1,
+        -1,
+        -1,
+        1
+      ],
+      "BoardCards": [
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 45,
+          "Name": "Godbert Manderville",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 6,
+          "Down": 5,
+          "Right": 6,
+          "Left": 6
+        },
+        {
+          "Id": 30,
+          "Name": "Mother Miounne",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 5,
+          "Down": 3,
+          "Right": 5,
+          "Left": 7
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 36,
+          "Name": "Mutamix Bubblypots",
+          "Rarity": 2,
+          "Family": "Beastman",
+          "Up": 2,
+          "Down": 6,
+          "Right": 6,
+          "Left": 6
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 29,
+          "Name": "Baderon Tenfingers",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 3,
+          "Down": 5,
+          "Right": 7,
+          "Left": 5
+        }
+      ],
+      "IsDeterminized": false
+    },
+    {
+      "StartingPlayer": 2,
+      "Rules": "ThreeOpen, Order",
+      "TurnCount": 5,
+      "RoundState": "Ongoing",
+      "PlayerToMove": 1,
+      "NextPlayerToMove": 2,
+      "Player1RevealedCards": [
+        {
+          "Id": 28,
+          "Name": "Momodi Modi",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 7,
+          "Down": 5,
+          "Right": 5,
+          "Left": 3
+        },
+        {
+          "Id": 27,
+          "Name": "Scarface Bugaal Ja",
+          "Rarity": 2,
+          "Family": "Beastman",
+          "Up": 6,
+          "Down": 2,
+          "Right": 6,
+          "Left": 6
+        },
+        {
+          "Id": 70,
+          "Name": "Onion Knight",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 8,
+          "Down": 8,
+          "Right": 2,
+          "Left": 10
+        }
+      ],
+      "Player1ConcealedCards": [],
+      "Player2RevealedCards": [
+        {
+          "Id": 5,
+          "Name": "Pudding",
+          "Rarity": 1,
+          "Family": "None",
+          "Up": 2,
+          "Down": 3,
+          "Right": 4,
+          "Left": 5
+        }
+      ],
+      "Player2ConcealedCards": [
+        {
+          "Id": 23,
+          "Name": "Demon Wall",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 6,
+          "Down": 2,
+          "Right": 7,
+          "Left": 3
+        },
+        {
+          "Id": 13,
+          "Name": "Chocobo",
+          "Rarity": 1,
+          "Family": "None",
+          "Up": 3,
+          "Down": 2,
+          "Right": 7,
+          "Left": 1
+        },
+        {
+          "Id": 18,
+          "Name": "Sahagin",
+          "Rarity": 1,
+          "Family": "Beastman",
+          "Up": 4,
+          "Down": 3,
+          "Right": 5,
+          "Left": 3
+        },
+        {
+          "Id": 6,
+          "Name": "Bomb",
+          "Rarity": 1,
+          "Family": "None",
+          "Up": 3,
+          "Down": 3,
+          "Right": 4,
+          "Left": 3
+        }
+      ],
+      "Ownership": [
+        -1,
+        2,
+        1,
+        -1,
+        -1,
+        2,
+        2,
+        -1,
+        1
+      ],
+      "Wardenship": [
+        -1,
+        1,
+        2,
+        -1,
+        -1,
+        1,
+        2,
+        -1,
+        1
+      ],
+      "BoardCards": [
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 45,
+          "Name": "Godbert Manderville",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 6,
+          "Down": 5,
+          "Right": 6,
+          "Left": 6
+        },
+        {
+          "Id": 30,
+          "Name": "Mother Miounne",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 5,
+          "Down": 3,
+          "Right": 5,
+          "Left": 7
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 36,
+          "Name": "Mutamix Bubblypots",
+          "Rarity": 2,
+          "Family": "Beastman",
+          "Up": 2,
+          "Down": 6,
+          "Right": 6,
+          "Left": 6
+        },
+        {
+          "Id": 14,
+          "Name": "Amalj'aa",
+          "Rarity": 1,
+          "Family": "Beastman",
+          "Up": 1,
+          "Down": 7,
+          "Right": 4,
+          "Left": 1
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 29,
+          "Name": "Baderon Tenfingers",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 3,
+          "Down": 5,
+          "Right": 7,
+          "Left": 5
+        }
+      ],
+      "IsDeterminized": false
+    },
+    {
+      "StartingPlayer": 2,
+      "Rules": "ThreeOpen, Order",
+      "TurnCount": 6,
+      "RoundState": "Ongoing",
+      "PlayerToMove": 2,
+      "NextPlayerToMove": 1,
+      "Player1RevealedCards": [
+        {
+          "Id": 27,
+          "Name": "Scarface Bugaal Ja",
+          "Rarity": 2,
+          "Family": "Beastman",
+          "Up": 6,
+          "Down": 2,
+          "Right": 6,
+          "Left": 6
+        },
+        {
+          "Id": 70,
+          "Name": "Onion Knight",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 8,
+          "Down": 8,
+          "Right": 2,
+          "Left": 10
+        }
+      ],
+      "Player1ConcealedCards": [],
+      "Player2RevealedCards": [
+        {
+          "Id": 5,
+          "Name": "Pudding",
+          "Rarity": 1,
+          "Family": "None",
+          "Up": 2,
+          "Down": 3,
+          "Right": 4,
+          "Left": 5
+        }
+      ],
+      "Player2ConcealedCards": [
+        {
+          "Id": 23,
+          "Name": "Demon Wall",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 6,
+          "Down": 2,
+          "Right": 7,
+          "Left": 3
+        },
+        {
+          "Id": 13,
+          "Name": "Chocobo",
+          "Rarity": 1,
+          "Family": "None",
+          "Up": 3,
+          "Down": 2,
+          "Right": 7,
+          "Left": 1
+        },
+        {
+          "Id": 18,
+          "Name": "Sahagin",
+          "Rarity": 1,
+          "Family": "Beastman",
+          "Up": 4,
+          "Down": 3,
+          "Right": 5,
+          "Left": 3
+        },
+        {
+          "Id": 6,
+          "Name": "Bomb",
+          "Rarity": 1,
+          "Family": "None",
+          "Up": 3,
+          "Down": 3,
+          "Right": 4,
+          "Left": 3
+        }
+      ],
+      "Ownership": [
+        1,
+        2,
+        1,
+        -1,
+        -1,
+        2,
+        2,
+        -1,
+        1
+      ],
+      "Wardenship": [
+        1,
+        1,
+        2,
+        -1,
+        -1,
+        1,
+        2,
+        -1,
+        1
+      ],
+      "BoardCards": [
+        {
+          "Id": 28,
+          "Name": "Momodi Modi",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 7,
+          "Down": 5,
+          "Right": 5,
+          "Left": 3
+        },
+        {
+          "Id": 45,
+          "Name": "Godbert Manderville",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 6,
+          "Down": 5,
+          "Right": 6,
+          "Left": 6
+        },
+        {
+          "Id": 30,
+          "Name": "Mother Miounne",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 5,
+          "Down": 3,
+          "Right": 5,
+          "Left": 7
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 36,
+          "Name": "Mutamix Bubblypots",
+          "Rarity": 2,
+          "Family": "Beastman",
+          "Up": 2,
+          "Down": 6,
+          "Right": 6,
+          "Left": 6
+        },
+        {
+          "Id": 14,
+          "Name": "Amalj'aa",
+          "Rarity": 1,
+          "Family": "Beastman",
+          "Up": 1,
+          "Down": 7,
+          "Right": 4,
+          "Left": 1
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 29,
+          "Name": "Baderon Tenfingers",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 3,
+          "Down": 5,
+          "Right": 7,
+          "Left": 5
+        }
+      ],
+      "IsDeterminized": false
+    },
+    {
+      "StartingPlayer": 2,
+      "Rules": "ThreeOpen, Order",
+      "TurnCount": 7,
+      "RoundState": "Ongoing",
+      "PlayerToMove": 1,
+      "NextPlayerToMove": 2,
+      "Player1RevealedCards": [
+        {
+          "Id": 27,
+          "Name": "Scarface Bugaal Ja",
+          "Rarity": 2,
+          "Family": "Beastman",
+          "Up": 6,
+          "Down": 2,
+          "Right": 6,
+          "Left": 6
+        },
+        {
+          "Id": 70,
+          "Name": "Onion Knight",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 8,
+          "Down": 8,
+          "Right": 2,
+          "Left": 10
+        }
+      ],
+      "Player1ConcealedCards": [],
+      "Player2RevealedCards": [
+        {
+          "Id": 5,
+          "Name": "Pudding",
+          "Rarity": 1,
+          "Family": "None",
+          "Up": 2,
+          "Down": 3,
+          "Right": 4,
+          "Left": 5
+        }
+      ],
+      "Player2ConcealedCards": [],
+      "Ownership": [
+        1,
+        2,
+        1,
+        2,
+        -1,
+        2,
+        2,
+        -1,
+        1
+      ],
+      "Wardenship": [
+        1,
+        1,
+        2,
+        2,
+        -1,
+        1,
+        2,
+        -1,
+        1
+      ],
+      "BoardCards": [
+        {
+          "Id": 28,
+          "Name": "Momodi Modi",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 7,
+          "Down": 5,
+          "Right": 5,
+          "Left": 3
+        },
+        {
+          "Id": 45,
+          "Name": "Godbert Manderville",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 6,
+          "Down": 5,
+          "Right": 6,
+          "Left": 6
+        },
+        {
+          "Id": 30,
+          "Name": "Mother Miounne",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 5,
+          "Down": 3,
+          "Right": 5,
+          "Left": 7
+        },
+        {
+          "Id": 6,
+          "Name": "Bomb",
+          "Rarity": 1,
+          "Family": "None",
+          "Up": 3,
+          "Down": 3,
+          "Right": 4,
+          "Left": 3
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 36,
+          "Name": "Mutamix Bubblypots",
+          "Rarity": 2,
+          "Family": "Beastman",
+          "Up": 2,
+          "Down": 6,
+          "Right": 6,
+          "Left": 6
+        },
+        {
+          "Id": 14,
+          "Name": "Amalj'aa",
+          "Rarity": 1,
+          "Family": "Beastman",
+          "Up": 1,
+          "Down": 7,
+          "Right": 4,
+          "Left": 1
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 29,
+          "Name": "Baderon Tenfingers",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 3,
+          "Down": 5,
+          "Right": 7,
+          "Left": 5
+        }
+      ],
+      "IsDeterminized": true
+    },
+    {
+      "StartingPlayer": 2,
+      "Rules": "ThreeOpen, Order",
+      "TurnCount": 8,
+      "RoundState": "Ongoing",
+      "PlayerToMove": 2,
+      "NextPlayerToMove": 1,
+      "Player1RevealedCards": [
+        {
+          "Id": 70,
+          "Name": "Onion Knight",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 8,
+          "Down": 8,
+          "Right": 2,
+          "Left": 10
+        }
+      ],
+      "Player1ConcealedCards": [],
+      "Player2RevealedCards": [
+        {
+          "Id": 5,
+          "Name": "Pudding",
+          "Rarity": 1,
+          "Family": "None",
+          "Up": 2,
+          "Down": 3,
+          "Right": 4,
+          "Left": 5
+        }
+      ],
+      "Player2ConcealedCards": [],
+      "Ownership": [
+        1,
+        2,
+        1,
+        2,
+        1,
+        2,
+        2,
+        -1,
+        1
+      ],
+      "Wardenship": [
+        1,
+        1,
+        2,
+        1,
+        1,
+        1,
+        2,
+        -1,
+        1
+      ],
+      "BoardCards": [
+        {
+          "Id": 28,
+          "Name": "Momodi Modi",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 7,
+          "Down": 5,
+          "Right": 5,
+          "Left": 3
+        },
+        {
+          "Id": 45,
+          "Name": "Godbert Manderville",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 6,
+          "Down": 5,
+          "Right": 6,
+          "Left": 6
+        },
+        {
+          "Id": 30,
+          "Name": "Mother Miounne",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 5,
+          "Down": 3,
+          "Right": 5,
+          "Left": 7
+        },
+        {
+          "Id": 6,
+          "Name": "Bomb",
+          "Rarity": 1,
+          "Family": "None",
+          "Up": 3,
+          "Down": 3,
+          "Right": 4,
+          "Left": 3
+        },
+        {
+          "Id": 27,
+          "Name": "Scarface Bugaal Ja",
+          "Rarity": 2,
+          "Family": "Beastman",
+          "Up": 6,
+          "Down": 2,
+          "Right": 6,
+          "Left": 6
+        },
+        {
+          "Id": 36,
+          "Name": "Mutamix Bubblypots",
+          "Rarity": 2,
+          "Family": "Beastman",
+          "Up": 2,
+          "Down": 6,
+          "Right": 6,
+          "Left": 6
+        },
+        {
+          "Id": 14,
+          "Name": "Amalj'aa",
+          "Rarity": 1,
+          "Family": "Beastman",
+          "Up": 1,
+          "Down": 7,
+          "Right": 4,
+          "Left": 1
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 29,
+          "Name": "Baderon Tenfingers",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 3,
+          "Down": 5,
+          "Right": 7,
+          "Left": 5
+        }
+      ],
+      "IsDeterminized": true
+    },
+    {
+      "StartingPlayer": 2,
+      "Rules": "ThreeOpen, Order",
+      "TurnCount": 9,
+      "RoundState": "Player1Win",
+      "PlayerToMove": 1,
+      "NextPlayerToMove": 2,
+      "Player1RevealedCards": [
+        {
+          "Id": 70,
+          "Name": "Onion Knight",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 8,
+          "Down": 8,
+          "Right": 2,
+          "Left": 10
+        }
+      ],
+      "Player1ConcealedCards": [],
+      "Player2RevealedCards": [],
+      "Player2ConcealedCards": [],
+      "Ownership": [
+        1,
+        2,
+        1,
+        2,
+        1,
+        2,
+        2,
+        2,
+        1
+      ],
+      "Wardenship": [
+        1,
+        1,
+        2,
+        1,
+        1,
+        1,
+        2,
+        2,
+        1
+      ],
+      "BoardCards": [
+        {
+          "Id": 28,
+          "Name": "Momodi Modi",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 7,
+          "Down": 5,
+          "Right": 5,
+          "Left": 3
+        },
+        {
+          "Id": 45,
+          "Name": "Godbert Manderville",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 6,
+          "Down": 5,
+          "Right": 6,
+          "Left": 6
+        },
+        {
+          "Id": 30,
+          "Name": "Mother Miounne",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 5,
+          "Down": 3,
+          "Right": 5,
+          "Left": 7
+        },
+        {
+          "Id": 6,
+          "Name": "Bomb",
+          "Rarity": 1,
+          "Family": "None",
+          "Up": 3,
+          "Down": 3,
+          "Right": 4,
+          "Left": 3
+        },
+        {
+          "Id": 27,
+          "Name": "Scarface Bugaal Ja",
+          "Rarity": 2,
+          "Family": "Beastman",
+          "Up": 6,
+          "Down": 2,
+          "Right": 6,
+          "Left": 6
+        },
+        {
+          "Id": 36,
+          "Name": "Mutamix Bubblypots",
+          "Rarity": 2,
+          "Family": "Beastman",
+          "Up": 2,
+          "Down": 6,
+          "Right": 6,
+          "Left": 6
+        },
+        {
+          "Id": 14,
+          "Name": "Amalj'aa",
+          "Rarity": 1,
+          "Family": "Beastman",
+          "Up": 1,
+          "Down": 7,
+          "Right": 4,
+          "Left": 1
+        },
+        {
+          "Id": 5,
+          "Name": "Pudding",
+          "Rarity": 1,
+          "Family": "None",
+          "Up": 2,
+          "Down": 3,
+          "Right": 4,
+          "Left": 5
+        },
+        {
+          "Id": 29,
+          "Name": "Baderon Tenfingers",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 3,
+          "Down": 5,
+          "Right": 7,
+          "Left": 5
+        }
+      ],
+      "IsDeterminized": true
+    }
+  ]
+}

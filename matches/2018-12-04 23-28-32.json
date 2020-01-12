@@ -1,0 +1,2052 @@
+{
+  "Start": "2018-12-04T23:25:54.8462533-06:00",
+  "End": "2018-12-04T23:28:32.9864005-06:00",
+  "RegionalRule1": "None",
+  "RegionalRule2": "None",
+  "MatchRule1": "None",
+  "MatchRule2": "None",
+  "Player1Name": "Default",
+  "Player2Name": "Aurifort of the Three Clubs",
+  "Player1SelectedDeck": [
+    {
+      "Id": 30,
+      "Name": "Mother Miounne",
+      "Rarity": 2,
+      "Family": "None",
+      "Up": 5,
+      "Down": 3,
+      "Right": 5,
+      "Left": 7
+    },
+    {
+      "Id": 29,
+      "Name": "Baderon Tenfingers",
+      "Rarity": 2,
+      "Family": "None",
+      "Up": 3,
+      "Down": 5,
+      "Right": 7,
+      "Left": 5
+    },
+    {
+      "Id": 28,
+      "Name": "Momodi Modi",
+      "Rarity": 2,
+      "Family": "None",
+      "Up": 7,
+      "Down": 5,
+      "Right": 5,
+      "Left": 3
+    },
+    {
+      "Id": 27,
+      "Name": "Scarface Bugaal Ja",
+      "Rarity": 2,
+      "Family": "Beastman",
+      "Up": 6,
+      "Down": 2,
+      "Right": 6,
+      "Left": 6
+    },
+    {
+      "Id": 70,
+      "Name": "Onion Knight",
+      "Rarity": 5,
+      "Family": "None",
+      "Up": 8,
+      "Down": 8,
+      "Right": 2,
+      "Left": 10
+    }
+  ],
+  "Player2SelectedDeck": [
+    {
+      "Id": 51,
+      "Name": "Ultima Weapon",
+      "Rarity": 4,
+      "Family": "Garlean",
+      "Up": 7,
+      "Down": 9,
+      "Right": 8,
+      "Left": 1
+    },
+    {
+      "Id": 24,
+      "Name": "Succubus",
+      "Rarity": 2,
+      "Family": "None",
+      "Up": 7,
+      "Down": 2,
+      "Right": 3,
+      "Left": 6
+    },
+    {
+      "Id": 37,
+      "Name": "Memeroon",
+      "Rarity": 2,
+      "Family": "Beastman",
+      "Up": 6,
+      "Down": 6,
+      "Right": 6,
+      "Left": 2
+    },
+    {
+      "Id": 27,
+      "Name": "Scarface Bugaal Ja",
+      "Rarity": 2,
+      "Family": "Beastman",
+      "Up": 6,
+      "Down": 2,
+      "Right": 6,
+      "Left": 6
+    },
+    {
+      "Id": 20,
+      "Name": "Moogle",
+      "Rarity": 1,
+      "Family": "Beastman",
+      "Up": 2,
+      "Down": 3,
+      "Right": 1,
+      "Left": 7
+    },
+    {
+      "Id": 16,
+      "Name": "Sylph",
+      "Rarity": 1,
+      "Family": "Beastman",
+      "Up": 2,
+      "Down": 5,
+      "Right": 4,
+      "Left": 4
+    },
+    {
+      "Id": 12,
+      "Name": "Goobbue",
+      "Rarity": 1,
+      "Family": "None",
+      "Up": 2,
+      "Down": 5,
+      "Right": 5,
+      "Left": 2
+    }
+  ],
+  "MoveHistory": [
+    {
+      "Card": {
+        "Id": 27,
+        "Name": "Scarface Bugaal Ja",
+        "Rarity": 2,
+        "Family": "Beastman",
+        "Up": 6,
+        "Down": 2,
+        "Right": 6,
+        "Left": 6
+      },
+      "Position": 2
+    },
+    {
+      "Card": {
+        "Id": 27,
+        "Name": "Scarface Bugaal Ja",
+        "Rarity": 2,
+        "Family": "Beastman",
+        "Up": 6,
+        "Down": 2,
+        "Right": 6,
+        "Left": 6
+      },
+      "Position": 4
+    },
+    {
+      "Card": {
+        "Id": 70,
+        "Name": "Onion Knight",
+        "Rarity": 5,
+        "Family": "None",
+        "Up": 8,
+        "Down": 8,
+        "Right": 2,
+        "Left": 10
+      },
+      "Position": 1
+    },
+    {
+      "Card": {
+        "Id": 51,
+        "Name": "Ultima Weapon",
+        "Rarity": 4,
+        "Family": "Garlean",
+        "Up": 7,
+        "Down": 9,
+        "Right": 8,
+        "Left": 1
+      },
+      "Position": 3
+    },
+    {
+      "Card": {
+        "Id": 30,
+        "Name": "Mother Miounne",
+        "Rarity": 2,
+        "Family": "None",
+        "Up": 5,
+        "Down": 3,
+        "Right": 5,
+        "Left": 7
+      },
+      "Position": 5
+    },
+    {
+      "Card": {
+        "Id": 24,
+        "Name": "Succubus",
+        "Rarity": 2,
+        "Family": "None",
+        "Up": 7,
+        "Down": 2,
+        "Right": 3,
+        "Left": 6
+      },
+      "Position": 8
+    },
+    {
+      "Card": {
+        "Id": 29,
+        "Name": "Baderon Tenfingers",
+        "Rarity": 2,
+        "Family": "None",
+        "Up": 3,
+        "Down": 5,
+        "Right": 7,
+        "Left": 5
+      },
+      "Position": 7
+    },
+    {
+      "Card": {
+        "Id": 37,
+        "Name": "Memeroon",
+        "Rarity": 2,
+        "Family": "Beastman",
+        "Up": 6,
+        "Down": 6,
+        "Right": 6,
+        "Left": 2
+      },
+      "Position": 6
+    },
+    {
+      "Card": {
+        "Id": 28,
+        "Name": "Momodi Modi",
+        "Rarity": 2,
+        "Family": "None",
+        "Up": 7,
+        "Down": 5,
+        "Right": 5,
+        "Left": 3
+      },
+      "Position": 0
+    }
+  ],
+  "RoundHistory": [
+    {
+      "StartingPlayer": 1,
+      "Rules": "None",
+      "TurnCount": 1,
+      "RoundState": "Ongoing",
+      "PlayerToMove": 2,
+      "NextPlayerToMove": 1,
+      "Player1RevealedCards": [
+        {
+          "Id": 30,
+          "Name": "Mother Miounne",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 5,
+          "Down": 3,
+          "Right": 5,
+          "Left": 7
+        },
+        {
+          "Id": 29,
+          "Name": "Baderon Tenfingers",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 3,
+          "Down": 5,
+          "Right": 7,
+          "Left": 5
+        },
+        {
+          "Id": 28,
+          "Name": "Momodi Modi",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 7,
+          "Down": 5,
+          "Right": 5,
+          "Left": 3
+        },
+        {
+          "Id": 70,
+          "Name": "Onion Knight",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 8,
+          "Down": 8,
+          "Right": 2,
+          "Left": 10
+        }
+      ],
+      "Player1ConcealedCards": [],
+      "Player2RevealedCards": [
+        {
+          "Id": 51,
+          "Name": "Ultima Weapon",
+          "Rarity": 4,
+          "Family": "Garlean",
+          "Up": 7,
+          "Down": 9,
+          "Right": 8,
+          "Left": 1
+        },
+        {
+          "Id": 24,
+          "Name": "Succubus",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 7,
+          "Down": 2,
+          "Right": 3,
+          "Left": 6
+        },
+        {
+          "Id": 37,
+          "Name": "Memeroon",
+          "Rarity": 2,
+          "Family": "Beastman",
+          "Up": 6,
+          "Down": 6,
+          "Right": 6,
+          "Left": 2
+        }
+      ],
+      "Player2ConcealedCards": [
+        {
+          "Id": 27,
+          "Name": "Scarface Bugaal Ja",
+          "Rarity": 2,
+          "Family": "Beastman",
+          "Up": 6,
+          "Down": 2,
+          "Right": 6,
+          "Left": 6
+        },
+        {
+          "Id": 20,
+          "Name": "Moogle",
+          "Rarity": 1,
+          "Family": "Beastman",
+          "Up": 2,
+          "Down": 3,
+          "Right": 1,
+          "Left": 7
+        },
+        {
+          "Id": 16,
+          "Name": "Sylph",
+          "Rarity": 1,
+          "Family": "Beastman",
+          "Up": 2,
+          "Down": 5,
+          "Right": 4,
+          "Left": 4
+        },
+        {
+          "Id": 12,
+          "Name": "Goobbue",
+          "Rarity": 1,
+          "Family": "None",
+          "Up": 2,
+          "Down": 5,
+          "Right": 5,
+          "Left": 2
+        }
+      ],
+      "Ownership": [
+        -1,
+        -1,
+        1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "Wardenship": [
+        -1,
+        -1,
+        1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "BoardCards": [
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 27,
+          "Name": "Scarface Bugaal Ja",
+          "Rarity": 2,
+          "Family": "Beastman",
+          "Up": 6,
+          "Down": 2,
+          "Right": 6,
+          "Left": 6
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        }
+      ],
+      "IsDeterminized": false
+    },
+    {
+      "StartingPlayer": 1,
+      "Rules": "None",
+      "TurnCount": 2,
+      "RoundState": "Ongoing",
+      "PlayerToMove": 1,
+      "NextPlayerToMove": 2,
+      "Player1RevealedCards": [
+        {
+          "Id": 30,
+          "Name": "Mother Miounne",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 5,
+          "Down": 3,
+          "Right": 5,
+          "Left": 7
+        },
+        {
+          "Id": 29,
+          "Name": "Baderon Tenfingers",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 3,
+          "Down": 5,
+          "Right": 7,
+          "Left": 5
+        },
+        {
+          "Id": 28,
+          "Name": "Momodi Modi",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 7,
+          "Down": 5,
+          "Right": 5,
+          "Left": 3
+        },
+        {
+          "Id": 70,
+          "Name": "Onion Knight",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 8,
+          "Down": 8,
+          "Right": 2,
+          "Left": 10
+        }
+      ],
+      "Player1ConcealedCards": [],
+      "Player2RevealedCards": [
+        {
+          "Id": 51,
+          "Name": "Ultima Weapon",
+          "Rarity": 4,
+          "Family": "Garlean",
+          "Up": 7,
+          "Down": 9,
+          "Right": 8,
+          "Left": 1
+        },
+        {
+          "Id": 24,
+          "Name": "Succubus",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 7,
+          "Down": 2,
+          "Right": 3,
+          "Left": 6
+        },
+        {
+          "Id": 37,
+          "Name": "Memeroon",
+          "Rarity": 2,
+          "Family": "Beastman",
+          "Up": 6,
+          "Down": 6,
+          "Right": 6,
+          "Left": 2
+        }
+      ],
+      "Player2ConcealedCards": [
+        {
+          "Id": 20,
+          "Name": "Moogle",
+          "Rarity": 1,
+          "Family": "Beastman",
+          "Up": 2,
+          "Down": 3,
+          "Right": 1,
+          "Left": 7
+        },
+        {
+          "Id": 16,
+          "Name": "Sylph",
+          "Rarity": 1,
+          "Family": "Beastman",
+          "Up": 2,
+          "Down": 5,
+          "Right": 4,
+          "Left": 4
+        },
+        {
+          "Id": 12,
+          "Name": "Goobbue",
+          "Rarity": 1,
+          "Family": "None",
+          "Up": 2,
+          "Down": 5,
+          "Right": 5,
+          "Left": 2
+        }
+      ],
+      "Ownership": [
+        -1,
+        -1,
+        1,
+        -1,
+        2,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "Wardenship": [
+        -1,
+        -1,
+        1,
+        -1,
+        2,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "BoardCards": [
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 27,
+          "Name": "Scarface Bugaal Ja",
+          "Rarity": 2,
+          "Family": "Beastman",
+          "Up": 6,
+          "Down": 2,
+          "Right": 6,
+          "Left": 6
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 27,
+          "Name": "Scarface Bugaal Ja",
+          "Rarity": 2,
+          "Family": "Beastman",
+          "Up": 6,
+          "Down": 2,
+          "Right": 6,
+          "Left": 6
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        }
+      ],
+      "IsDeterminized": false
+    },
+    {
+      "StartingPlayer": 1,
+      "Rules": "None",
+      "TurnCount": 3,
+      "RoundState": "Ongoing",
+      "PlayerToMove": 2,
+      "NextPlayerToMove": 1,
+      "Player1RevealedCards": [
+        {
+          "Id": 30,
+          "Name": "Mother Miounne",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 5,
+          "Down": 3,
+          "Right": 5,
+          "Left": 7
+        },
+        {
+          "Id": 29,
+          "Name": "Baderon Tenfingers",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 3,
+          "Down": 5,
+          "Right": 7,
+          "Left": 5
+        },
+        {
+          "Id": 28,
+          "Name": "Momodi Modi",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 7,
+          "Down": 5,
+          "Right": 5,
+          "Left": 3
+        }
+      ],
+      "Player1ConcealedCards": [],
+      "Player2RevealedCards": [
+        {
+          "Id": 51,
+          "Name": "Ultima Weapon",
+          "Rarity": 4,
+          "Family": "Garlean",
+          "Up": 7,
+          "Down": 9,
+          "Right": 8,
+          "Left": 1
+        },
+        {
+          "Id": 24,
+          "Name": "Succubus",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 7,
+          "Down": 2,
+          "Right": 3,
+          "Left": 6
+        },
+        {
+          "Id": 37,
+          "Name": "Memeroon",
+          "Rarity": 2,
+          "Family": "Beastman",
+          "Up": 6,
+          "Down": 6,
+          "Right": 6,
+          "Left": 2
+        }
+      ],
+      "Player2ConcealedCards": [
+        {
+          "Id": 20,
+          "Name": "Moogle",
+          "Rarity": 1,
+          "Family": "Beastman",
+          "Up": 2,
+          "Down": 3,
+          "Right": 1,
+          "Left": 7
+        },
+        {
+          "Id": 16,
+          "Name": "Sylph",
+          "Rarity": 1,
+          "Family": "Beastman",
+          "Up": 2,
+          "Down": 5,
+          "Right": 4,
+          "Left": 4
+        },
+        {
+          "Id": 12,
+          "Name": "Goobbue",
+          "Rarity": 1,
+          "Family": "None",
+          "Up": 2,
+          "Down": 5,
+          "Right": 5,
+          "Left": 2
+        }
+      ],
+      "Ownership": [
+        -1,
+        1,
+        1,
+        -1,
+        2,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "Wardenship": [
+        -1,
+        1,
+        1,
+        -1,
+        1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "BoardCards": [
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 70,
+          "Name": "Onion Knight",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 8,
+          "Down": 8,
+          "Right": 2,
+          "Left": 10
+        },
+        {
+          "Id": 27,
+          "Name": "Scarface Bugaal Ja",
+          "Rarity": 2,
+          "Family": "Beastman",
+          "Up": 6,
+          "Down": 2,
+          "Right": 6,
+          "Left": 6
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 27,
+          "Name": "Scarface Bugaal Ja",
+          "Rarity": 2,
+          "Family": "Beastman",
+          "Up": 6,
+          "Down": 2,
+          "Right": 6,
+          "Left": 6
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        }
+      ],
+      "IsDeterminized": false
+    },
+    {
+      "StartingPlayer": 1,
+      "Rules": "None",
+      "TurnCount": 4,
+      "RoundState": "Ongoing",
+      "PlayerToMove": 1,
+      "NextPlayerToMove": 2,
+      "Player1RevealedCards": [
+        {
+          "Id": 30,
+          "Name": "Mother Miounne",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 5,
+          "Down": 3,
+          "Right": 5,
+          "Left": 7
+        },
+        {
+          "Id": 29,
+          "Name": "Baderon Tenfingers",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 3,
+          "Down": 5,
+          "Right": 7,
+          "Left": 5
+        },
+        {
+          "Id": 28,
+          "Name": "Momodi Modi",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 7,
+          "Down": 5,
+          "Right": 5,
+          "Left": 3
+        }
+      ],
+      "Player1ConcealedCards": [],
+      "Player2RevealedCards": [
+        {
+          "Id": 24,
+          "Name": "Succubus",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 7,
+          "Down": 2,
+          "Right": 3,
+          "Left": 6
+        },
+        {
+          "Id": 37,
+          "Name": "Memeroon",
+          "Rarity": 2,
+          "Family": "Beastman",
+          "Up": 6,
+          "Down": 6,
+          "Right": 6,
+          "Left": 2
+        }
+      ],
+      "Player2ConcealedCards": [
+        {
+          "Id": 20,
+          "Name": "Moogle",
+          "Rarity": 1,
+          "Family": "Beastman",
+          "Up": 2,
+          "Down": 3,
+          "Right": 1,
+          "Left": 7
+        },
+        {
+          "Id": 16,
+          "Name": "Sylph",
+          "Rarity": 1,
+          "Family": "Beastman",
+          "Up": 2,
+          "Down": 5,
+          "Right": 4,
+          "Left": 4
+        },
+        {
+          "Id": 12,
+          "Name": "Goobbue",
+          "Rarity": 1,
+          "Family": "None",
+          "Up": 2,
+          "Down": 5,
+          "Right": 5,
+          "Left": 2
+        }
+      ],
+      "Ownership": [
+        -1,
+        1,
+        1,
+        2,
+        2,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "Wardenship": [
+        -1,
+        1,
+        1,
+        2,
+        2,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "BoardCards": [
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 70,
+          "Name": "Onion Knight",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 8,
+          "Down": 8,
+          "Right": 2,
+          "Left": 10
+        },
+        {
+          "Id": 27,
+          "Name": "Scarface Bugaal Ja",
+          "Rarity": 2,
+          "Family": "Beastman",
+          "Up": 6,
+          "Down": 2,
+          "Right": 6,
+          "Left": 6
+        },
+        {
+          "Id": 51,
+          "Name": "Ultima Weapon",
+          "Rarity": 4,
+          "Family": "Garlean",
+          "Up": 7,
+          "Down": 9,
+          "Right": 8,
+          "Left": 1
+        },
+        {
+          "Id": 27,
+          "Name": "Scarface Bugaal Ja",
+          "Rarity": 2,
+          "Family": "Beastman",
+          "Up": 6,
+          "Down": 2,
+          "Right": 6,
+          "Left": 6
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        }
+      ],
+      "IsDeterminized": false
+    },
+    {
+      "StartingPlayer": 1,
+      "Rules": "None",
+      "TurnCount": 5,
+      "RoundState": "Ongoing",
+      "PlayerToMove": 2,
+      "NextPlayerToMove": 1,
+      "Player1RevealedCards": [
+        {
+          "Id": 29,
+          "Name": "Baderon Tenfingers",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 3,
+          "Down": 5,
+          "Right": 7,
+          "Left": 5
+        },
+        {
+          "Id": 28,
+          "Name": "Momodi Modi",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 7,
+          "Down": 5,
+          "Right": 5,
+          "Left": 3
+        }
+      ],
+      "Player1ConcealedCards": [],
+      "Player2RevealedCards": [
+        {
+          "Id": 24,
+          "Name": "Succubus",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 7,
+          "Down": 2,
+          "Right": 3,
+          "Left": 6
+        },
+        {
+          "Id": 37,
+          "Name": "Memeroon",
+          "Rarity": 2,
+          "Family": "Beastman",
+          "Up": 6,
+          "Down": 6,
+          "Right": 6,
+          "Left": 2
+        }
+      ],
+      "Player2ConcealedCards": [
+        {
+          "Id": 20,
+          "Name": "Moogle",
+          "Rarity": 1,
+          "Family": "Beastman",
+          "Up": 2,
+          "Down": 3,
+          "Right": 1,
+          "Left": 7
+        },
+        {
+          "Id": 16,
+          "Name": "Sylph",
+          "Rarity": 1,
+          "Family": "Beastman",
+          "Up": 2,
+          "Down": 5,
+          "Right": 4,
+          "Left": 4
+        },
+        {
+          "Id": 12,
+          "Name": "Goobbue",
+          "Rarity": 1,
+          "Family": "None",
+          "Up": 2,
+          "Down": 5,
+          "Right": 5,
+          "Left": 2
+        }
+      ],
+      "Ownership": [
+        -1,
+        1,
+        1,
+        2,
+        2,
+        1,
+        -1,
+        -1,
+        -1
+      ],
+      "Wardenship": [
+        -1,
+        1,
+        1,
+        2,
+        1,
+        1,
+        -1,
+        -1,
+        -1
+      ],
+      "BoardCards": [
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 70,
+          "Name": "Onion Knight",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 8,
+          "Down": 8,
+          "Right": 2,
+          "Left": 10
+        },
+        {
+          "Id": 27,
+          "Name": "Scarface Bugaal Ja",
+          "Rarity": 2,
+          "Family": "Beastman",
+          "Up": 6,
+          "Down": 2,
+          "Right": 6,
+          "Left": 6
+        },
+        {
+          "Id": 51,
+          "Name": "Ultima Weapon",
+          "Rarity": 4,
+          "Family": "Garlean",
+          "Up": 7,
+          "Down": 9,
+          "Right": 8,
+          "Left": 1
+        },
+        {
+          "Id": 27,
+          "Name": "Scarface Bugaal Ja",
+          "Rarity": 2,
+          "Family": "Beastman",
+          "Up": 6,
+          "Down": 2,
+          "Right": 6,
+          "Left": 6
+        },
+        {
+          "Id": 30,
+          "Name": "Mother Miounne",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 5,
+          "Down": 3,
+          "Right": 5,
+          "Left": 7
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        }
+      ],
+      "IsDeterminized": false
+    },
+    {
+      "StartingPlayer": 1,
+      "Rules": "None",
+      "TurnCount": 6,
+      "RoundState": "Ongoing",
+      "PlayerToMove": 1,
+      "NextPlayerToMove": 2,
+      "Player1RevealedCards": [
+        {
+          "Id": 29,
+          "Name": "Baderon Tenfingers",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 3,
+          "Down": 5,
+          "Right": 7,
+          "Left": 5
+        },
+        {
+          "Id": 28,
+          "Name": "Momodi Modi",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 7,
+          "Down": 5,
+          "Right": 5,
+          "Left": 3
+        }
+      ],
+      "Player1ConcealedCards": [],
+      "Player2RevealedCards": [
+        {
+          "Id": 37,
+          "Name": "Memeroon",
+          "Rarity": 2,
+          "Family": "Beastman",
+          "Up": 6,
+          "Down": 6,
+          "Right": 6,
+          "Left": 2
+        }
+      ],
+      "Player2ConcealedCards": [
+        {
+          "Id": 20,
+          "Name": "Moogle",
+          "Rarity": 1,
+          "Family": "Beastman",
+          "Up": 2,
+          "Down": 3,
+          "Right": 1,
+          "Left": 7
+        },
+        {
+          "Id": 16,
+          "Name": "Sylph",
+          "Rarity": 1,
+          "Family": "Beastman",
+          "Up": 2,
+          "Down": 5,
+          "Right": 4,
+          "Left": 4
+        },
+        {
+          "Id": 12,
+          "Name": "Goobbue",
+          "Rarity": 1,
+          "Family": "None",
+          "Up": 2,
+          "Down": 5,
+          "Right": 5,
+          "Left": 2
+        }
+      ],
+      "Ownership": [
+        -1,
+        1,
+        1,
+        2,
+        2,
+        1,
+        -1,
+        -1,
+        2
+      ],
+      "Wardenship": [
+        -1,
+        1,
+        1,
+        2,
+        1,
+        1,
+        -1,
+        -1,
+        2
+      ],
+      "BoardCards": [
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 70,
+          "Name": "Onion Knight",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 8,
+          "Down": 8,
+          "Right": 2,
+          "Left": 10
+        },
+        {
+          "Id": 27,
+          "Name": "Scarface Bugaal Ja",
+          "Rarity": 2,
+          "Family": "Beastman",
+          "Up": 6,
+          "Down": 2,
+          "Right": 6,
+          "Left": 6
+        },
+        {
+          "Id": 51,
+          "Name": "Ultima Weapon",
+          "Rarity": 4,
+          "Family": "Garlean",
+          "Up": 7,
+          "Down": 9,
+          "Right": 8,
+          "Left": 1
+        },
+        {
+          "Id": 27,
+          "Name": "Scarface Bugaal Ja",
+          "Rarity": 2,
+          "Family": "Beastman",
+          "Up": 6,
+          "Down": 2,
+          "Right": 6,
+          "Left": 6
+        },
+        {
+          "Id": 30,
+          "Name": "Mother Miounne",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 5,
+          "Down": 3,
+          "Right": 5,
+          "Left": 7
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 24,
+          "Name": "Succubus",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 7,
+          "Down": 2,
+          "Right": 3,
+          "Left": 6
+        }
+      ],
+      "IsDeterminized": false
+    },
+    {
+      "StartingPlayer": 1,
+      "Rules": "None",
+      "TurnCount": 7,
+      "RoundState": "Ongoing",
+      "PlayerToMove": 2,
+      "NextPlayerToMove": 1,
+      "Player1RevealedCards": [
+        {
+          "Id": 28,
+          "Name": "Momodi Modi",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 7,
+          "Down": 5,
+          "Right": 5,
+          "Left": 3
+        }
+      ],
+      "Player1ConcealedCards": [],
+      "Player2RevealedCards": [
+        {
+          "Id": 37,
+          "Name": "Memeroon",
+          "Rarity": 2,
+          "Family": "Beastman",
+          "Up": 6,
+          "Down": 6,
+          "Right": 6,
+          "Left": 2
+        }
+      ],
+      "Player2ConcealedCards": [
+        {
+          "Id": 20,
+          "Name": "Moogle",
+          "Rarity": 1,
+          "Family": "Beastman",
+          "Up": 2,
+          "Down": 3,
+          "Right": 1,
+          "Left": 7
+        },
+        {
+          "Id": 16,
+          "Name": "Sylph",
+          "Rarity": 1,
+          "Family": "Beastman",
+          "Up": 2,
+          "Down": 5,
+          "Right": 4,
+          "Left": 4
+        },
+        {
+          "Id": 12,
+          "Name": "Goobbue",
+          "Rarity": 1,
+          "Family": "None",
+          "Up": 2,
+          "Down": 5,
+          "Right": 5,
+          "Left": 2
+        }
+      ],
+      "Ownership": [
+        -1,
+        1,
+        1,
+        2,
+        2,
+        1,
+        -1,
+        1,
+        2
+      ],
+      "Wardenship": [
+        -1,
+        1,
+        1,
+        2,
+        1,
+        1,
+        -1,
+        1,
+        1
+      ],
+      "BoardCards": [
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 70,
+          "Name": "Onion Knight",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 8,
+          "Down": 8,
+          "Right": 2,
+          "Left": 10
+        },
+        {
+          "Id": 27,
+          "Name": "Scarface Bugaal Ja",
+          "Rarity": 2,
+          "Family": "Beastman",
+          "Up": 6,
+          "Down": 2,
+          "Right": 6,
+          "Left": 6
+        },
+        {
+          "Id": 51,
+          "Name": "Ultima Weapon",
+          "Rarity": 4,
+          "Family": "Garlean",
+          "Up": 7,
+          "Down": 9,
+          "Right": 8,
+          "Left": 1
+        },
+        {
+          "Id": 27,
+          "Name": "Scarface Bugaal Ja",
+          "Rarity": 2,
+          "Family": "Beastman",
+          "Up": 6,
+          "Down": 2,
+          "Right": 6,
+          "Left": 6
+        },
+        {
+          "Id": 30,
+          "Name": "Mother Miounne",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 5,
+          "Down": 3,
+          "Right": 5,
+          "Left": 7
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 29,
+          "Name": "Baderon Tenfingers",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 3,
+          "Down": 5,
+          "Right": 7,
+          "Left": 5
+        },
+        {
+          "Id": 24,
+          "Name": "Succubus",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 7,
+          "Down": 2,
+          "Right": 3,
+          "Left": 6
+        }
+      ],
+      "IsDeterminized": false
+    },
+    {
+      "StartingPlayer": 1,
+      "Rules": "None",
+      "TurnCount": 8,
+      "RoundState": "Ongoing",
+      "PlayerToMove": 1,
+      "NextPlayerToMove": 2,
+      "Player1RevealedCards": [
+        {
+          "Id": 28,
+          "Name": "Momodi Modi",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 7,
+          "Down": 5,
+          "Right": 5,
+          "Left": 3
+        }
+      ],
+      "Player1ConcealedCards": [],
+      "Player2RevealedCards": [],
+      "Player2ConcealedCards": [
+        {
+          "Id": 20,
+          "Name": "Moogle",
+          "Rarity": 1,
+          "Family": "Beastman",
+          "Up": 2,
+          "Down": 3,
+          "Right": 1,
+          "Left": 7
+        },
+        {
+          "Id": 16,
+          "Name": "Sylph",
+          "Rarity": 1,
+          "Family": "Beastman",
+          "Up": 2,
+          "Down": 5,
+          "Right": 4,
+          "Left": 4
+        },
+        {
+          "Id": 12,
+          "Name": "Goobbue",
+          "Rarity": 1,
+          "Family": "None",
+          "Up": 2,
+          "Down": 5,
+          "Right": 5,
+          "Left": 2
+        }
+      ],
+      "Ownership": [
+        -1,
+        1,
+        1,
+        2,
+        2,
+        1,
+        2,
+        1,
+        2
+      ],
+      "Wardenship": [
+        -1,
+        1,
+        1,
+        2,
+        1,
+        1,
+        2,
+        2,
+        1
+      ],
+      "BoardCards": [
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 70,
+          "Name": "Onion Knight",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 8,
+          "Down": 8,
+          "Right": 2,
+          "Left": 10
+        },
+        {
+          "Id": 27,
+          "Name": "Scarface Bugaal Ja",
+          "Rarity": 2,
+          "Family": "Beastman",
+          "Up": 6,
+          "Down": 2,
+          "Right": 6,
+          "Left": 6
+        },
+        {
+          "Id": 51,
+          "Name": "Ultima Weapon",
+          "Rarity": 4,
+          "Family": "Garlean",
+          "Up": 7,
+          "Down": 9,
+          "Right": 8,
+          "Left": 1
+        },
+        {
+          "Id": 27,
+          "Name": "Scarface Bugaal Ja",
+          "Rarity": 2,
+          "Family": "Beastman",
+          "Up": 6,
+          "Down": 2,
+          "Right": 6,
+          "Left": 6
+        },
+        {
+          "Id": 30,
+          "Name": "Mother Miounne",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 5,
+          "Down": 3,
+          "Right": 5,
+          "Left": 7
+        },
+        {
+          "Id": 37,
+          "Name": "Memeroon",
+          "Rarity": 2,
+          "Family": "Beastman",
+          "Up": 6,
+          "Down": 6,
+          "Right": 6,
+          "Left": 2
+        },
+        {
+          "Id": 29,
+          "Name": "Baderon Tenfingers",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 3,
+          "Down": 5,
+          "Right": 7,
+          "Left": 5
+        },
+        {
+          "Id": 24,
+          "Name": "Succubus",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 7,
+          "Down": 2,
+          "Right": 3,
+          "Left": 6
+        }
+      ],
+      "IsDeterminized": false
+    },
+    {
+      "StartingPlayer": 1,
+      "Rules": "None",
+      "TurnCount": 9,
+      "RoundState": "Player1Win",
+      "PlayerToMove": 2,
+      "NextPlayerToMove": 1,
+      "Player1RevealedCards": [],
+      "Player1ConcealedCards": [],
+      "Player2RevealedCards": [],
+      "Player2ConcealedCards": [
+        {
+          "Id": 20,
+          "Name": "Moogle",
+          "Rarity": 1,
+          "Family": "Beastman",
+          "Up": 2,
+          "Down": 3,
+          "Right": 1,
+          "Left": 7
+        },
+        {
+          "Id": 16,
+          "Name": "Sylph",
+          "Rarity": 1,
+          "Family": "Beastman",
+          "Up": 2,
+          "Down": 5,
+          "Right": 4,
+          "Left": 4
+        },
+        {
+          "Id": 12,
+          "Name": "Goobbue",
+          "Rarity": 1,
+          "Family": "None",
+          "Up": 2,
+          "Down": 5,
+          "Right": 5,
+          "Left": 2
+        }
+      ],
+      "Ownership": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        1,
+        2,
+        1,
+        2
+      ],
+      "Wardenship": [
+        1,
+        1,
+        1,
+        2,
+        1,
+        1,
+        2,
+        2,
+        1
+      ],
+      "BoardCards": [
+        {
+          "Id": 28,
+          "Name": "Momodi Modi",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 7,
+          "Down": 5,
+          "Right": 5,
+          "Left": 3
+        },
+        {
+          "Id": 70,
+          "Name": "Onion Knight",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 8,
+          "Down": 8,
+          "Right": 2,
+          "Left": 10
+        },
+        {
+          "Id": 27,
+          "Name": "Scarface Bugaal Ja",
+          "Rarity": 2,
+          "Family": "Beastman",
+          "Up": 6,
+          "Down": 2,
+          "Right": 6,
+          "Left": 6
+        },
+        {
+          "Id": 51,
+          "Name": "Ultima Weapon",
+          "Rarity": 4,
+          "Family": "Garlean",
+          "Up": 7,
+          "Down": 9,
+          "Right": 8,
+          "Left": 1
+        },
+        {
+          "Id": 27,
+          "Name": "Scarface Bugaal Ja",
+          "Rarity": 2,
+          "Family": "Beastman",
+          "Up": 6,
+          "Down": 2,
+          "Right": 6,
+          "Left": 6
+        },
+        {
+          "Id": 30,
+          "Name": "Mother Miounne",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 5,
+          "Down": 3,
+          "Right": 5,
+          "Left": 7
+        },
+        {
+          "Id": 37,
+          "Name": "Memeroon",
+          "Rarity": 2,
+          "Family": "Beastman",
+          "Up": 6,
+          "Down": 6,
+          "Right": 6,
+          "Left": 2
+        },
+        {
+          "Id": 29,
+          "Name": "Baderon Tenfingers",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 3,
+          "Down": 5,
+          "Right": 7,
+          "Left": 5
+        },
+        {
+          "Id": 24,
+          "Name": "Succubus",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 7,
+          "Down": 2,
+          "Right": 3,
+          "Left": 6
+        }
+      ],
+      "IsDeterminized": false
+    }
+  ]
+}

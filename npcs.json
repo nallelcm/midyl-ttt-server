@@ -1,0 +1,1393 @@
+[
+    {
+        "Name": "Hokushin",
+        "Mandatory": [
+            "Karakuri Hanya",
+            "Yojimbo & Daigoro",
+            "Koja"
+        ],
+        "Optional": [
+            "Namazu",
+            "Kotokaze",
+            "Hildibrand & Nashu Mhakaracca",
+            "Kojin"
+        ],
+        "Rules": [
+            "Plus",
+            "Swap"
+        ]
+    },
+    {
+        "Name": "Botan",
+        "Mandatory": [
+            "Louhi",
+            "Pazuzu",
+            "Krile"
+        ],
+        "Optional": [
+            "Happy Bunny",
+            "Yukinko",
+            "Gerolt"
+        ],
+        "Rules": [
+            "Plus",
+            "Roulette"
+        ]
+    },
+    {
+        "Name": "Hachinan",
+        "Mandatory": [
+            "Asahi sas Brutus",
+            "Grynewaht",
+            "Armored Weapon",
+            "Magitek Sky Armor"
+        ],
+        "Optional": [
+            "Magitek Predator",
+            "Yotsuyu",
+            "Zenos yae Galvus",
+            "Magitek Death Claw",
+            "Magitek Vanguard"
+        ],
+        "Rules": [
+            "Ascension",
+            "FallenAce"
+        ]
+    },
+    {
+        "Name": "Yusui",
+        "Mandatory": [
+            "Tansui",
+            "Rasho",
+            "Vedrfolnir"
+        ],
+        "Optional": [
+            "Memeroon",
+            "Rhitahtyn sas Arvina",
+            "Hoary Boulder & Coultenet"
+        ],
+        "Rules": [
+            "Plus"
+        ]
+    },
+    {
+        "Name": "Umber Torrent",
+        "Mandatory": [
+            "Arenvald Lentinus",
+            "Aymeric",
+            "Sephirot"
+        ],
+        "Optional": [
+            "Coeurlregina",
+            "Tozol Huatotl",
+            "Lava Scorpion"
+        ],
+        "Rules": [
+            "Same",
+            "Plus"
+        ]
+    },
+    {
+        "Name": "Masatsuchi",
+        "Mandatory": [
+            "Lupin",
+            "Brute Justice",
+            "Ravana"
+        ],
+        "Optional": [
+            "Koja",
+            "Moglin",
+            "Brachiosaur"
+        ],
+        "Rules": [
+            "Same"
+        ]
+    },
+    {
+        "Name": "Kikimo",
+        "Mandatory": [
+            "Hancock",
+            "Vidofnir",
+            "Gaius van Baelsar"
+        ],
+        "Optional": [
+            "Cid Garlond",
+            "Ferdiad",
+            "Pipin Tarupin",
+            "Alexander Prime"
+        ],
+        "Rules": [
+            "Swap",
+            "FallenAce"
+        ]
+    },
+    {
+        "Name": "Isobe",
+        "Mandatory": [
+            "Hisui & Kurenai",
+            "Louisoix Leveilleur",
+            "Hildibrand & Nashu Mhakaracca"
+        ],
+        "Optional": [
+            "Ango",
+            "Cloud of Darkness",
+            "Nael van Darnus",
+            "Tiamat",
+            "Calofisteri"
+        ],
+        "Rules": [
+            "Plus",
+            "Swap"
+        ]
+    },
+    {
+        "Name": "Gyoei",
+        "Mandatory": [
+            "Matoya",
+            "Lolorito Nanarito",
+            "Namazu"
+        ],
+        "Optional": [
+            "Opo-opo",
+            "Kobold",
+            "Pudding"
+        ],
+        "Rules": [
+            "Reverse",
+            "Plus"
+        ]
+    },
+    {
+        "Name": "Kotokaze",
+        "Mandatory": [
+            "Tioman",
+            "Kotokaze",
+            "Tonberry"
+        ],
+        "Optional": [
+            "Momodi Modi",
+            "Baderon Tenfingers",
+            "Mother Miounne"
+        ],
+        "Rules": [
+            "Same"
+        ]
+    },
+    {
+        "Name": "Ercanbald",
+        "Mandatory": [
+            "Papalymo & Yda",
+            "M'naago",
+            "Adamantoise"
+        ],
+        "Optional": [
+            "Gerolt",
+            "Amalj'aa",
+            "Pudding"
+        ],
+        "Rules": []
+    },
+    {
+        "Name": "Kaizan",
+        "Mandatory": [
+            "Rasho",
+            "Hilda",
+            "Chimera"
+        ],
+        "Optional": [
+            "Mistbeard",
+            "Demon Wall",
+            "Honoroit",
+            "Byblos"
+        ],
+        "Rules": [
+            "Swap",
+            "Descension"
+        ]
+    },
+    {
+        "Name": "Tsuzura",
+        "Mandatory": [
+            "Lucia goe Junius",
+            "Kojin",
+            "Behemoth"
+        ],
+        "Optional": [
+            "Leviathan",
+            "Siren",
+            "Sahagin",
+            "Colibri"
+        ],
+        "Rules": [
+            "Chaos",
+            "Roulette"
+        ]
+    },
+    {
+        "Name": "Garima",
+        "Mandatory": [
+            "F'lhaminn",
+            "Ananta",
+            "Papalymo & Yda"
+        ],
+        "Optional": [
+            "Vedrfolnir",
+            "Carvallain de Gorgagne",
+            "Tataru Taru",
+            "Qiqirn Meateater"
+        ],
+        "Rules": [
+            "Plus",
+            "Ascension"
+        ]
+    },
+    {
+        "Name": "Nigen",
+        "Mandatory": [
+            "Minfilia",
+            "Bismarck",
+            "Cirina"
+        ],
+        "Optional": [
+            "Fenrir",
+            "Strix",
+            "Godbert Manderville"
+        ],
+        "Rules": [
+            "Same",
+            "Plus"
+        ]
+    },
+    {
+        "Name": "Ogodei",
+        "Mandatory": [
+            "Lahabrea",
+            "Diabolos Hollow",
+            "Magnai"
+        ],
+        "Optional": [
+            "Roundrox",
+            "Progenitrix",
+            "Waukkeon"
+        ],
+        "Rules": [
+            "FallenAce",
+            "Plus"
+        ]
+    },
+    {
+        "Name": "Munglig",
+        "Mandatory": [
+            "Ramuh",
+            "Cid Garlond",
+            "Sadu"
+        ],
+        "Optional": [
+            "Garuda",
+            "Lucia goe Junius",
+            "Count Edmont de Fortemps"
+        ],
+        "Rules": [
+            "Same",
+            "Chaos"
+        ]
+    },
+    {
+        "Name": "Imperial Deserter",
+        "Mandatory": [
+            "Kan-E-Senna",
+            "Nael van Darnus",
+            "Yotsuyu"
+        ],
+        "Optional": [
+            "Armored Weapon",
+            "Estinien",
+            "Papalymo & Yda",
+            "Fordola rem Lupis"
+        ],
+        "Rules": [
+            "FallenAce"
+        ]
+    },
+    {
+        "Name": "Kiuka",
+        "Mandatory": [
+            "Hien",
+            "Hraesvelgr",
+            "Alphinaud & Alisaie"
+        ],
+        "Optional": [
+            "Minfilia",
+            "Matoya",
+            "Yugiri Mistwalker"
+        ],
+        "Rules": [
+            "Chaos"
+        ]
+    },
+    {
+        "Name": "Wyra \"Greenhands\" Lyehga",
+        "Mandatory": [
+            "Frixio",
+            "Ahriman",
+            "Apkallu"
+        ],
+        "Optional": [
+            "Mother Miounne",
+            "Pudding",
+            "Morbol",
+            "Chocobo"
+        ],
+        "Rules": [
+            "AllOpen",
+            "Same"
+        ]
+    },
+    {
+        "Name": "Prideful Stag",
+        "Mandatory": [
+            "Godbert Manderville",
+            "Lost Lamb",
+            "Blue Dragon"
+        ],
+        "Optional": [
+            "Momodi Modi",
+            "Vanu Vanu",
+            "Coblyn",
+            "Chocobo"
+        ],
+        "Rules": [
+            "Plus"
+        ]
+    },
+    {
+        "Name": "Nell Half-full",
+        "Mandatory": [
+            "Leviathan",
+            "Brendt, Brennan, & Bremondt",
+            "Progenitrix"
+        ],
+        "Optional": [
+            "Urianger",
+            "Carvallain de Gorgagne",
+            "Paissa",
+            "Baderon Tenfingers"
+        ],
+        "Rules": [
+            "Same",
+            "Plus"
+        ]
+    },
+    {
+        "Name": "Flichoirel The Lordling",
+        "Mandatory": [
+            "Nael van Darnus",
+            "Vidofnir"
+        ],
+        "Optional": [
+            "Byblos",
+            "Behemoth",
+            "Griffin",
+            "Haurchefant",
+            "Godbert Manderville"
+        ],
+        "Rules": []
+    },
+    {
+        "Name": "Hall Overseer",
+        "Mandatory": [
+            "Terra Branford",
+            "Archbishop Thordan VII",
+            "Alphinaud & Alisaie"
+        ],
+        "Optional": [
+            "Merlwyb Bloefhiswyn",
+            "Cid Garlond",
+            "Haurchefant"
+        ],
+        "Rules": [
+            "FallenAce",
+            "Chaos"
+        ]
+    },
+    {
+        "Name": "O'kalkaya",
+        "Mandatory": [
+            "Mistbeard",
+            "Rhoswen"
+        ],
+        "Optional": [
+            "Baderon Tenfingers",
+            "Merlwyb Bloefhiswyn",
+            "Leviathan",
+            "Y'shtola",
+            "Goobbue"
+        ],
+        "Rules": [
+            "Roulette",
+            "Plus"
+        ]
+    },
+    {
+        "Name": "Mordyn",
+        "Mandatory": [
+            "Mistbeard",
+            "Carvallain de Gorgagne"
+        ],
+        "Optional": [
+            "Baderon Tenfingers",
+            "Merlwyb Bloefhiswyn",
+            "Leviathan",
+            "Kraken",
+            "Mandragora"
+        ],
+        "Rules": [
+            "Swap",
+            "Same"
+        ]
+    },
+    {
+        "Name": "Master Mogzin",
+        "Mandatory": [
+            "Hraesvelgr",
+            "Good King Moggle Mog XII"
+        ],
+        "Optional": [
+            "Ysayle",
+            "Nidhogg",
+            "Vedrfolnir",
+            "Darkscale",
+            "Moogle"
+        ],
+        "Rules": [
+            "Same",
+            "Plus"
+        ]
+    },
+    {
+        "Name": "House Fortemps Manservant",
+        "Mandatory": [
+            "Honoroit",
+            "Artoirel de Fortemps",
+            "Emmanellain de Fortemps",
+            "Haurchefant",
+            "Count Edmont de Fortemps"
+        ],
+        "Optional": [],
+        "Rules": [
+            "AllOpen",
+            "Plus"
+        ]
+    },
+    {
+        "Name": "Linu Vali",
+        "Mandatory": [
+            "Bismarck",
+            "Vanu Vanu"
+        ],
+        "Optional": [
+            "Brachiosaur",
+            "Paissa",
+            "Gaelicat",
+            "Griffin",
+            "Dhalmel"
+        ],
+        "Rules": [
+            "Reverse",
+            "Chaos"
+        ]
+    },
+    {
+        "Name": "Vath Deftarm",
+        "Mandatory": [
+            "Ravana",
+            "Gnath"
+        ],
+        "Optional": [
+            "Coeurlregina",
+            "Bandersnatch",
+            "Ysayle",
+            "Alphinaud & Alisaie",
+            "Estinien"
+        ],
+        "Rules": [
+            "Roulette"
+        ]
+    },
+    {
+        "Name": "Tapklix",
+        "Mandatory": [
+            "Brute Justice",
+            "Roundrox"
+        ],
+        "Optional": [
+            "Poroggo",
+            "Crawler",
+            "Y'shtola",
+            "Alphinaud & Alisaie"
+        ],
+        "Rules": [
+            "Swap",
+            "Same"
+        ]
+    },
+    {
+        "Name": "Klynthota",
+        "Mandatory": [
+            "Cloud of Darkness",
+            "Xande",
+            "Phlegethon"
+        ],
+        "Optional": [
+            "Cid Garlond",
+            "Biggs & Wedge",
+            "Nero tol Scaeva"
+        ],
+        "Rules": [
+            "Same",
+            "Plus"
+        ]
+    },
+    {
+        "Name": "Dominiac",
+        "Mandatory": [
+            "Deepeye",
+            "Aymeric"
+        ],
+        "Optional": [
+            "Lucia goe Junius",
+            "Estinien",
+            "Griffin",
+            "Behemoth",
+            "Count Edmont de Fortemps"
+        ],
+        "Rules": [
+            "Order"
+        ]
+    },
+    {
+        "Name": "Seika",
+        "Mandatory": [
+            "Poroggo",
+            "Crawler"
+        ],
+        "Optional": [
+            "Roundrox",
+            "Sahagin",
+            "Ixal",
+            "Amalj'aa",
+            "Kobold"
+        ],
+        "Rules": [
+            "Reverse",
+            "Chaos"
+        ]
+    },
+    {
+        "Name": "Voracious Vath",
+        "Mandatory": [
+            "Bandersnatch",
+            "Ravana"
+        ],
+        "Optional": [
+            "Ysayle",
+            "Estinien",
+            "Alphinaud & Alisaie",
+            "Shiva",
+            "Coeurlregina"
+        ],
+        "Rules": [
+            "Ascension",
+            "Swap"
+        ]
+    },
+    {
+        "Name": "Laniaitte",
+        "Mandatory": [
+            "Paissa",
+            "Bismarck"
+        ],
+        "Optional": [
+            "Dhalmel",
+            "Count Edmont de Fortemps",
+            "Cid Garlond",
+            "Lucia goe Junius",
+            "Aymeric"
+        ],
+        "Rules": [
+            "Same",
+            "Plus"
+        ]
+    },
+    {
+        "Name": "Elaisse",
+        "Mandatory": [
+            "Archaeornis"
+        ],
+        "Optional": [
+            "Hilda",
+            "Merlwyb Bloefhiswyn",
+            "Kan-E-Senna",
+            "Nanamo Ul Namo",
+            "Raubahn Aldynn"
+        ],
+        "Rules": [
+            "Plus",
+            "Chaos"
+        ]
+    },
+    {
+        "Name": "Lewena",
+        "Mandatory": [
+            "Terra Branford",
+            "Onion Knight"
+        ],
+        "Optional": [
+            "Cloud Strife",
+            "Odin",
+            "Garuda",
+            "Ifrit",
+            "Titan"
+        ],
+        "Rules": [
+            "FallenAce",
+            "Chaos"
+        ]
+    },
+    {
+        "Name": "Wawalago",
+        "Mandatory": [
+            "Nanamo Ul Namo",
+            "Y'shtola"
+        ],
+        "Optional": [
+            "Lucia goe Junius",
+            "Papalymo & Yda",
+            "Garuda",
+            "Terra Branford",
+            "Momodi Modi"
+        ],
+        "Rules": [
+            "Swap",
+            "Chaos"
+        ]
+    },
+    {
+        "Name": "Gibrillont",
+        "Mandatory": [
+            "Lucia goe Junius",
+            "Minfilia"
+        ],
+        "Optional": [
+            "Estinien",
+            "Hildibrand & Nashu Mhakaracca",
+            "Urianger",
+            "Cid Garlond",
+            "Tataru Taru"
+        ],
+        "Rules": [
+            "Roulette"
+        ]
+    },
+    {
+        "Name": "Yellow Moon",
+        "Mandatory": [
+            "Gaius van Baelsar",
+            "Gaelicat"
+        ],
+        "Optional": [
+            "Yugiri Mistwalker",
+            "Gerolt",
+            "Rhitahtyn sas Arvina",
+            "Tidus",
+            "Shiva"
+        ],
+        "Rules": [
+            "Ascension",
+            "Swap"
+        ]
+    },
+    {
+        "Name": "Noes",
+        "Mandatory": [
+            "Odin",
+            "Garuda"
+        ],
+        "Optional": [
+            "Gaelicat",
+            "Mutamix Bubblypots",
+            "Good King Moggle Mog XII",
+            "Mother Miounne",
+            "Frixio"
+        ],
+        "Rules": [
+            "Descension",
+            "Plus"
+        ]
+    },
+    {
+        "Name": "Yayake",
+        "Mandatory": [
+            "Bahamut",
+            "Shiva"
+        ],
+        "Optional": [
+            "Aymeric",
+            "Ultros & Typhon",
+            "Ifrit",
+            "Thancred",
+            "Gaelicat"
+        ],
+        "Rules": [
+            "Chaos",
+            "Roulette"
+        ]
+    },
+    {
+        "Name": "Idle Imperial",
+        "Mandatory": [
+            "Gnath",
+            "Ravana"
+        ],
+        "Optional": [
+            "Nero tol Scaeva",
+            "Ifrit",
+            "Hilda",
+            "Rhitahtyn sas Arvina",
+            "Matoya"
+        ],
+        "Rules": [
+            "Ascension",
+            "Random"
+        ]
+    },
+    {
+        "Name": "Midnight Dew",
+        "Mandatory": [
+            "Estinien",
+            "Midgardsormr"
+        ],
+        "Optional": [
+            "Matoya",
+            "Ravana",
+            "Griffin",
+            "Nidhogg",
+            "Y'shtola"
+        ],
+        "Rules": [
+            "Roulette",
+            "Roulette"
+        ]
+    },
+    {
+        "Name": "Mogmill",
+        "Mandatory": [
+            "Kan-E-Senna",
+            "Bismarck"
+        ],
+        "Optional": [
+            "Vanu Vanu",
+            "Gnath",
+            "Ravana",
+            "Midgardsormr",
+            "Good King Moggle Mog XII"
+        ],
+        "Rules": [
+            "Roulette",
+            "Roulette"
+        ]
+    },
+    {
+        "Name": "Marcechamp",
+        "Mandatory": [
+            "Amalj'aa",
+            "Gaelicat"
+        ],
+        "Optional": [
+            "Ysayle",
+            "Sabotender",
+            "Shiva",
+            "Good King Moggle Mog XII",
+            "Yugiri Mistwalker"
+        ],
+        "Rules": [
+            "Reverse",
+            "Plus"
+        ]
+    },
+    {
+        "Name": "Marielle",
+        "Mandatory": [
+            "Nanamo Ul Namo",
+            "Griffin",
+            "Merlwyb Bloefhiswyn",
+            "Count Edmont de Fortemps",
+            "Aymeric"
+        ],
+        "Optional": [],
+        "Rules": [
+            "Order"
+        ]
+    },
+    {
+        "Name": "Triple Triad Master",
+        "Mandatory": [
+            "Chocobo",
+            "Mandragora",
+            "Tonberry",
+            "Pudding",
+            "Spriggan"
+        ],
+        "Optional": [],
+        "Rules": [
+            "AllOpen"
+        ]
+    },
+    {
+        "Name": "Jonas of the Three Spades",
+        "Mandatory": [
+            "Demon Wall",
+            "Sabotender",
+            "Spriggan"
+        ],
+        "Optional": [
+            "Blue Dragon",
+            "Ahriman",
+            "Ixal",
+            "Moogle"
+        ],
+        "Rules": [
+            "AllOpen",
+            "Same"
+        ]
+    },
+    {
+        "Name": "Maisenta",
+        "Mandatory": [
+            "Mutamix Bubblypots",
+            "Mandragora",
+            "Coeurl"
+        ],
+        "Optional": [
+            "Succubus",
+            "Sylph",
+            "Coblyn"
+        ],
+        "Rules": [
+            "AllOpen"
+        ]
+    },
+    {
+        "Name": "Roger",
+        "Mandatory": [
+            "Blue Dragon",
+            "Morbol",
+            "Chocobo"
+        ],
+        "Optional": [
+            "Chimera",
+            "Ixal",
+            "Pudding",
+            "Bomb"
+        ],
+        "Rules": [
+            "AllOpen"
+        ]
+    },
+    {
+        "Name": "Memeroon",
+        "Mandatory": [
+            "Memeroon",
+            "Amalj'aa",
+            "Dodo"
+        ],
+        "Optional": [
+            "Siren",
+            "Tonberry",
+            "Mandragora",
+            "Goobbue"
+        ],
+        "Rules": [
+            "AllOpen"
+        ]
+    },
+    {
+        "Name": "Mother Miounne",
+        "Mandatory": [
+            "Mother Miounne",
+            "Baderon Tenfingers",
+            "Ixal"
+        ],
+        "Optional": [
+            "Frixio",
+            "Momodi Modi",
+            "Ahriman",
+            "Goobbue",
+            "Pudding"
+        ],
+        "Rules": [
+            "ThreeOpen"
+        ]
+    },
+    {
+        "Name": "Guhtwint of the Three Diamonds",
+        "Mandatory": [
+            "Behemoth",
+            "Blue Dragon",
+            "Bomb"
+        ],
+        "Optional": [
+            "Scarface Bugaal Ja",
+            "Chocobo",
+            "Ahriman",
+            "Coblyn"
+        ],
+        "Rules": [
+            "ThreeOpen",
+            "Plus"
+        ]
+    },
+    {
+        "Name": "Momodi",
+        "Mandatory": [
+            "Momodi Modi",
+            "Mother Miounne",
+            "Amalj'aa"
+        ],
+        "Optional": [
+            "Mutamix Bubblypots",
+            "Baderon Tenfingers",
+            "Chocobo",
+            "Coeurl",
+            "Coblyn"
+        ],
+        "Rules": [
+            "ThreeOpen"
+        ]
+    },
+    {
+        "Name": "F'hobhas",
+        "Mandatory": [
+            "Godbert Manderville",
+            "Mutamix Bubblypots",
+            "Amalj'aa"
+        ],
+        "Optional": [
+            "Demon Wall",
+            "Chocobo",
+            "Sahagin",
+            "Pudding",
+            "Bomb"
+        ],
+        "Rules": [
+            "ThreeOpen"
+        ]
+    },
+    {
+        "Name": "Wymond",
+        "Mandatory": [
+            "Ultros & Typhon",
+            "Momodi Modi",
+            "Chocobo"
+        ],
+        "Optional": [
+            "Blue Dragon",
+            "Spriggan",
+            "Mandragora",
+            "Coblyn"
+        ],
+        "Rules": [
+            "ThreeOpen"
+        ]
+    },
+    {
+        "Name": "Trachtoum",
+        "Mandatory": [
+            "Titan",
+            "Gerolt",
+            "Tonberry"
+        ],
+        "Optional": [
+            "Y'shtola",
+            "Blue Dragon",
+            "Ultros & Typhon",
+            "Moogle"
+        ],
+        "Rules": [
+            "ThreeOpen"
+        ]
+    },
+    {
+        "Name": "Fufulupa",
+        "Mandatory": [
+            "Biggs & Wedge",
+            "Momodi Modi",
+            "Tonberry"
+        ],
+        "Optional": [
+            "Raubahn Aldynn",
+            "Thancred",
+            "Tataru Taru",
+            "Moogle",
+            "Chocobo"
+        ],
+        "Rules": [
+            "ThreeOpen"
+        ]
+    },
+    {
+        "Name": "Helmhart",
+        "Mandatory": [
+            "Godbert Manderville",
+            "Gerolt",
+            "Ahriman"
+        ],
+        "Optional": [
+            "Louisoix Leveilleur",
+            "Titan",
+            "Ultros & Typhon",
+            "Scarface Bugaal Ja",
+            "Tonberry"
+        ],
+        "Rules": [
+            "ThreeOpen"
+        ]
+    },
+    {
+        "Name": "Joellaut",
+        "Mandatory": [
+            "Behemoth",
+            "Biggs & Wedge",
+            "Tonberry"
+        ],
+        "Optional": [
+            "Alphinaud & Alisaie",
+            "Blue Dragon",
+            "Amalj'aa",
+            "Goobbue",
+            "Ixal"
+        ],
+        "Rules": [
+            "ThreeOpen"
+        ]
+    },
+    {
+        "Name": "Baderon",
+        "Mandatory": [
+            "Momodi Modi",
+            "Baderon Tenfingers",
+            "Mother Miounne"
+        ],
+        "Optional": [
+            "Y'shtola",
+            "Siren",
+            "Scarface Bugaal Ja",
+            "Sahagin",
+            "Kobold"
+        ],
+        "Rules": [
+            "ThreeOpen"
+        ]
+    },
+    {
+        "Name": "Mimidoa",
+        "Mandatory": [
+            "Leviathan",
+            "Biggs & Wedge",
+            "Tataru Taru"
+        ],
+        "Optional": [
+            "Memeroon",
+            "Chimera",
+            "Ixal",
+            "Chocobo",
+            "Moogle"
+        ],
+        "Rules": [
+            "ThreeOpen"
+        ]
+    },
+    {
+        "Name": "Aurifort of the Three Clubs",
+        "Mandatory": [
+            "Ultima Weapon",
+            "Succubus",
+            "Memeroon"
+        ],
+        "Optional": [
+            "Scarface Bugaal Ja",
+            "Moogle",
+            "Sylph",
+            "Goobbue"
+        ],
+        "Rules": [
+            "ThreeOpen",
+            "Order"
+        ]
+    },
+    {
+        "Name": "Piralnaut",
+        "Mandatory": [
+            "Minfilia",
+            "Succubus",
+            "Frixio"
+        ],
+        "Optional": [
+            "Raya-O-Senna & A-Ruhn-Senna",
+            "Mother Miounne",
+            "Coeurl",
+            "Sahagin",
+            "Amalj'aa"
+        ],
+        "Rules": [
+            "ThreeOpen"
+        ]
+    },
+    {
+        "Name": "Sezul Totoloc",
+        "Mandatory": [
+            "Cid Garlond",
+            "Ultima Weapon",
+            "Biggs & Wedge"
+        ],
+        "Optional": [
+            "Godbert Manderville",
+            "Behemoth",
+            "Nero tol Scaeva"
+        ],
+        "Rules": [
+            "Same",
+            "Plus"
+        ]
+    },
+    {
+        "Name": "Swift",
+        "Mandatory": [
+            "Raubahn Aldynn",
+            "Momodi Modi",
+            "Ultros & Typhon"
+        ],
+        "Optional": [
+            "Alphinaud & Alisaie",
+            "Thancred",
+            "Ifrit",
+            "Biggs & Wedge",
+            "Tataru Taru"
+        ],
+        "Rules": [
+            "Chaos"
+        ]
+    },
+    {
+        "Name": "Landenel",
+        "Mandatory": [
+            "Odin",
+            "Titan",
+            "Kan-E-Senna"
+        ],
+        "Optional": [
+            "Ifrit",
+            "Rhitahtyn sas Arvina",
+            "Chocobo"
+        ],
+        "Rules": [
+            "FallenAce",
+            "Chaos"
+        ]
+    },
+    {
+        "Name": "Buscarron",
+        "Mandatory": [
+            "Kan-E-Senna",
+            "Odin",
+            "Good King Moggle Mog XII"
+        ],
+        "Optional": [
+            "Papalymo & Yda",
+            "Garuda",
+            "Gilgamesh & Enkidu",
+            "Raya-O-Senna & A-Ruhn-Senna"
+        ],
+        "Rules": [
+            "Order"
+        ]
+    },
+    {
+        "Name": "Ruhtwyda of the Three Hearts",
+        "Mandatory": [
+            "Alphinaud & Alisaie",
+            "Minfilia",
+            "Nero tol Scaeva"
+        ],
+        "Optional": [
+            "Lahabrea",
+            "Cid Garlond",
+            "Good King Moggle Mog XII",
+            "Urianger",
+            "Godbert Manderville"
+        ],
+        "Rules": [
+            "Ascension",
+            "SuddenDeath"
+        ]
+    },
+    {
+        "Name": "Marcette",
+        "Mandatory": [
+            "Odin",
+            "Ramuh",
+            "Lahabrea"
+        ],
+        "Optional": [
+            "Raya-O-Senna & A-Ruhn-Senna",
+            "Nero tol Scaeva",
+            "Garuda",
+            "Behemoth",
+            "Frixio"
+        ],
+        "Rules": [
+            "Chaos"
+        ]
+    },
+    {
+        "Name": "Ourdilic",
+        "Mandatory": [
+            "Shiva",
+            "Ultima Weapon",
+            "Urianger"
+        ],
+        "Optional": [
+            "Raya-O-Senna & A-Ruhn-Senna",
+            "Behemoth",
+            "Blue Dragon",
+            "Biggs & Wedge"
+        ],
+        "Rules": [
+            "Order"
+        ]
+    },
+    {
+        "Name": "Hab",
+        "Mandatory": [
+            "Hildibrand & Nashu Mhakaracca",
+            "Godbert Manderville"
+        ],
+        "Optional": [
+            "Raubahn Aldynn",
+            "Odin",
+            "Thancred",
+            "Gerolt",
+            "Sabotender"
+        ],
+        "Rules": [
+            "Descension"
+        ]
+    },
+    {
+        "Name": "Vorsaile Heuloix",
+        "Mandatory": [
+            "Kan-E-Senna",
+            "Minfilia",
+            "Ramuh"
+        ],
+        "Optional": [
+            "Nanamo Ul Namo",
+            "Cid Garlond",
+            "Papalymo & Yda",
+            "Good King Moggle Mog XII"
+        ],
+        "Rules": [
+            "Ascension"
+        ]
+    },
+    {
+        "Name": "R'ashaht Rhiki",
+        "Mandatory": [
+            "Merlwyb Bloefhiswyn",
+            "Leviathan",
+            "Titan"
+        ],
+        "Optional": [
+            "Cid Garlond",
+            "Urianger",
+            "Y'shtola",
+            "Behemoth"
+        ],
+        "Rules": [
+            "Same",
+            "Plus"
+        ]
+    },
+    {
+        "Name": "Gegeruju",
+        "Mandatory": [
+            "Nanamo Ul Namo",
+            "Minfilia",
+            "Y'shtola"
+        ],
+        "Optional": [
+            "Merlwyb Bloefhiswyn",
+            "Kan-E-Senna",
+            "Shiva",
+            "Livia sas Junius",
+            "Mother Miounne"
+        ],
+        "Rules": [
+            "Swap",
+            "SuddenDeath"
+        ]
+    },
+    {
+        "Name": "King Elmer III",
+        "Mandatory": [
+            "Bahamut",
+            "Urianger",
+            "Godbert Manderville"
+        ],
+        "Optional": [
+            "Hildibrand & Nashu Mhakaracca",
+            "Titan",
+            "Gilgamesh & Enkidu",
+            "Y'shtola"
+        ],
+        "Rules": [
+            "Plus"
+        ]
+    },
+    {
+        "Name": "Rowena",
+        "Mandatory": [
+            "Gerolt",
+            "Bahamut"
+        ],
+        "Optional": [
+            "Baderon Tenfingers",
+            "Louisoix Leveilleur",
+            "Nero tol Scaeva",
+            "Gilgamesh & Enkidu",
+            "Godbert Manderville"
+        ],
+        "Rules": [
+            "Roulette",
+            "Roulette"
+        ]
+    },
+    {
+        "Name": "Indolent Imperial",
+        "Mandatory": [
+            "Gaius van Baelsar",
+            "Bahamut",
+            "Nero tol Scaeva"
+        ],
+        "Optional": [
+            "Garuda",
+            "Livia sas Junius",
+            "Rhitahtyn sas Arvina",
+            "Memeroon",
+            "Scarface Bugaal Ja"
+        ],
+        "Rules": [
+            "Ascension"
+        ]
+    }
+]

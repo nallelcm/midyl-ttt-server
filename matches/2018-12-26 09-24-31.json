@@ -1,0 +1,2002 @@
+{
+  "Start": "2018-12-26T09:23:30.8235524-06:00",
+  "End": "2018-12-26T09:24:31.9606793-06:00",
+  "RegionalRule1": "Chaos",
+  "RegionalRule2": "None",
+  "MatchRule1": "Ascension",
+  "MatchRule2": "Swap",
+  "Player1Name": "Default",
+  "Player2Name": "Yellow Moon",
+  "Player1SelectedDeck": [
+    {
+      "Id": 16,
+      "Name": "Sylph",
+      "Rarity": 1,
+      "Family": "Beastman",
+      "Up": 2,
+      "Down": 5,
+      "Right": 4,
+      "Left": 4
+    },
+    {
+      "Id": 20,
+      "Name": "Moogle",
+      "Rarity": 1,
+      "Family": "Beastman",
+      "Up": 2,
+      "Down": 3,
+      "Right": 1,
+      "Left": 7
+    },
+    {
+      "Id": 18,
+      "Name": "Sahagin",
+      "Rarity": 1,
+      "Family": "Beastman",
+      "Up": 4,
+      "Down": 3,
+      "Right": 5,
+      "Left": 3
+    },
+    {
+      "Id": 159,
+      "Name": "Delivery Moogle",
+      "Rarity": 2,
+      "Family": "Beastman",
+      "Up": 5,
+      "Down": 6,
+      "Right": 5,
+      "Left": 3
+    },
+    {
+      "Id": 27,
+      "Name": "Scarface Bugaal Ja",
+      "Rarity": 2,
+      "Family": "Beastman",
+      "Up": 6,
+      "Down": 2,
+      "Right": 6,
+      "Left": 6
+    }
+  ],
+  "Player2SelectedDeck": [
+    {
+      "Id": 64,
+      "Name": "Gaius van Baelsar",
+      "Rarity": 5,
+      "Family": "Garlean",
+      "Up": 4,
+      "Down": 5,
+      "Right": 10,
+      "Left": 9
+    },
+    {
+      "Id": 81,
+      "Name": "Gaelicat",
+      "Rarity": 1,
+      "Family": "None",
+      "Up": 4,
+      "Down": 1,
+      "Right": 1,
+      "Left": 7
+    },
+    {
+      "Id": 84,
+      "Name": "Yugiri Mistwalker",
+      "Rarity": 2,
+      "Family": "None",
+      "Up": 7,
+      "Down": 1,
+      "Right": 7,
+      "Left": 3
+    },
+    {
+      "Id": 34,
+      "Name": "Gerolt",
+      "Rarity": 2,
+      "Family": "None",
+      "Up": 1,
+      "Down": 3,
+      "Right": 7,
+      "Left": 7
+    },
+    {
+      "Id": 32,
+      "Name": "Rhitahtyn sas Arvina",
+      "Rarity": 2,
+      "Family": "Garlean",
+      "Up": 7,
+      "Down": 3,
+      "Right": 1,
+      "Left": 7
+    },
+    {
+      "Id": 77,
+      "Name": "Tidus",
+      "Rarity": 5,
+      "Family": "None",
+      "Up": 10,
+      "Down": 1,
+      "Right": 7,
+      "Left": 9
+    },
+    {
+      "Id": 55,
+      "Name": "Shiva",
+      "Rarity": 4,
+      "Family": "Primal",
+      "Up": 1,
+      "Down": 8,
+      "Right": 8,
+      "Left": 8
+    }
+  ],
+  "MoveHistory": [
+    {
+      "Card": {
+        "Id": 84,
+        "Name": "Yugiri Mistwalker",
+        "Rarity": 2,
+        "Family": "None",
+        "Up": 7,
+        "Down": 1,
+        "Right": 7,
+        "Left": 3
+      },
+      "Position": 0
+    },
+    {
+      "Card": {
+        "Id": 34,
+        "Name": "Gerolt",
+        "Rarity": 2,
+        "Family": "None",
+        "Up": 1,
+        "Down": 3,
+        "Right": 7,
+        "Left": 7
+      },
+      "Position": 7
+    },
+    {
+      "Card": {
+        "Id": 64,
+        "Name": "Gaius van Baelsar",
+        "Rarity": 5,
+        "Family": "Garlean",
+        "Up": 4,
+        "Down": 5,
+        "Right": 10,
+        "Left": 9
+      },
+      "Position": 8
+    },
+    {
+      "Card": {
+        "Id": 20,
+        "Name": "Moogle",
+        "Rarity": 1,
+        "Family": "Beastman",
+        "Up": 2,
+        "Down": 3,
+        "Right": 1,
+        "Left": 7
+      },
+      "Position": 2
+    },
+    {
+      "Card": {
+        "Id": 18,
+        "Name": "Sahagin",
+        "Rarity": 1,
+        "Family": "Beastman",
+        "Up": 4,
+        "Down": 3,
+        "Right": 5,
+        "Left": 3
+      },
+      "Position": 5
+    },
+    {
+      "Card": {
+        "Id": 27,
+        "Name": "Scarface Bugaal Ja",
+        "Rarity": 2,
+        "Family": "Beastman",
+        "Up": 6,
+        "Down": 2,
+        "Right": 6,
+        "Left": 6
+      },
+      "Position": 4
+    },
+    {
+      "Card": {
+        "Id": 32,
+        "Name": "Rhitahtyn sas Arvina",
+        "Rarity": 2,
+        "Family": "Garlean",
+        "Up": 7,
+        "Down": 3,
+        "Right": 1,
+        "Left": 7
+      },
+      "Position": 1
+    },
+    {
+      "Card": {
+        "Id": 16,
+        "Name": "Sylph",
+        "Rarity": 1,
+        "Family": "Beastman",
+        "Up": 2,
+        "Down": 5,
+        "Right": 4,
+        "Left": 4
+      },
+      "Position": 3
+    },
+    {
+      "Card": {
+        "Id": 81,
+        "Name": "Gaelicat",
+        "Rarity": 1,
+        "Family": "None",
+        "Up": 4,
+        "Down": 1,
+        "Right": 1,
+        "Left": 7
+      },
+      "Position": 6
+    }
+  ],
+  "RoundHistory": [
+    {
+      "StartingPlayer": 2,
+      "Rules": "Swap, Chaos, Ascension",
+      "TurnCount": 1,
+      "RoundState": "Ongoing",
+      "PlayerToMove": 1,
+      "NextPlayerToMove": 2,
+      "Player1RevealedCards": [
+        {
+          "Id": 16,
+          "Name": "Sylph",
+          "Rarity": 1,
+          "Family": "Beastman",
+          "Up": 2,
+          "Down": 5,
+          "Right": 4,
+          "Left": 4
+        },
+        {
+          "Id": 20,
+          "Name": "Moogle",
+          "Rarity": 1,
+          "Family": "Beastman",
+          "Up": 2,
+          "Down": 3,
+          "Right": 1,
+          "Left": 7
+        },
+        {
+          "Id": 34,
+          "Name": "Gerolt",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 1,
+          "Down": 3,
+          "Right": 7,
+          "Left": 7
+        },
+        {
+          "Id": 159,
+          "Name": "Delivery Moogle",
+          "Rarity": 2,
+          "Family": "Beastman",
+          "Up": 5,
+          "Down": 6,
+          "Right": 5,
+          "Left": 3
+        },
+        {
+          "Id": 27,
+          "Name": "Scarface Bugaal Ja",
+          "Rarity": 2,
+          "Family": "Beastman",
+          "Up": 6,
+          "Down": 2,
+          "Right": 6,
+          "Left": 6
+        }
+      ],
+      "Player1ConcealedCards": [],
+      "Player2RevealedCards": [
+        {
+          "Id": 81,
+          "Name": "Gaelicat",
+          "Rarity": 1,
+          "Family": "None",
+          "Up": 4,
+          "Down": 1,
+          "Right": 1,
+          "Left": 7
+        },
+        {
+          "Id": 64,
+          "Name": "Gaius van Baelsar",
+          "Rarity": 5,
+          "Family": "Garlean",
+          "Up": 4,
+          "Down": 5,
+          "Right": 10,
+          "Left": 9
+        }
+      ],
+      "Player2ConcealedCards": [
+        {
+          "Id": 18,
+          "Name": "Sahagin",
+          "Rarity": 1,
+          "Family": "Beastman",
+          "Up": 4,
+          "Down": 3,
+          "Right": 5,
+          "Left": 3
+        },
+        {
+          "Id": 32,
+          "Name": "Rhitahtyn sas Arvina",
+          "Rarity": 2,
+          "Family": "Garlean",
+          "Up": 7,
+          "Down": 3,
+          "Right": 1,
+          "Left": 7
+        },
+        {
+          "Id": 77,
+          "Name": "Tidus",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 10,
+          "Down": 1,
+          "Right": 7,
+          "Left": 9
+        },
+        {
+          "Id": 55,
+          "Name": "Shiva",
+          "Rarity": 4,
+          "Family": "Primal",
+          "Up": 1,
+          "Down": 8,
+          "Right": 8,
+          "Left": 8
+        }
+      ],
+      "Ownership": [
+        2,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "Wardenship": [
+        2,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "BoardCards": [
+        {
+          "Id": 84,
+          "Name": "Yugiri Mistwalker",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 7,
+          "Down": 1,
+          "Right": 7,
+          "Left": 3
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        }
+      ],
+      "IsDeterminized": false
+    },
+    {
+      "StartingPlayer": 2,
+      "Rules": "Swap, Chaos, Ascension",
+      "TurnCount": 2,
+      "RoundState": "Ongoing",
+      "PlayerToMove": 2,
+      "NextPlayerToMove": 1,
+      "Player1RevealedCards": [
+        {
+          "Id": 20,
+          "Name": "Moogle",
+          "Rarity": 1,
+          "Family": "Beastman",
+          "Up": 2,
+          "Down": 3,
+          "Right": 1,
+          "Left": 7
+        },
+        {
+          "Id": 16,
+          "Name": "Sylph",
+          "Rarity": 1,
+          "Family": "Beastman",
+          "Up": 2,
+          "Down": 5,
+          "Right": 4,
+          "Left": 4
+        },
+        {
+          "Id": 159,
+          "Name": "Delivery Moogle",
+          "Rarity": 2,
+          "Family": "Beastman",
+          "Up": 5,
+          "Down": 6,
+          "Right": 5,
+          "Left": 3
+        },
+        {
+          "Id": 27,
+          "Name": "Scarface Bugaal Ja",
+          "Rarity": 2,
+          "Family": "Beastman",
+          "Up": 6,
+          "Down": 2,
+          "Right": 6,
+          "Left": 6
+        }
+      ],
+      "Player1ConcealedCards": [],
+      "Player2RevealedCards": [
+        {
+          "Id": 81,
+          "Name": "Gaelicat",
+          "Rarity": 1,
+          "Family": "None",
+          "Up": 4,
+          "Down": 1,
+          "Right": 1,
+          "Left": 7
+        },
+        {
+          "Id": 64,
+          "Name": "Gaius van Baelsar",
+          "Rarity": 5,
+          "Family": "Garlean",
+          "Up": 4,
+          "Down": 5,
+          "Right": 10,
+          "Left": 9
+        }
+      ],
+      "Player2ConcealedCards": [
+        {
+          "Id": 18,
+          "Name": "Sahagin",
+          "Rarity": 1,
+          "Family": "Beastman",
+          "Up": 4,
+          "Down": 3,
+          "Right": 5,
+          "Left": 3
+        },
+        {
+          "Id": 32,
+          "Name": "Rhitahtyn sas Arvina",
+          "Rarity": 2,
+          "Family": "Garlean",
+          "Up": 7,
+          "Down": 3,
+          "Right": 1,
+          "Left": 7
+        },
+        {
+          "Id": 77,
+          "Name": "Tidus",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 10,
+          "Down": 1,
+          "Right": 7,
+          "Left": 9
+        },
+        {
+          "Id": 55,
+          "Name": "Shiva",
+          "Rarity": 4,
+          "Family": "Primal",
+          "Up": 1,
+          "Down": 8,
+          "Right": 8,
+          "Left": 8
+        }
+      ],
+      "Ownership": [
+        2,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        1,
+        -1
+      ],
+      "Wardenship": [
+        2,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        1,
+        -1
+      ],
+      "BoardCards": [
+        {
+          "Id": 84,
+          "Name": "Yugiri Mistwalker",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 7,
+          "Down": 1,
+          "Right": 7,
+          "Left": 3
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 34,
+          "Name": "Gerolt",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 1,
+          "Down": 3,
+          "Right": 7,
+          "Left": 7
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        }
+      ],
+      "IsDeterminized": false
+    },
+    {
+      "StartingPlayer": 2,
+      "Rules": "Swap, Chaos, Ascension",
+      "TurnCount": 3,
+      "RoundState": "Ongoing",
+      "PlayerToMove": 1,
+      "NextPlayerToMove": 2,
+      "Player1RevealedCards": [
+        {
+          "Id": 20,
+          "Name": "Moogle",
+          "Rarity": 1,
+          "Family": "Beastman",
+          "Up": 2,
+          "Down": 3,
+          "Right": 1,
+          "Left": 7
+        },
+        {
+          "Id": 16,
+          "Name": "Sylph",
+          "Rarity": 1,
+          "Family": "Beastman",
+          "Up": 2,
+          "Down": 5,
+          "Right": 4,
+          "Left": 4
+        },
+        {
+          "Id": 159,
+          "Name": "Delivery Moogle",
+          "Rarity": 2,
+          "Family": "Beastman",
+          "Up": 5,
+          "Down": 6,
+          "Right": 5,
+          "Left": 3
+        },
+        {
+          "Id": 27,
+          "Name": "Scarface Bugaal Ja",
+          "Rarity": 2,
+          "Family": "Beastman",
+          "Up": 6,
+          "Down": 2,
+          "Right": 6,
+          "Left": 6
+        }
+      ],
+      "Player1ConcealedCards": [],
+      "Player2RevealedCards": [
+        {
+          "Id": 81,
+          "Name": "Gaelicat",
+          "Rarity": 1,
+          "Family": "None",
+          "Up": 4,
+          "Down": 1,
+          "Right": 1,
+          "Left": 7
+        }
+      ],
+      "Player2ConcealedCards": [
+        {
+          "Id": 18,
+          "Name": "Sahagin",
+          "Rarity": 1,
+          "Family": "Beastman",
+          "Up": 4,
+          "Down": 3,
+          "Right": 5,
+          "Left": 3
+        },
+        {
+          "Id": 32,
+          "Name": "Rhitahtyn sas Arvina",
+          "Rarity": 2,
+          "Family": "Garlean",
+          "Up": 7,
+          "Down": 3,
+          "Right": 1,
+          "Left": 7
+        },
+        {
+          "Id": 77,
+          "Name": "Tidus",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 10,
+          "Down": 1,
+          "Right": 7,
+          "Left": 9
+        },
+        {
+          "Id": 55,
+          "Name": "Shiva",
+          "Rarity": 4,
+          "Family": "Primal",
+          "Up": 1,
+          "Down": 8,
+          "Right": 8,
+          "Left": 8
+        }
+      ],
+      "Ownership": [
+        2,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        1,
+        2
+      ],
+      "Wardenship": [
+        2,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        2,
+        2
+      ],
+      "BoardCards": [
+        {
+          "Id": 84,
+          "Name": "Yugiri Mistwalker",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 7,
+          "Down": 1,
+          "Right": 7,
+          "Left": 3
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 34,
+          "Name": "Gerolt",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 1,
+          "Down": 3,
+          "Right": 7,
+          "Left": 7
+        },
+        {
+          "Id": 64,
+          "Name": "Gaius van Baelsar",
+          "Rarity": 5,
+          "Family": "Garlean",
+          "Up": 4,
+          "Down": 5,
+          "Right": 10,
+          "Left": 9
+        }
+      ],
+      "IsDeterminized": false
+    },
+    {
+      "StartingPlayer": 2,
+      "Rules": "Swap, Chaos, Ascension",
+      "TurnCount": 4,
+      "RoundState": "Ongoing",
+      "PlayerToMove": 2,
+      "NextPlayerToMove": 1,
+      "Player1RevealedCards": [
+        {
+          "Id": 16,
+          "Name": "Sylph",
+          "Rarity": 1,
+          "Family": "Beastman",
+          "Up": 2,
+          "Down": 5,
+          "Right": 4,
+          "Left": 4
+        },
+        {
+          "Id": 159,
+          "Name": "Delivery Moogle",
+          "Rarity": 2,
+          "Family": "Beastman",
+          "Up": 5,
+          "Down": 6,
+          "Right": 5,
+          "Left": 3
+        },
+        {
+          "Id": 27,
+          "Name": "Scarface Bugaal Ja",
+          "Rarity": 2,
+          "Family": "Beastman",
+          "Up": 6,
+          "Down": 2,
+          "Right": 6,
+          "Left": 6
+        }
+      ],
+      "Player1ConcealedCards": [],
+      "Player2RevealedCards": [
+        {
+          "Id": 81,
+          "Name": "Gaelicat",
+          "Rarity": 1,
+          "Family": "None",
+          "Up": 4,
+          "Down": 1,
+          "Right": 1,
+          "Left": 7
+        }
+      ],
+      "Player2ConcealedCards": [
+        {
+          "Id": 18,
+          "Name": "Sahagin",
+          "Rarity": 1,
+          "Family": "Beastman",
+          "Up": 4,
+          "Down": 3,
+          "Right": 5,
+          "Left": 3
+        },
+        {
+          "Id": 32,
+          "Name": "Rhitahtyn sas Arvina",
+          "Rarity": 2,
+          "Family": "Garlean",
+          "Up": 7,
+          "Down": 3,
+          "Right": 1,
+          "Left": 7
+        },
+        {
+          "Id": 77,
+          "Name": "Tidus",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 10,
+          "Down": 1,
+          "Right": 7,
+          "Left": 9
+        },
+        {
+          "Id": 55,
+          "Name": "Shiva",
+          "Rarity": 4,
+          "Family": "Primal",
+          "Up": 1,
+          "Down": 8,
+          "Right": 8,
+          "Left": 8
+        }
+      ],
+      "Ownership": [
+        2,
+        -1,
+        1,
+        -1,
+        -1,
+        -1,
+        -1,
+        1,
+        2
+      ],
+      "Wardenship": [
+        2,
+        -1,
+        1,
+        -1,
+        -1,
+        -1,
+        -1,
+        2,
+        2
+      ],
+      "BoardCards": [
+        {
+          "Id": 84,
+          "Name": "Yugiri Mistwalker",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 7,
+          "Down": 1,
+          "Right": 7,
+          "Left": 3
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 20,
+          "Name": "Moogle",
+          "Rarity": 1,
+          "Family": "Beastman",
+          "Up": 2,
+          "Down": 3,
+          "Right": 1,
+          "Left": 7
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 34,
+          "Name": "Gerolt",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 1,
+          "Down": 3,
+          "Right": 7,
+          "Left": 7
+        },
+        {
+          "Id": 64,
+          "Name": "Gaius van Baelsar",
+          "Rarity": 5,
+          "Family": "Garlean",
+          "Up": 4,
+          "Down": 5,
+          "Right": 10,
+          "Left": 9
+        }
+      ],
+      "IsDeterminized": false
+    },
+    {
+      "StartingPlayer": 2,
+      "Rules": "Swap, Chaos, Ascension",
+      "TurnCount": 5,
+      "RoundState": "Ongoing",
+      "PlayerToMove": 1,
+      "NextPlayerToMove": 2,
+      "Player1RevealedCards": [
+        {
+          "Id": 16,
+          "Name": "Sylph",
+          "Rarity": 1,
+          "Family": "Beastman",
+          "Up": 2,
+          "Down": 5,
+          "Right": 4,
+          "Left": 4
+        },
+        {
+          "Id": 159,
+          "Name": "Delivery Moogle",
+          "Rarity": 2,
+          "Family": "Beastman",
+          "Up": 5,
+          "Down": 6,
+          "Right": 5,
+          "Left": 3
+        },
+        {
+          "Id": 27,
+          "Name": "Scarface Bugaal Ja",
+          "Rarity": 2,
+          "Family": "Beastman",
+          "Up": 6,
+          "Down": 2,
+          "Right": 6,
+          "Left": 6
+        }
+      ],
+      "Player1ConcealedCards": [],
+      "Player2RevealedCards": [
+        {
+          "Id": 81,
+          "Name": "Gaelicat",
+          "Rarity": 1,
+          "Family": "None",
+          "Up": 4,
+          "Down": 1,
+          "Right": 1,
+          "Left": 7
+        }
+      ],
+      "Player2ConcealedCards": [
+        {
+          "Id": 32,
+          "Name": "Rhitahtyn sas Arvina",
+          "Rarity": 2,
+          "Family": "Garlean",
+          "Up": 7,
+          "Down": 3,
+          "Right": 1,
+          "Left": 7
+        },
+        {
+          "Id": 77,
+          "Name": "Tidus",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 10,
+          "Down": 1,
+          "Right": 7,
+          "Left": 9
+        },
+        {
+          "Id": 55,
+          "Name": "Shiva",
+          "Rarity": 4,
+          "Family": "Primal",
+          "Up": 1,
+          "Down": 8,
+          "Right": 8,
+          "Left": 8
+        }
+      ],
+      "Ownership": [
+        2,
+        -1,
+        1,
+        -1,
+        -1,
+        2,
+        -1,
+        1,
+        2
+      ],
+      "Wardenship": [
+        2,
+        -1,
+        2,
+        -1,
+        -1,
+        2,
+        -1,
+        2,
+        2
+      ],
+      "BoardCards": [
+        {
+          "Id": 84,
+          "Name": "Yugiri Mistwalker",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 7,
+          "Down": 1,
+          "Right": 7,
+          "Left": 3
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 20,
+          "Name": "Moogle",
+          "Rarity": 1,
+          "Family": "Beastman",
+          "Up": 2,
+          "Down": 3,
+          "Right": 1,
+          "Left": 7
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 18,
+          "Name": "Sahagin",
+          "Rarity": 1,
+          "Family": "Beastman",
+          "Up": 4,
+          "Down": 3,
+          "Right": 5,
+          "Left": 3
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 34,
+          "Name": "Gerolt",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 1,
+          "Down": 3,
+          "Right": 7,
+          "Left": 7
+        },
+        {
+          "Id": 64,
+          "Name": "Gaius van Baelsar",
+          "Rarity": 5,
+          "Family": "Garlean",
+          "Up": 4,
+          "Down": 5,
+          "Right": 10,
+          "Left": 9
+        }
+      ],
+      "IsDeterminized": false
+    },
+    {
+      "StartingPlayer": 2,
+      "Rules": "Swap, Chaos, Ascension",
+      "TurnCount": 6,
+      "RoundState": "Ongoing",
+      "PlayerToMove": 2,
+      "NextPlayerToMove": 1,
+      "Player1RevealedCards": [
+        {
+          "Id": 159,
+          "Name": "Delivery Moogle",
+          "Rarity": 2,
+          "Family": "Beastman",
+          "Up": 5,
+          "Down": 6,
+          "Right": 5,
+          "Left": 3
+        },
+        {
+          "Id": 16,
+          "Name": "Sylph",
+          "Rarity": 1,
+          "Family": "Beastman",
+          "Up": 2,
+          "Down": 5,
+          "Right": 4,
+          "Left": 4
+        }
+      ],
+      "Player1ConcealedCards": [],
+      "Player2RevealedCards": [
+        {
+          "Id": 81,
+          "Name": "Gaelicat",
+          "Rarity": 1,
+          "Family": "None",
+          "Up": 4,
+          "Down": 1,
+          "Right": 1,
+          "Left": 7
+        }
+      ],
+      "Player2ConcealedCards": [
+        {
+          "Id": 32,
+          "Name": "Rhitahtyn sas Arvina",
+          "Rarity": 2,
+          "Family": "Garlean",
+          "Up": 7,
+          "Down": 3,
+          "Right": 1,
+          "Left": 7
+        },
+        {
+          "Id": 77,
+          "Name": "Tidus",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 10,
+          "Down": 1,
+          "Right": 7,
+          "Left": 9
+        },
+        {
+          "Id": 55,
+          "Name": "Shiva",
+          "Rarity": 4,
+          "Family": "Primal",
+          "Up": 1,
+          "Down": 8,
+          "Right": 8,
+          "Left": 8
+        }
+      ],
+      "Ownership": [
+        2,
+        -1,
+        1,
+        -1,
+        1,
+        2,
+        -1,
+        1,
+        2
+      ],
+      "Wardenship": [
+        2,
+        -1,
+        2,
+        -1,
+        1,
+        1,
+        -1,
+        1,
+        2
+      ],
+      "BoardCards": [
+        {
+          "Id": 84,
+          "Name": "Yugiri Mistwalker",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 7,
+          "Down": 1,
+          "Right": 7,
+          "Left": 3
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 20,
+          "Name": "Moogle",
+          "Rarity": 1,
+          "Family": "Beastman",
+          "Up": 2,
+          "Down": 3,
+          "Right": 1,
+          "Left": 7
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 27,
+          "Name": "Scarface Bugaal Ja",
+          "Rarity": 2,
+          "Family": "Beastman",
+          "Up": 6,
+          "Down": 2,
+          "Right": 6,
+          "Left": 6
+        },
+        {
+          "Id": 18,
+          "Name": "Sahagin",
+          "Rarity": 1,
+          "Family": "Beastman",
+          "Up": 4,
+          "Down": 3,
+          "Right": 5,
+          "Left": 3
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 34,
+          "Name": "Gerolt",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 1,
+          "Down": 3,
+          "Right": 7,
+          "Left": 7
+        },
+        {
+          "Id": 64,
+          "Name": "Gaius van Baelsar",
+          "Rarity": 5,
+          "Family": "Garlean",
+          "Up": 4,
+          "Down": 5,
+          "Right": 10,
+          "Left": 9
+        }
+      ],
+      "IsDeterminized": false
+    },
+    {
+      "StartingPlayer": 2,
+      "Rules": "Swap, Chaos, Ascension",
+      "TurnCount": 7,
+      "RoundState": "Ongoing",
+      "PlayerToMove": 1,
+      "NextPlayerToMove": 2,
+      "Player1RevealedCards": [
+        {
+          "Id": 159,
+          "Name": "Delivery Moogle",
+          "Rarity": 2,
+          "Family": "Beastman",
+          "Up": 5,
+          "Down": 6,
+          "Right": 5,
+          "Left": 3
+        },
+        {
+          "Id": 16,
+          "Name": "Sylph",
+          "Rarity": 1,
+          "Family": "Beastman",
+          "Up": 2,
+          "Down": 5,
+          "Right": 4,
+          "Left": 4
+        }
+      ],
+      "Player1ConcealedCards": [],
+      "Player2RevealedCards": [
+        {
+          "Id": 81,
+          "Name": "Gaelicat",
+          "Rarity": 1,
+          "Family": "None",
+          "Up": 4,
+          "Down": 1,
+          "Right": 1,
+          "Left": 7
+        }
+      ],
+      "Player2ConcealedCards": [],
+      "Ownership": [
+        2,
+        2,
+        1,
+        -1,
+        1,
+        2,
+        -1,
+        1,
+        2
+      ],
+      "Wardenship": [
+        2,
+        2,
+        2,
+        -1,
+        2,
+        1,
+        -1,
+        1,
+        2
+      ],
+      "BoardCards": [
+        {
+          "Id": 84,
+          "Name": "Yugiri Mistwalker",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 7,
+          "Down": 1,
+          "Right": 7,
+          "Left": 3
+        },
+        {
+          "Id": 32,
+          "Name": "Rhitahtyn sas Arvina",
+          "Rarity": 2,
+          "Family": "Garlean",
+          "Up": 7,
+          "Down": 3,
+          "Right": 1,
+          "Left": 7
+        },
+        {
+          "Id": 20,
+          "Name": "Moogle",
+          "Rarity": 1,
+          "Family": "Beastman",
+          "Up": 2,
+          "Down": 3,
+          "Right": 1,
+          "Left": 7
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 27,
+          "Name": "Scarface Bugaal Ja",
+          "Rarity": 2,
+          "Family": "Beastman",
+          "Up": 6,
+          "Down": 2,
+          "Right": 6,
+          "Left": 6
+        },
+        {
+          "Id": 18,
+          "Name": "Sahagin",
+          "Rarity": 1,
+          "Family": "Beastman",
+          "Up": 4,
+          "Down": 3,
+          "Right": 5,
+          "Left": 3
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 34,
+          "Name": "Gerolt",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 1,
+          "Down": 3,
+          "Right": 7,
+          "Left": 7
+        },
+        {
+          "Id": 64,
+          "Name": "Gaius van Baelsar",
+          "Rarity": 5,
+          "Family": "Garlean",
+          "Up": 4,
+          "Down": 5,
+          "Right": 10,
+          "Left": 9
+        }
+      ],
+      "IsDeterminized": true
+    },
+    {
+      "StartingPlayer": 2,
+      "Rules": "Swap, Chaos, Ascension",
+      "TurnCount": 8,
+      "RoundState": "Ongoing",
+      "PlayerToMove": 2,
+      "NextPlayerToMove": 1,
+      "Player1RevealedCards": [
+        {
+          "Id": 159,
+          "Name": "Delivery Moogle",
+          "Rarity": 2,
+          "Family": "Beastman",
+          "Up": 5,
+          "Down": 6,
+          "Right": 5,
+          "Left": 3
+        }
+      ],
+      "Player1ConcealedCards": [],
+      "Player2RevealedCards": [
+        {
+          "Id": 81,
+          "Name": "Gaelicat",
+          "Rarity": 1,
+          "Family": "None",
+          "Up": 4,
+          "Down": 1,
+          "Right": 1,
+          "Left": 7
+        }
+      ],
+      "Player2ConcealedCards": [],
+      "Ownership": [
+        2,
+        2,
+        1,
+        1,
+        1,
+        2,
+        -1,
+        1,
+        2
+      ],
+      "Wardenship": [
+        1,
+        2,
+        2,
+        1,
+        2,
+        1,
+        -1,
+        1,
+        2
+      ],
+      "BoardCards": [
+        {
+          "Id": 84,
+          "Name": "Yugiri Mistwalker",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 7,
+          "Down": 1,
+          "Right": 7,
+          "Left": 3
+        },
+        {
+          "Id": 32,
+          "Name": "Rhitahtyn sas Arvina",
+          "Rarity": 2,
+          "Family": "Garlean",
+          "Up": 7,
+          "Down": 3,
+          "Right": 1,
+          "Left": 7
+        },
+        {
+          "Id": 20,
+          "Name": "Moogle",
+          "Rarity": 1,
+          "Family": "Beastman",
+          "Up": 2,
+          "Down": 3,
+          "Right": 1,
+          "Left": 7
+        },
+        {
+          "Id": 16,
+          "Name": "Sylph",
+          "Rarity": 1,
+          "Family": "Beastman",
+          "Up": 2,
+          "Down": 5,
+          "Right": 4,
+          "Left": 4
+        },
+        {
+          "Id": 27,
+          "Name": "Scarface Bugaal Ja",
+          "Rarity": 2,
+          "Family": "Beastman",
+          "Up": 6,
+          "Down": 2,
+          "Right": 6,
+          "Left": 6
+        },
+        {
+          "Id": 18,
+          "Name": "Sahagin",
+          "Rarity": 1,
+          "Family": "Beastman",
+          "Up": 4,
+          "Down": 3,
+          "Right": 5,
+          "Left": 3
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 34,
+          "Name": "Gerolt",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 1,
+          "Down": 3,
+          "Right": 7,
+          "Left": 7
+        },
+        {
+          "Id": 64,
+          "Name": "Gaius van Baelsar",
+          "Rarity": 5,
+          "Family": "Garlean",
+          "Up": 4,
+          "Down": 5,
+          "Right": 10,
+          "Left": 9
+        }
+      ],
+      "IsDeterminized": true
+    },
+    {
+      "StartingPlayer": 2,
+      "Rules": "Swap, Chaos, Ascension",
+      "TurnCount": 9,
+      "RoundState": "Draw",
+      "PlayerToMove": 1,
+      "NextPlayerToMove": 2,
+      "Player1RevealedCards": [
+        {
+          "Id": 159,
+          "Name": "Delivery Moogle",
+          "Rarity": 2,
+          "Family": "Beastman",
+          "Up": 5,
+          "Down": 6,
+          "Right": 5,
+          "Left": 3
+        }
+      ],
+      "Player1ConcealedCards": [],
+      "Player2RevealedCards": [
+        {
+          "Id": 81,
+          "Name": "Gaelicat",
+          "Rarity": 1,
+          "Family": "None",
+          "Up": 4,
+          "Down": 1,
+          "Right": 1,
+          "Left": 7
+        }
+      ],
+      "Player2ConcealedCards": [],
+      "Ownership": [
+        2,
+        2,
+        1,
+        1,
+        1,
+        2,
+        2,
+        1,
+        2
+      ],
+      "Wardenship": [
+        1,
+        2,
+        2,
+        1,
+        2,
+        1,
+        2,
+        1,
+        2
+      ],
+      "BoardCards": [
+        {
+          "Id": 84,
+          "Name": "Yugiri Mistwalker",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 7,
+          "Down": 1,
+          "Right": 7,
+          "Left": 3
+        },
+        {
+          "Id": 32,
+          "Name": "Rhitahtyn sas Arvina",
+          "Rarity": 2,
+          "Family": "Garlean",
+          "Up": 7,
+          "Down": 3,
+          "Right": 1,
+          "Left": 7
+        },
+        {
+          "Id": 20,
+          "Name": "Moogle",
+          "Rarity": 1,
+          "Family": "Beastman",
+          "Up": 2,
+          "Down": 3,
+          "Right": 1,
+          "Left": 7
+        },
+        {
+          "Id": 16,
+          "Name": "Sylph",
+          "Rarity": 1,
+          "Family": "Beastman",
+          "Up": 2,
+          "Down": 5,
+          "Right": 4,
+          "Left": 4
+        },
+        {
+          "Id": 27,
+          "Name": "Scarface Bugaal Ja",
+          "Rarity": 2,
+          "Family": "Beastman",
+          "Up": 6,
+          "Down": 2,
+          "Right": 6,
+          "Left": 6
+        },
+        {
+          "Id": 18,
+          "Name": "Sahagin",
+          "Rarity": 1,
+          "Family": "Beastman",
+          "Up": 4,
+          "Down": 3,
+          "Right": 5,
+          "Left": 3
+        },
+        {
+          "Id": 81,
+          "Name": "Gaelicat",
+          "Rarity": 1,
+          "Family": "None",
+          "Up": 4,
+          "Down": 1,
+          "Right": 1,
+          "Left": 7
+        },
+        {
+          "Id": 34,
+          "Name": "Gerolt",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 1,
+          "Down": 3,
+          "Right": 7,
+          "Left": 7
+        },
+        {
+          "Id": 64,
+          "Name": "Gaius van Baelsar",
+          "Rarity": 5,
+          "Family": "Garlean",
+          "Up": 4,
+          "Down": 5,
+          "Right": 10,
+          "Left": 9
+        }
+      ],
+      "IsDeterminized": true
+    }
+  ]
+}

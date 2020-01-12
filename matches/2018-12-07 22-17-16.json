@@ -1,0 +1,2061 @@
+{
+  "Start": "2018-12-07T22:16:32.2753146-06:00",
+  "End": "2018-12-07T22:17:16.0552416-06:00",
+  "RegionalRule1": "Order",
+  "RegionalRule2": "None",
+  "MatchRule1": "ThreeOpen",
+  "MatchRule2": "None",
+  "Player1Name": "Default",
+  "Player2Name": "Fufulupa",
+  "Player1SelectedDeck": [
+    {
+      "Id": 30,
+      "Name": "Mother Miounne",
+      "Rarity": 2,
+      "Family": "None",
+      "Up": 5,
+      "Down": 3,
+      "Right": 5,
+      "Left": 7
+    },
+    {
+      "Id": 29,
+      "Name": "Baderon Tenfingers",
+      "Rarity": 2,
+      "Family": "None",
+      "Up": 3,
+      "Down": 5,
+      "Right": 7,
+      "Left": 5
+    },
+    {
+      "Id": 28,
+      "Name": "Momodi Modi",
+      "Rarity": 2,
+      "Family": "None",
+      "Up": 7,
+      "Down": 5,
+      "Right": 5,
+      "Left": 3
+    },
+    {
+      "Id": 27,
+      "Name": "Scarface Bugaal Ja",
+      "Rarity": 2,
+      "Family": "Beastman",
+      "Up": 6,
+      "Down": 2,
+      "Right": 6,
+      "Left": 6
+    },
+    {
+      "Id": 70,
+      "Name": "Onion Knight",
+      "Rarity": 5,
+      "Family": "None",
+      "Up": 8,
+      "Down": 8,
+      "Right": 2,
+      "Left": 10
+    }
+  ],
+  "Player2SelectedDeck": [
+    {
+      "Id": 33,
+      "Name": "Biggs & Wedge",
+      "Rarity": 2,
+      "Family": "None",
+      "Up": 5,
+      "Down": 7,
+      "Right": 3,
+      "Left": 5
+    },
+    {
+      "Id": 28,
+      "Name": "Momodi Modi",
+      "Rarity": 2,
+      "Family": "None",
+      "Up": 7,
+      "Down": 5,
+      "Right": 5,
+      "Left": 3
+    },
+    {
+      "Id": 2,
+      "Name": "Tonberry",
+      "Rarity": 1,
+      "Family": "None",
+      "Up": 2,
+      "Down": 7,
+      "Right": 2,
+      "Left": 2
+    },
+    {
+      "Id": 67,
+      "Name": "Raubahn Aldynn",
+      "Rarity": 5,
+      "Family": "None",
+      "Up": 6,
+      "Down": 9,
+      "Right": 2,
+      "Left": 10
+    },
+    {
+      "Id": 46,
+      "Name": "Thancred",
+      "Rarity": 3,
+      "Family": "Scion",
+      "Up": 2,
+      "Down": 8,
+      "Right": 3,
+      "Left": 7
+    },
+    {
+      "Id": 19,
+      "Name": "Tataru Taru",
+      "Rarity": 1,
+      "Family": "Scion",
+      "Up": 7,
+      "Down": 3,
+      "Right": 2,
+      "Left": 2
+    },
+    {
+      "Id": 20,
+      "Name": "Moogle",
+      "Rarity": 1,
+      "Family": "Beastman",
+      "Up": 2,
+      "Down": 3,
+      "Right": 1,
+      "Left": 7
+    },
+    {
+      "Id": 13,
+      "Name": "Chocobo",
+      "Rarity": 1,
+      "Family": "None",
+      "Up": 3,
+      "Down": 2,
+      "Right": 7,
+      "Left": 1
+    }
+  ],
+  "MoveHistory": [
+    {
+      "Card": {
+        "Id": 33,
+        "Name": "Biggs & Wedge",
+        "Rarity": 2,
+        "Family": "None",
+        "Up": 5,
+        "Down": 7,
+        "Right": 3,
+        "Left": 5
+      },
+      "Position": 8
+    },
+    {
+      "Card": {
+        "Id": 30,
+        "Name": "Mother Miounne",
+        "Rarity": 2,
+        "Family": "None",
+        "Up": 5,
+        "Down": 3,
+        "Right": 5,
+        "Left": 7
+      },
+      "Position": 0
+    },
+    {
+      "Card": {
+        "Id": 28,
+        "Name": "Momodi Modi",
+        "Rarity": 2,
+        "Family": "None",
+        "Up": 7,
+        "Down": 5,
+        "Right": 5,
+        "Left": 3
+      },
+      "Position": 1
+    },
+    {
+      "Card": {
+        "Id": 29,
+        "Name": "Baderon Tenfingers",
+        "Rarity": 2,
+        "Family": "None",
+        "Up": 3,
+        "Down": 5,
+        "Right": 7,
+        "Left": 5
+      },
+      "Position": 7
+    },
+    {
+      "Card": {
+        "Id": 2,
+        "Name": "Tonberry",
+        "Rarity": 1,
+        "Family": "None",
+        "Up": 2,
+        "Down": 7,
+        "Right": 2,
+        "Left": 2
+      },
+      "Position": 2
+    },
+    {
+      "Card": {
+        "Id": 28,
+        "Name": "Momodi Modi",
+        "Rarity": 2,
+        "Family": "None",
+        "Up": 7,
+        "Down": 5,
+        "Right": 5,
+        "Left": 3
+      },
+      "Position": 5
+    },
+    {
+      "Card": {
+        "Id": 46,
+        "Name": "Thancred",
+        "Rarity": 3,
+        "Family": "Scion",
+        "Up": 2,
+        "Down": 8,
+        "Right": 3,
+        "Left": 7
+      },
+      "Position": 6
+    },
+    {
+      "Card": {
+        "Id": 27,
+        "Name": "Scarface Bugaal Ja",
+        "Rarity": 2,
+        "Family": "Beastman",
+        "Up": 6,
+        "Down": 2,
+        "Right": 6,
+        "Left": 6
+      },
+      "Position": 3
+    },
+    {
+      "Card": {
+        "Id": 13,
+        "Name": "Chocobo",
+        "Rarity": 1,
+        "Family": "None",
+        "Up": 3,
+        "Down": 2,
+        "Right": 7,
+        "Left": 1
+      },
+      "Position": 4
+    }
+  ],
+  "RoundHistory": [
+    {
+      "StartingPlayer": 2,
+      "Rules": "ThreeOpen, Order",
+      "TurnCount": 1,
+      "RoundState": "Ongoing",
+      "PlayerToMove": 1,
+      "NextPlayerToMove": 2,
+      "Player1RevealedCards": [
+        {
+          "Id": 30,
+          "Name": "Mother Miounne",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 5,
+          "Down": 3,
+          "Right": 5,
+          "Left": 7
+        },
+        {
+          "Id": 29,
+          "Name": "Baderon Tenfingers",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 3,
+          "Down": 5,
+          "Right": 7,
+          "Left": 5
+        },
+        {
+          "Id": 28,
+          "Name": "Momodi Modi",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 7,
+          "Down": 5,
+          "Right": 5,
+          "Left": 3
+        },
+        {
+          "Id": 27,
+          "Name": "Scarface Bugaal Ja",
+          "Rarity": 2,
+          "Family": "Beastman",
+          "Up": 6,
+          "Down": 2,
+          "Right": 6,
+          "Left": 6
+        },
+        {
+          "Id": 70,
+          "Name": "Onion Knight",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 8,
+          "Down": 8,
+          "Right": 2,
+          "Left": 10
+        }
+      ],
+      "Player1ConcealedCards": [],
+      "Player2RevealedCards": [
+        {
+          "Id": 28,
+          "Name": "Momodi Modi",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 7,
+          "Down": 5,
+          "Right": 5,
+          "Left": 3
+        },
+        {
+          "Id": 2,
+          "Name": "Tonberry",
+          "Rarity": 1,
+          "Family": "None",
+          "Up": 2,
+          "Down": 7,
+          "Right": 2,
+          "Left": 2
+        },
+        {
+          "Id": 13,
+          "Name": "Chocobo",
+          "Rarity": 1,
+          "Family": "None",
+          "Up": 3,
+          "Down": 2,
+          "Right": 7,
+          "Left": 1
+        }
+      ],
+      "Player2ConcealedCards": [
+        {
+          "Id": 67,
+          "Name": "Raubahn Aldynn",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 6,
+          "Down": 9,
+          "Right": 2,
+          "Left": 10
+        },
+        {
+          "Id": 46,
+          "Name": "Thancred",
+          "Rarity": 3,
+          "Family": "Scion",
+          "Up": 2,
+          "Down": 8,
+          "Right": 3,
+          "Left": 7
+        },
+        {
+          "Id": 19,
+          "Name": "Tataru Taru",
+          "Rarity": 1,
+          "Family": "Scion",
+          "Up": 7,
+          "Down": 3,
+          "Right": 2,
+          "Left": 2
+        },
+        {
+          "Id": 20,
+          "Name": "Moogle",
+          "Rarity": 1,
+          "Family": "Beastman",
+          "Up": 2,
+          "Down": 3,
+          "Right": 1,
+          "Left": 7
+        }
+      ],
+      "Ownership": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        2
+      ],
+      "Wardenship": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        2
+      ],
+      "BoardCards": [
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 33,
+          "Name": "Biggs & Wedge",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 5,
+          "Down": 7,
+          "Right": 3,
+          "Left": 5
+        }
+      ],
+      "IsDeterminized": false
+    },
+    {
+      "StartingPlayer": 2,
+      "Rules": "ThreeOpen, Order",
+      "TurnCount": 2,
+      "RoundState": "Ongoing",
+      "PlayerToMove": 2,
+      "NextPlayerToMove": 1,
+      "Player1RevealedCards": [
+        {
+          "Id": 29,
+          "Name": "Baderon Tenfingers",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 3,
+          "Down": 5,
+          "Right": 7,
+          "Left": 5
+        },
+        {
+          "Id": 28,
+          "Name": "Momodi Modi",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 7,
+          "Down": 5,
+          "Right": 5,
+          "Left": 3
+        },
+        {
+          "Id": 27,
+          "Name": "Scarface Bugaal Ja",
+          "Rarity": 2,
+          "Family": "Beastman",
+          "Up": 6,
+          "Down": 2,
+          "Right": 6,
+          "Left": 6
+        },
+        {
+          "Id": 70,
+          "Name": "Onion Knight",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 8,
+          "Down": 8,
+          "Right": 2,
+          "Left": 10
+        }
+      ],
+      "Player1ConcealedCards": [],
+      "Player2RevealedCards": [
+        {
+          "Id": 28,
+          "Name": "Momodi Modi",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 7,
+          "Down": 5,
+          "Right": 5,
+          "Left": 3
+        },
+        {
+          "Id": 2,
+          "Name": "Tonberry",
+          "Rarity": 1,
+          "Family": "None",
+          "Up": 2,
+          "Down": 7,
+          "Right": 2,
+          "Left": 2
+        },
+        {
+          "Id": 13,
+          "Name": "Chocobo",
+          "Rarity": 1,
+          "Family": "None",
+          "Up": 3,
+          "Down": 2,
+          "Right": 7,
+          "Left": 1
+        }
+      ],
+      "Player2ConcealedCards": [
+        {
+          "Id": 67,
+          "Name": "Raubahn Aldynn",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 6,
+          "Down": 9,
+          "Right": 2,
+          "Left": 10
+        },
+        {
+          "Id": 46,
+          "Name": "Thancred",
+          "Rarity": 3,
+          "Family": "Scion",
+          "Up": 2,
+          "Down": 8,
+          "Right": 3,
+          "Left": 7
+        },
+        {
+          "Id": 19,
+          "Name": "Tataru Taru",
+          "Rarity": 1,
+          "Family": "Scion",
+          "Up": 7,
+          "Down": 3,
+          "Right": 2,
+          "Left": 2
+        },
+        {
+          "Id": 20,
+          "Name": "Moogle",
+          "Rarity": 1,
+          "Family": "Beastman",
+          "Up": 2,
+          "Down": 3,
+          "Right": 1,
+          "Left": 7
+        }
+      ],
+      "Ownership": [
+        1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        2
+      ],
+      "Wardenship": [
+        1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        2
+      ],
+      "BoardCards": [
+        {
+          "Id": 30,
+          "Name": "Mother Miounne",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 5,
+          "Down": 3,
+          "Right": 5,
+          "Left": 7
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 33,
+          "Name": "Biggs & Wedge",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 5,
+          "Down": 7,
+          "Right": 3,
+          "Left": 5
+        }
+      ],
+      "IsDeterminized": false
+    },
+    {
+      "StartingPlayer": 2,
+      "Rules": "ThreeOpen, Order",
+      "TurnCount": 3,
+      "RoundState": "Ongoing",
+      "PlayerToMove": 1,
+      "NextPlayerToMove": 2,
+      "Player1RevealedCards": [
+        {
+          "Id": 29,
+          "Name": "Baderon Tenfingers",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 3,
+          "Down": 5,
+          "Right": 7,
+          "Left": 5
+        },
+        {
+          "Id": 28,
+          "Name": "Momodi Modi",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 7,
+          "Down": 5,
+          "Right": 5,
+          "Left": 3
+        },
+        {
+          "Id": 27,
+          "Name": "Scarface Bugaal Ja",
+          "Rarity": 2,
+          "Family": "Beastman",
+          "Up": 6,
+          "Down": 2,
+          "Right": 6,
+          "Left": 6
+        },
+        {
+          "Id": 70,
+          "Name": "Onion Knight",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 8,
+          "Down": 8,
+          "Right": 2,
+          "Left": 10
+        }
+      ],
+      "Player1ConcealedCards": [],
+      "Player2RevealedCards": [
+        {
+          "Id": 2,
+          "Name": "Tonberry",
+          "Rarity": 1,
+          "Family": "None",
+          "Up": 2,
+          "Down": 7,
+          "Right": 2,
+          "Left": 2
+        },
+        {
+          "Id": 13,
+          "Name": "Chocobo",
+          "Rarity": 1,
+          "Family": "None",
+          "Up": 3,
+          "Down": 2,
+          "Right": 7,
+          "Left": 1
+        }
+      ],
+      "Player2ConcealedCards": [
+        {
+          "Id": 67,
+          "Name": "Raubahn Aldynn",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 6,
+          "Down": 9,
+          "Right": 2,
+          "Left": 10
+        },
+        {
+          "Id": 46,
+          "Name": "Thancred",
+          "Rarity": 3,
+          "Family": "Scion",
+          "Up": 2,
+          "Down": 8,
+          "Right": 3,
+          "Left": 7
+        },
+        {
+          "Id": 19,
+          "Name": "Tataru Taru",
+          "Rarity": 1,
+          "Family": "Scion",
+          "Up": 7,
+          "Down": 3,
+          "Right": 2,
+          "Left": 2
+        },
+        {
+          "Id": 20,
+          "Name": "Moogle",
+          "Rarity": 1,
+          "Family": "Beastman",
+          "Up": 2,
+          "Down": 3,
+          "Right": 1,
+          "Left": 7
+        }
+      ],
+      "Ownership": [
+        1,
+        2,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        2
+      ],
+      "Wardenship": [
+        1,
+        2,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        2
+      ],
+      "BoardCards": [
+        {
+          "Id": 30,
+          "Name": "Mother Miounne",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 5,
+          "Down": 3,
+          "Right": 5,
+          "Left": 7
+        },
+        {
+          "Id": 28,
+          "Name": "Momodi Modi",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 7,
+          "Down": 5,
+          "Right": 5,
+          "Left": 3
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 33,
+          "Name": "Biggs & Wedge",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 5,
+          "Down": 7,
+          "Right": 3,
+          "Left": 5
+        }
+      ],
+      "IsDeterminized": false
+    },
+    {
+      "StartingPlayer": 2,
+      "Rules": "ThreeOpen, Order",
+      "TurnCount": 4,
+      "RoundState": "Ongoing",
+      "PlayerToMove": 2,
+      "NextPlayerToMove": 1,
+      "Player1RevealedCards": [
+        {
+          "Id": 28,
+          "Name": "Momodi Modi",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 7,
+          "Down": 5,
+          "Right": 5,
+          "Left": 3
+        },
+        {
+          "Id": 27,
+          "Name": "Scarface Bugaal Ja",
+          "Rarity": 2,
+          "Family": "Beastman",
+          "Up": 6,
+          "Down": 2,
+          "Right": 6,
+          "Left": 6
+        },
+        {
+          "Id": 70,
+          "Name": "Onion Knight",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 8,
+          "Down": 8,
+          "Right": 2,
+          "Left": 10
+        }
+      ],
+      "Player1ConcealedCards": [],
+      "Player2RevealedCards": [
+        {
+          "Id": 2,
+          "Name": "Tonberry",
+          "Rarity": 1,
+          "Family": "None",
+          "Up": 2,
+          "Down": 7,
+          "Right": 2,
+          "Left": 2
+        },
+        {
+          "Id": 13,
+          "Name": "Chocobo",
+          "Rarity": 1,
+          "Family": "None",
+          "Up": 3,
+          "Down": 2,
+          "Right": 7,
+          "Left": 1
+        }
+      ],
+      "Player2ConcealedCards": [
+        {
+          "Id": 67,
+          "Name": "Raubahn Aldynn",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 6,
+          "Down": 9,
+          "Right": 2,
+          "Left": 10
+        },
+        {
+          "Id": 46,
+          "Name": "Thancred",
+          "Rarity": 3,
+          "Family": "Scion",
+          "Up": 2,
+          "Down": 8,
+          "Right": 3,
+          "Left": 7
+        },
+        {
+          "Id": 19,
+          "Name": "Tataru Taru",
+          "Rarity": 1,
+          "Family": "Scion",
+          "Up": 7,
+          "Down": 3,
+          "Right": 2,
+          "Left": 2
+        },
+        {
+          "Id": 20,
+          "Name": "Moogle",
+          "Rarity": 1,
+          "Family": "Beastman",
+          "Up": 2,
+          "Down": 3,
+          "Right": 1,
+          "Left": 7
+        }
+      ],
+      "Ownership": [
+        1,
+        2,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        1,
+        2
+      ],
+      "Wardenship": [
+        1,
+        2,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        1,
+        1
+      ],
+      "BoardCards": [
+        {
+          "Id": 30,
+          "Name": "Mother Miounne",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 5,
+          "Down": 3,
+          "Right": 5,
+          "Left": 7
+        },
+        {
+          "Id": 28,
+          "Name": "Momodi Modi",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 7,
+          "Down": 5,
+          "Right": 5,
+          "Left": 3
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 29,
+          "Name": "Baderon Tenfingers",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 3,
+          "Down": 5,
+          "Right": 7,
+          "Left": 5
+        },
+        {
+          "Id": 33,
+          "Name": "Biggs & Wedge",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 5,
+          "Down": 7,
+          "Right": 3,
+          "Left": 5
+        }
+      ],
+      "IsDeterminized": false
+    },
+    {
+      "StartingPlayer": 2,
+      "Rules": "ThreeOpen, Order",
+      "TurnCount": 5,
+      "RoundState": "Ongoing",
+      "PlayerToMove": 1,
+      "NextPlayerToMove": 2,
+      "Player1RevealedCards": [
+        {
+          "Id": 28,
+          "Name": "Momodi Modi",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 7,
+          "Down": 5,
+          "Right": 5,
+          "Left": 3
+        },
+        {
+          "Id": 27,
+          "Name": "Scarface Bugaal Ja",
+          "Rarity": 2,
+          "Family": "Beastman",
+          "Up": 6,
+          "Down": 2,
+          "Right": 6,
+          "Left": 6
+        },
+        {
+          "Id": 70,
+          "Name": "Onion Knight",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 8,
+          "Down": 8,
+          "Right": 2,
+          "Left": 10
+        }
+      ],
+      "Player1ConcealedCards": [],
+      "Player2RevealedCards": [
+        {
+          "Id": 13,
+          "Name": "Chocobo",
+          "Rarity": 1,
+          "Family": "None",
+          "Up": 3,
+          "Down": 2,
+          "Right": 7,
+          "Left": 1
+        }
+      ],
+      "Player2ConcealedCards": [
+        {
+          "Id": 67,
+          "Name": "Raubahn Aldynn",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 6,
+          "Down": 9,
+          "Right": 2,
+          "Left": 10
+        },
+        {
+          "Id": 46,
+          "Name": "Thancred",
+          "Rarity": 3,
+          "Family": "Scion",
+          "Up": 2,
+          "Down": 8,
+          "Right": 3,
+          "Left": 7
+        },
+        {
+          "Id": 19,
+          "Name": "Tataru Taru",
+          "Rarity": 1,
+          "Family": "Scion",
+          "Up": 7,
+          "Down": 3,
+          "Right": 2,
+          "Left": 2
+        },
+        {
+          "Id": 20,
+          "Name": "Moogle",
+          "Rarity": 1,
+          "Family": "Beastman",
+          "Up": 2,
+          "Down": 3,
+          "Right": 1,
+          "Left": 7
+        }
+      ],
+      "Ownership": [
+        1,
+        2,
+        2,
+        -1,
+        -1,
+        -1,
+        -1,
+        1,
+        2
+      ],
+      "Wardenship": [
+        1,
+        2,
+        2,
+        -1,
+        -1,
+        -1,
+        -1,
+        1,
+        1
+      ],
+      "BoardCards": [
+        {
+          "Id": 30,
+          "Name": "Mother Miounne",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 5,
+          "Down": 3,
+          "Right": 5,
+          "Left": 7
+        },
+        {
+          "Id": 28,
+          "Name": "Momodi Modi",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 7,
+          "Down": 5,
+          "Right": 5,
+          "Left": 3
+        },
+        {
+          "Id": 2,
+          "Name": "Tonberry",
+          "Rarity": 1,
+          "Family": "None",
+          "Up": 2,
+          "Down": 7,
+          "Right": 2,
+          "Left": 2
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 29,
+          "Name": "Baderon Tenfingers",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 3,
+          "Down": 5,
+          "Right": 7,
+          "Left": 5
+        },
+        {
+          "Id": 33,
+          "Name": "Biggs & Wedge",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 5,
+          "Down": 7,
+          "Right": 3,
+          "Left": 5
+        }
+      ],
+      "IsDeterminized": false
+    },
+    {
+      "StartingPlayer": 2,
+      "Rules": "ThreeOpen, Order",
+      "TurnCount": 6,
+      "RoundState": "Ongoing",
+      "PlayerToMove": 2,
+      "NextPlayerToMove": 1,
+      "Player1RevealedCards": [
+        {
+          "Id": 27,
+          "Name": "Scarface Bugaal Ja",
+          "Rarity": 2,
+          "Family": "Beastman",
+          "Up": 6,
+          "Down": 2,
+          "Right": 6,
+          "Left": 6
+        },
+        {
+          "Id": 70,
+          "Name": "Onion Knight",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 8,
+          "Down": 8,
+          "Right": 2,
+          "Left": 10
+        }
+      ],
+      "Player1ConcealedCards": [],
+      "Player2RevealedCards": [
+        {
+          "Id": 13,
+          "Name": "Chocobo",
+          "Rarity": 1,
+          "Family": "None",
+          "Up": 3,
+          "Down": 2,
+          "Right": 7,
+          "Left": 1
+        }
+      ],
+      "Player2ConcealedCards": [
+        {
+          "Id": 67,
+          "Name": "Raubahn Aldynn",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 6,
+          "Down": 9,
+          "Right": 2,
+          "Left": 10
+        },
+        {
+          "Id": 46,
+          "Name": "Thancred",
+          "Rarity": 3,
+          "Family": "Scion",
+          "Up": 2,
+          "Down": 8,
+          "Right": 3,
+          "Left": 7
+        },
+        {
+          "Id": 19,
+          "Name": "Tataru Taru",
+          "Rarity": 1,
+          "Family": "Scion",
+          "Up": 7,
+          "Down": 3,
+          "Right": 2,
+          "Left": 2
+        },
+        {
+          "Id": 20,
+          "Name": "Moogle",
+          "Rarity": 1,
+          "Family": "Beastman",
+          "Up": 2,
+          "Down": 3,
+          "Right": 1,
+          "Left": 7
+        }
+      ],
+      "Ownership": [
+        1,
+        2,
+        2,
+        -1,
+        -1,
+        1,
+        -1,
+        1,
+        2
+      ],
+      "Wardenship": [
+        1,
+        2,
+        1,
+        -1,
+        -1,
+        1,
+        -1,
+        1,
+        1
+      ],
+      "BoardCards": [
+        {
+          "Id": 30,
+          "Name": "Mother Miounne",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 5,
+          "Down": 3,
+          "Right": 5,
+          "Left": 7
+        },
+        {
+          "Id": 28,
+          "Name": "Momodi Modi",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 7,
+          "Down": 5,
+          "Right": 5,
+          "Left": 3
+        },
+        {
+          "Id": 2,
+          "Name": "Tonberry",
+          "Rarity": 1,
+          "Family": "None",
+          "Up": 2,
+          "Down": 7,
+          "Right": 2,
+          "Left": 2
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 28,
+          "Name": "Momodi Modi",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 7,
+          "Down": 5,
+          "Right": 5,
+          "Left": 3
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 29,
+          "Name": "Baderon Tenfingers",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 3,
+          "Down": 5,
+          "Right": 7,
+          "Left": 5
+        },
+        {
+          "Id": 33,
+          "Name": "Biggs & Wedge",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 5,
+          "Down": 7,
+          "Right": 3,
+          "Left": 5
+        }
+      ],
+      "IsDeterminized": false
+    },
+    {
+      "StartingPlayer": 2,
+      "Rules": "ThreeOpen, Order",
+      "TurnCount": 7,
+      "RoundState": "Ongoing",
+      "PlayerToMove": 1,
+      "NextPlayerToMove": 2,
+      "Player1RevealedCards": [
+        {
+          "Id": 27,
+          "Name": "Scarface Bugaal Ja",
+          "Rarity": 2,
+          "Family": "Beastman",
+          "Up": 6,
+          "Down": 2,
+          "Right": 6,
+          "Left": 6
+        },
+        {
+          "Id": 70,
+          "Name": "Onion Knight",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 8,
+          "Down": 8,
+          "Right": 2,
+          "Left": 10
+        }
+      ],
+      "Player1ConcealedCards": [],
+      "Player2RevealedCards": [
+        {
+          "Id": 13,
+          "Name": "Chocobo",
+          "Rarity": 1,
+          "Family": "None",
+          "Up": 3,
+          "Down": 2,
+          "Right": 7,
+          "Left": 1
+        }
+      ],
+      "Player2ConcealedCards": [],
+      "Ownership": [
+        1,
+        2,
+        2,
+        -1,
+        -1,
+        1,
+        2,
+        1,
+        2
+      ],
+      "Wardenship": [
+        1,
+        2,
+        1,
+        -1,
+        -1,
+        1,
+        2,
+        1,
+        1
+      ],
+      "BoardCards": [
+        {
+          "Id": 30,
+          "Name": "Mother Miounne",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 5,
+          "Down": 3,
+          "Right": 5,
+          "Left": 7
+        },
+        {
+          "Id": 28,
+          "Name": "Momodi Modi",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 7,
+          "Down": 5,
+          "Right": 5,
+          "Left": 3
+        },
+        {
+          "Id": 2,
+          "Name": "Tonberry",
+          "Rarity": 1,
+          "Family": "None",
+          "Up": 2,
+          "Down": 7,
+          "Right": 2,
+          "Left": 2
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 28,
+          "Name": "Momodi Modi",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 7,
+          "Down": 5,
+          "Right": 5,
+          "Left": 3
+        },
+        {
+          "Id": 46,
+          "Name": "Thancred",
+          "Rarity": 3,
+          "Family": "Scion",
+          "Up": 2,
+          "Down": 8,
+          "Right": 3,
+          "Left": 7
+        },
+        {
+          "Id": 29,
+          "Name": "Baderon Tenfingers",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 3,
+          "Down": 5,
+          "Right": 7,
+          "Left": 5
+        },
+        {
+          "Id": 33,
+          "Name": "Biggs & Wedge",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 5,
+          "Down": 7,
+          "Right": 3,
+          "Left": 5
+        }
+      ],
+      "IsDeterminized": true
+    },
+    {
+      "StartingPlayer": 2,
+      "Rules": "ThreeOpen, Order",
+      "TurnCount": 8,
+      "RoundState": "Ongoing",
+      "PlayerToMove": 2,
+      "NextPlayerToMove": 1,
+      "Player1RevealedCards": [
+        {
+          "Id": 70,
+          "Name": "Onion Knight",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 8,
+          "Down": 8,
+          "Right": 2,
+          "Left": 10
+        }
+      ],
+      "Player1ConcealedCards": [],
+      "Player2RevealedCards": [
+        {
+          "Id": 13,
+          "Name": "Chocobo",
+          "Rarity": 1,
+          "Family": "None",
+          "Up": 3,
+          "Down": 2,
+          "Right": 7,
+          "Left": 1
+        }
+      ],
+      "Player2ConcealedCards": [],
+      "Ownership": [
+        1,
+        2,
+        2,
+        1,
+        -1,
+        1,
+        2,
+        1,
+        2
+      ],
+      "Wardenship": [
+        1,
+        2,
+        1,
+        1,
+        -1,
+        1,
+        2,
+        1,
+        1
+      ],
+      "BoardCards": [
+        {
+          "Id": 30,
+          "Name": "Mother Miounne",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 5,
+          "Down": 3,
+          "Right": 5,
+          "Left": 7
+        },
+        {
+          "Id": 28,
+          "Name": "Momodi Modi",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 7,
+          "Down": 5,
+          "Right": 5,
+          "Left": 3
+        },
+        {
+          "Id": 2,
+          "Name": "Tonberry",
+          "Rarity": 1,
+          "Family": "None",
+          "Up": 2,
+          "Down": 7,
+          "Right": 2,
+          "Left": 2
+        },
+        {
+          "Id": 27,
+          "Name": "Scarface Bugaal Ja",
+          "Rarity": 2,
+          "Family": "Beastman",
+          "Up": 6,
+          "Down": 2,
+          "Right": 6,
+          "Left": 6
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 28,
+          "Name": "Momodi Modi",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 7,
+          "Down": 5,
+          "Right": 5,
+          "Left": 3
+        },
+        {
+          "Id": 46,
+          "Name": "Thancred",
+          "Rarity": 3,
+          "Family": "Scion",
+          "Up": 2,
+          "Down": 8,
+          "Right": 3,
+          "Left": 7
+        },
+        {
+          "Id": 29,
+          "Name": "Baderon Tenfingers",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 3,
+          "Down": 5,
+          "Right": 7,
+          "Left": 5
+        },
+        {
+          "Id": 33,
+          "Name": "Biggs & Wedge",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 5,
+          "Down": 7,
+          "Right": 3,
+          "Left": 5
+        }
+      ],
+      "IsDeterminized": true
+    },
+    {
+      "StartingPlayer": 2,
+      "Rules": "ThreeOpen, Order",
+      "TurnCount": 9,
+      "RoundState": "Player1Win",
+      "PlayerToMove": 1,
+      "NextPlayerToMove": 2,
+      "Player1RevealedCards": [
+        {
+          "Id": 70,
+          "Name": "Onion Knight",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 8,
+          "Down": 8,
+          "Right": 2,
+          "Left": 10
+        }
+      ],
+      "Player1ConcealedCards": [],
+      "Player2RevealedCards": [],
+      "Player2ConcealedCards": [],
+      "Ownership": [
+        1,
+        2,
+        2,
+        1,
+        2,
+        1,
+        2,
+        1,
+        2
+      ],
+      "Wardenship": [
+        1,
+        2,
+        1,
+        1,
+        2,
+        2,
+        2,
+        1,
+        1
+      ],
+      "BoardCards": [
+        {
+          "Id": 30,
+          "Name": "Mother Miounne",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 5,
+          "Down": 3,
+          "Right": 5,
+          "Left": 7
+        },
+        {
+          "Id": 28,
+          "Name": "Momodi Modi",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 7,
+          "Down": 5,
+          "Right": 5,
+          "Left": 3
+        },
+        {
+          "Id": 2,
+          "Name": "Tonberry",
+          "Rarity": 1,
+          "Family": "None",
+          "Up": 2,
+          "Down": 7,
+          "Right": 2,
+          "Left": 2
+        },
+        {
+          "Id": 27,
+          "Name": "Scarface Bugaal Ja",
+          "Rarity": 2,
+          "Family": "Beastman",
+          "Up": 6,
+          "Down": 2,
+          "Right": 6,
+          "Left": 6
+        },
+        {
+          "Id": 13,
+          "Name": "Chocobo",
+          "Rarity": 1,
+          "Family": "None",
+          "Up": 3,
+          "Down": 2,
+          "Right": 7,
+          "Left": 1
+        },
+        {
+          "Id": 28,
+          "Name": "Momodi Modi",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 7,
+          "Down": 5,
+          "Right": 5,
+          "Left": 3
+        },
+        {
+          "Id": 46,
+          "Name": "Thancred",
+          "Rarity": 3,
+          "Family": "Scion",
+          "Up": 2,
+          "Down": 8,
+          "Right": 3,
+          "Left": 7
+        },
+        {
+          "Id": 29,
+          "Name": "Baderon Tenfingers",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 3,
+          "Down": 5,
+          "Right": 7,
+          "Left": 5
+        },
+        {
+          "Id": 33,
+          "Name": "Biggs & Wedge",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 5,
+          "Down": 7,
+          "Right": 3,
+          "Left": 5
+        }
+      ],
+      "IsDeterminized": true
+    }
+  ]
+}

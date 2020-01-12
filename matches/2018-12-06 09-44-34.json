@@ -1,0 +1,1912 @@
+{
+  "Start": "2018-12-06T09:43:59.0718558-06:00",
+  "End": "2018-12-06T09:44:34.9318582-06:00",
+  "RegionalRule1": "None",
+  "RegionalRule2": "None",
+  "MatchRule1": "Swap",
+  "MatchRule2": "SuddenDeath",
+  "Player1Name": "Default",
+  "Player2Name": "Gegeruju",
+  "Player1SelectedDeck": [
+    {
+      "Id": 30,
+      "Name": "Mother Miounne",
+      "Rarity": 2,
+      "Family": "None",
+      "Up": 5,
+      "Down": 3,
+      "Right": 5,
+      "Left": 7
+    },
+    {
+      "Id": 29,
+      "Name": "Baderon Tenfingers",
+      "Rarity": 2,
+      "Family": "None",
+      "Up": 3,
+      "Down": 5,
+      "Right": 7,
+      "Left": 5
+    },
+    {
+      "Id": 28,
+      "Name": "Momodi Modi",
+      "Rarity": 2,
+      "Family": "None",
+      "Up": 7,
+      "Down": 5,
+      "Right": 5,
+      "Left": 3
+    },
+    {
+      "Id": 27,
+      "Name": "Scarface Bugaal Ja",
+      "Rarity": 2,
+      "Family": "Beastman",
+      "Up": 6,
+      "Down": 2,
+      "Right": 6,
+      "Left": 6
+    },
+    {
+      "Id": 70,
+      "Name": "Onion Knight",
+      "Rarity": 5,
+      "Family": "None",
+      "Up": 8,
+      "Down": 8,
+      "Right": 2,
+      "Left": 10
+    }
+  ],
+  "Player2SelectedDeck": [
+    {
+      "Id": 63,
+      "Name": "Nanamo Ul Namo",
+      "Rarity": 5,
+      "Family": "None",
+      "Up": 10,
+      "Down": 4,
+      "Right": 6,
+      "Left": 8
+    },
+    {
+      "Id": 56,
+      "Name": "Minfilia",
+      "Rarity": 4,
+      "Family": "Scion",
+      "Up": 9,
+      "Down": 3,
+      "Right": 8,
+      "Left": 5
+    },
+    {
+      "Id": 49,
+      "Name": "Y'shtola",
+      "Rarity": 3,
+      "Family": "Scion",
+      "Up": 7,
+      "Down": 1,
+      "Right": 8,
+      "Left": 4
+    },
+    {
+      "Id": 65,
+      "Name": "Merlwyb Bloefhiswyn",
+      "Rarity": 5,
+      "Family": "None",
+      "Up": 5,
+      "Down": 10,
+      "Right": 9,
+      "Left": 3
+    },
+    {
+      "Id": 66,
+      "Name": "Kan-E-Senna",
+      "Rarity": 5,
+      "Family": "None",
+      "Up": 9,
+      "Down": 1,
+      "Right": 10,
+      "Left": 7
+    },
+    {
+      "Id": 55,
+      "Name": "Shiva",
+      "Rarity": 4,
+      "Family": "Primal",
+      "Up": 1,
+      "Down": 8,
+      "Right": 8,
+      "Left": 8
+    },
+    {
+      "Id": 31,
+      "Name": "Livia sas Junius",
+      "Rarity": 2,
+      "Family": "Garlean",
+      "Up": 3,
+      "Down": 7,
+      "Right": 7,
+      "Left": 1
+    },
+    {
+      "Id": 30,
+      "Name": "Mother Miounne",
+      "Rarity": 2,
+      "Family": "None",
+      "Up": 5,
+      "Down": 3,
+      "Right": 5,
+      "Left": 7
+    }
+  ],
+  "MoveHistory": [
+    {
+      "Card": {
+        "Id": 70,
+        "Name": "Onion Knight",
+        "Rarity": 5,
+        "Family": "None",
+        "Up": 8,
+        "Down": 8,
+        "Right": 2,
+        "Left": 10
+      },
+      "Position": 2
+    },
+    {
+      "Card": {
+        "Id": 55,
+        "Name": "Shiva",
+        "Rarity": 4,
+        "Family": "Primal",
+        "Up": 1,
+        "Down": 8,
+        "Right": 8,
+        "Left": 8
+      },
+      "Position": 7
+    },
+    {
+      "Card": {
+        "Id": 31,
+        "Name": "Livia sas Junius",
+        "Rarity": 2,
+        "Family": "Garlean",
+        "Up": 3,
+        "Down": 7,
+        "Right": 7,
+        "Left": 1
+      },
+      "Position": 6
+    },
+    {
+      "Card": {
+        "Id": 49,
+        "Name": "Y'shtola",
+        "Rarity": 3,
+        "Family": "Scion",
+        "Up": 7,
+        "Down": 1,
+        "Right": 8,
+        "Left": 4
+      },
+      "Position": 0
+    },
+    {
+      "Card": {
+        "Id": 29,
+        "Name": "Baderon Tenfingers",
+        "Rarity": 2,
+        "Family": "None",
+        "Up": 3,
+        "Down": 5,
+        "Right": 7,
+        "Left": 5
+      },
+      "Position": 3
+    },
+    {
+      "Card": {
+        "Id": 63,
+        "Name": "Nanamo Ul Namo",
+        "Rarity": 5,
+        "Family": "None",
+        "Up": 10,
+        "Down": 4,
+        "Right": 6,
+        "Left": 8
+      },
+      "Position": 5
+    },
+    {
+      "Card": {
+        "Id": 30,
+        "Name": "Mother Miounne",
+        "Rarity": 2,
+        "Family": "None",
+        "Up": 5,
+        "Down": 3,
+        "Right": 5,
+        "Left": 7
+      },
+      "Position": 8
+    },
+    {
+      "Card": {
+        "Id": 56,
+        "Name": "Minfilia",
+        "Rarity": 4,
+        "Family": "Scion",
+        "Up": 9,
+        "Down": 3,
+        "Right": 8,
+        "Left": 5
+      },
+      "Position": 4
+    },
+    {
+      "Card": {
+        "Id": 27,
+        "Name": "Scarface Bugaal Ja",
+        "Rarity": 2,
+        "Family": "Beastman",
+        "Up": 6,
+        "Down": 2,
+        "Right": 6,
+        "Left": 6
+      },
+      "Position": 1
+    }
+  ],
+  "RoundHistory": [
+    {
+      "StartingPlayer": 1,
+      "Rules": "Swap, SuddenDeath",
+      "TurnCount": 1,
+      "RoundState": "Ongoing",
+      "PlayerToMove": 2,
+      "NextPlayerToMove": 1,
+      "Player1RevealedCards": [
+        {
+          "Id": 30,
+          "Name": "Mother Miounne",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 5,
+          "Down": 3,
+          "Right": 5,
+          "Left": 7
+        },
+        {
+          "Id": 29,
+          "Name": "Baderon Tenfingers",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 3,
+          "Down": 5,
+          "Right": 7,
+          "Left": 5
+        },
+        {
+          "Id": 31,
+          "Name": "Livia sas Junius",
+          "Rarity": 2,
+          "Family": "Garlean",
+          "Up": 3,
+          "Down": 7,
+          "Right": 7,
+          "Left": 1
+        },
+        {
+          "Id": 27,
+          "Name": "Scarface Bugaal Ja",
+          "Rarity": 2,
+          "Family": "Beastman",
+          "Up": 6,
+          "Down": 2,
+          "Right": 6,
+          "Left": 6
+        }
+      ],
+      "Player1ConcealedCards": [],
+      "Player2RevealedCards": [
+        {
+          "Id": 63,
+          "Name": "Nanamo Ul Namo",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 10,
+          "Down": 4,
+          "Right": 6,
+          "Left": 8
+        },
+        {
+          "Id": 56,
+          "Name": "Minfilia",
+          "Rarity": 4,
+          "Family": "Scion",
+          "Up": 9,
+          "Down": 3,
+          "Right": 8,
+          "Left": 5
+        },
+        {
+          "Id": 49,
+          "Name": "Y'shtola",
+          "Rarity": 3,
+          "Family": "Scion",
+          "Up": 7,
+          "Down": 1,
+          "Right": 8,
+          "Left": 4
+        }
+      ],
+      "Player2ConcealedCards": [
+        {
+          "Id": 28,
+          "Name": "Momodi Modi",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 7,
+          "Down": 5,
+          "Right": 5,
+          "Left": 3
+        },
+        {
+          "Id": 65,
+          "Name": "Merlwyb Bloefhiswyn",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 5,
+          "Down": 10,
+          "Right": 9,
+          "Left": 3
+        },
+        {
+          "Id": 66,
+          "Name": "Kan-E-Senna",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 9,
+          "Down": 1,
+          "Right": 10,
+          "Left": 7
+        },
+        {
+          "Id": 55,
+          "Name": "Shiva",
+          "Rarity": 4,
+          "Family": "Primal",
+          "Up": 1,
+          "Down": 8,
+          "Right": 8,
+          "Left": 8
+        },
+        {
+          "Id": 30,
+          "Name": "Mother Miounne",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 5,
+          "Down": 3,
+          "Right": 5,
+          "Left": 7
+        }
+      ],
+      "Ownership": [
+        -1,
+        -1,
+        1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "Wardenship": [
+        -1,
+        -1,
+        1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "BoardCards": [
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 70,
+          "Name": "Onion Knight",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 8,
+          "Down": 8,
+          "Right": 2,
+          "Left": 10
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        }
+      ],
+      "IsDeterminized": false
+    },
+    {
+      "StartingPlayer": 1,
+      "Rules": "Swap, SuddenDeath",
+      "TurnCount": 2,
+      "RoundState": "Ongoing",
+      "PlayerToMove": 1,
+      "NextPlayerToMove": 2,
+      "Player1RevealedCards": [
+        {
+          "Id": 30,
+          "Name": "Mother Miounne",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 5,
+          "Down": 3,
+          "Right": 5,
+          "Left": 7
+        },
+        {
+          "Id": 29,
+          "Name": "Baderon Tenfingers",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 3,
+          "Down": 5,
+          "Right": 7,
+          "Left": 5
+        },
+        {
+          "Id": 31,
+          "Name": "Livia sas Junius",
+          "Rarity": 2,
+          "Family": "Garlean",
+          "Up": 3,
+          "Down": 7,
+          "Right": 7,
+          "Left": 1
+        },
+        {
+          "Id": 27,
+          "Name": "Scarface Bugaal Ja",
+          "Rarity": 2,
+          "Family": "Beastman",
+          "Up": 6,
+          "Down": 2,
+          "Right": 6,
+          "Left": 6
+        }
+      ],
+      "Player1ConcealedCards": [],
+      "Player2RevealedCards": [
+        {
+          "Id": 63,
+          "Name": "Nanamo Ul Namo",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 10,
+          "Down": 4,
+          "Right": 6,
+          "Left": 8
+        },
+        {
+          "Id": 56,
+          "Name": "Minfilia",
+          "Rarity": 4,
+          "Family": "Scion",
+          "Up": 9,
+          "Down": 3,
+          "Right": 8,
+          "Left": 5
+        },
+        {
+          "Id": 49,
+          "Name": "Y'shtola",
+          "Rarity": 3,
+          "Family": "Scion",
+          "Up": 7,
+          "Down": 1,
+          "Right": 8,
+          "Left": 4
+        }
+      ],
+      "Player2ConcealedCards": [
+        {
+          "Id": 28,
+          "Name": "Momodi Modi",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 7,
+          "Down": 5,
+          "Right": 5,
+          "Left": 3
+        }
+      ],
+      "Ownership": [
+        -1,
+        -1,
+        1,
+        -1,
+        -1,
+        -1,
+        -1,
+        2,
+        -1
+      ],
+      "Wardenship": [
+        -1,
+        -1,
+        1,
+        -1,
+        -1,
+        -1,
+        -1,
+        2,
+        -1
+      ],
+      "BoardCards": [
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 70,
+          "Name": "Onion Knight",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 8,
+          "Down": 8,
+          "Right": 2,
+          "Left": 10
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 55,
+          "Name": "Shiva",
+          "Rarity": 4,
+          "Family": "Primal",
+          "Up": 1,
+          "Down": 8,
+          "Right": 8,
+          "Left": 8
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        }
+      ],
+      "IsDeterminized": true
+    },
+    {
+      "StartingPlayer": 1,
+      "Rules": "Swap, SuddenDeath",
+      "TurnCount": 3,
+      "RoundState": "Ongoing",
+      "PlayerToMove": 2,
+      "NextPlayerToMove": 1,
+      "Player1RevealedCards": [
+        {
+          "Id": 30,
+          "Name": "Mother Miounne",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 5,
+          "Down": 3,
+          "Right": 5,
+          "Left": 7
+        },
+        {
+          "Id": 29,
+          "Name": "Baderon Tenfingers",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 3,
+          "Down": 5,
+          "Right": 7,
+          "Left": 5
+        },
+        {
+          "Id": 27,
+          "Name": "Scarface Bugaal Ja",
+          "Rarity": 2,
+          "Family": "Beastman",
+          "Up": 6,
+          "Down": 2,
+          "Right": 6,
+          "Left": 6
+        }
+      ],
+      "Player1ConcealedCards": [],
+      "Player2RevealedCards": [
+        {
+          "Id": 63,
+          "Name": "Nanamo Ul Namo",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 10,
+          "Down": 4,
+          "Right": 6,
+          "Left": 8
+        },
+        {
+          "Id": 56,
+          "Name": "Minfilia",
+          "Rarity": 4,
+          "Family": "Scion",
+          "Up": 9,
+          "Down": 3,
+          "Right": 8,
+          "Left": 5
+        },
+        {
+          "Id": 49,
+          "Name": "Y'shtola",
+          "Rarity": 3,
+          "Family": "Scion",
+          "Up": 7,
+          "Down": 1,
+          "Right": 8,
+          "Left": 4
+        }
+      ],
+      "Player2ConcealedCards": [
+        {
+          "Id": 28,
+          "Name": "Momodi Modi",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 7,
+          "Down": 5,
+          "Right": 5,
+          "Left": 3
+        }
+      ],
+      "Ownership": [
+        -1,
+        -1,
+        1,
+        -1,
+        -1,
+        -1,
+        1,
+        2,
+        -1
+      ],
+      "Wardenship": [
+        -1,
+        -1,
+        1,
+        -1,
+        -1,
+        -1,
+        1,
+        2,
+        -1
+      ],
+      "BoardCards": [
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 70,
+          "Name": "Onion Knight",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 8,
+          "Down": 8,
+          "Right": 2,
+          "Left": 10
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 31,
+          "Name": "Livia sas Junius",
+          "Rarity": 2,
+          "Family": "Garlean",
+          "Up": 3,
+          "Down": 7,
+          "Right": 7,
+          "Left": 1
+        },
+        {
+          "Id": 55,
+          "Name": "Shiva",
+          "Rarity": 4,
+          "Family": "Primal",
+          "Up": 1,
+          "Down": 8,
+          "Right": 8,
+          "Left": 8
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        }
+      ],
+      "IsDeterminized": true
+    },
+    {
+      "StartingPlayer": 1,
+      "Rules": "Swap, SuddenDeath",
+      "TurnCount": 4,
+      "RoundState": "Ongoing",
+      "PlayerToMove": 1,
+      "NextPlayerToMove": 2,
+      "Player1RevealedCards": [
+        {
+          "Id": 30,
+          "Name": "Mother Miounne",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 5,
+          "Down": 3,
+          "Right": 5,
+          "Left": 7
+        },
+        {
+          "Id": 29,
+          "Name": "Baderon Tenfingers",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 3,
+          "Down": 5,
+          "Right": 7,
+          "Left": 5
+        },
+        {
+          "Id": 27,
+          "Name": "Scarface Bugaal Ja",
+          "Rarity": 2,
+          "Family": "Beastman",
+          "Up": 6,
+          "Down": 2,
+          "Right": 6,
+          "Left": 6
+        }
+      ],
+      "Player1ConcealedCards": [],
+      "Player2RevealedCards": [
+        {
+          "Id": 63,
+          "Name": "Nanamo Ul Namo",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 10,
+          "Down": 4,
+          "Right": 6,
+          "Left": 8
+        },
+        {
+          "Id": 56,
+          "Name": "Minfilia",
+          "Rarity": 4,
+          "Family": "Scion",
+          "Up": 9,
+          "Down": 3,
+          "Right": 8,
+          "Left": 5
+        }
+      ],
+      "Player2ConcealedCards": [
+        {
+          "Id": 28,
+          "Name": "Momodi Modi",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 7,
+          "Down": 5,
+          "Right": 5,
+          "Left": 3
+        }
+      ],
+      "Ownership": [
+        2,
+        -1,
+        1,
+        -1,
+        -1,
+        -1,
+        1,
+        2,
+        -1
+      ],
+      "Wardenship": [
+        2,
+        -1,
+        1,
+        -1,
+        -1,
+        -1,
+        1,
+        2,
+        -1
+      ],
+      "BoardCards": [
+        {
+          "Id": 49,
+          "Name": "Y'shtola",
+          "Rarity": 3,
+          "Family": "Scion",
+          "Up": 7,
+          "Down": 1,
+          "Right": 8,
+          "Left": 4
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 70,
+          "Name": "Onion Knight",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 8,
+          "Down": 8,
+          "Right": 2,
+          "Left": 10
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 31,
+          "Name": "Livia sas Junius",
+          "Rarity": 2,
+          "Family": "Garlean",
+          "Up": 3,
+          "Down": 7,
+          "Right": 7,
+          "Left": 1
+        },
+        {
+          "Id": 55,
+          "Name": "Shiva",
+          "Rarity": 4,
+          "Family": "Primal",
+          "Up": 1,
+          "Down": 8,
+          "Right": 8,
+          "Left": 8
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        }
+      ],
+      "IsDeterminized": true
+    },
+    {
+      "StartingPlayer": 1,
+      "Rules": "Swap, SuddenDeath",
+      "TurnCount": 5,
+      "RoundState": "Ongoing",
+      "PlayerToMove": 2,
+      "NextPlayerToMove": 1,
+      "Player1RevealedCards": [
+        {
+          "Id": 30,
+          "Name": "Mother Miounne",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 5,
+          "Down": 3,
+          "Right": 5,
+          "Left": 7
+        },
+        {
+          "Id": 27,
+          "Name": "Scarface Bugaal Ja",
+          "Rarity": 2,
+          "Family": "Beastman",
+          "Up": 6,
+          "Down": 2,
+          "Right": 6,
+          "Left": 6
+        }
+      ],
+      "Player1ConcealedCards": [],
+      "Player2RevealedCards": [
+        {
+          "Id": 63,
+          "Name": "Nanamo Ul Namo",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 10,
+          "Down": 4,
+          "Right": 6,
+          "Left": 8
+        },
+        {
+          "Id": 56,
+          "Name": "Minfilia",
+          "Rarity": 4,
+          "Family": "Scion",
+          "Up": 9,
+          "Down": 3,
+          "Right": 8,
+          "Left": 5
+        }
+      ],
+      "Player2ConcealedCards": [
+        {
+          "Id": 28,
+          "Name": "Momodi Modi",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 7,
+          "Down": 5,
+          "Right": 5,
+          "Left": 3
+        }
+      ],
+      "Ownership": [
+        2,
+        -1,
+        1,
+        1,
+        -1,
+        -1,
+        1,
+        2,
+        -1
+      ],
+      "Wardenship": [
+        2,
+        -1,
+        1,
+        1,
+        -1,
+        -1,
+        1,
+        2,
+        -1
+      ],
+      "BoardCards": [
+        {
+          "Id": 49,
+          "Name": "Y'shtola",
+          "Rarity": 3,
+          "Family": "Scion",
+          "Up": 7,
+          "Down": 1,
+          "Right": 8,
+          "Left": 4
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 70,
+          "Name": "Onion Knight",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 8,
+          "Down": 8,
+          "Right": 2,
+          "Left": 10
+        },
+        {
+          "Id": 29,
+          "Name": "Baderon Tenfingers",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 3,
+          "Down": 5,
+          "Right": 7,
+          "Left": 5
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 31,
+          "Name": "Livia sas Junius",
+          "Rarity": 2,
+          "Family": "Garlean",
+          "Up": 3,
+          "Down": 7,
+          "Right": 7,
+          "Left": 1
+        },
+        {
+          "Id": 55,
+          "Name": "Shiva",
+          "Rarity": 4,
+          "Family": "Primal",
+          "Up": 1,
+          "Down": 8,
+          "Right": 8,
+          "Left": 8
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        }
+      ],
+      "IsDeterminized": true
+    },
+    {
+      "StartingPlayer": 1,
+      "Rules": "Swap, SuddenDeath",
+      "TurnCount": 6,
+      "RoundState": "Ongoing",
+      "PlayerToMove": 1,
+      "NextPlayerToMove": 2,
+      "Player1RevealedCards": [
+        {
+          "Id": 30,
+          "Name": "Mother Miounne",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 5,
+          "Down": 3,
+          "Right": 5,
+          "Left": 7
+        },
+        {
+          "Id": 27,
+          "Name": "Scarface Bugaal Ja",
+          "Rarity": 2,
+          "Family": "Beastman",
+          "Up": 6,
+          "Down": 2,
+          "Right": 6,
+          "Left": 6
+        }
+      ],
+      "Player1ConcealedCards": [],
+      "Player2RevealedCards": [
+        {
+          "Id": 56,
+          "Name": "Minfilia",
+          "Rarity": 4,
+          "Family": "Scion",
+          "Up": 9,
+          "Down": 3,
+          "Right": 8,
+          "Left": 5
+        }
+      ],
+      "Player2ConcealedCards": [
+        {
+          "Id": 28,
+          "Name": "Momodi Modi",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 7,
+          "Down": 5,
+          "Right": 5,
+          "Left": 3
+        }
+      ],
+      "Ownership": [
+        2,
+        -1,
+        1,
+        1,
+        -1,
+        2,
+        1,
+        2,
+        -1
+      ],
+      "Wardenship": [
+        2,
+        -1,
+        1,
+        1,
+        -1,
+        2,
+        1,
+        2,
+        -1
+      ],
+      "BoardCards": [
+        {
+          "Id": 49,
+          "Name": "Y'shtola",
+          "Rarity": 3,
+          "Family": "Scion",
+          "Up": 7,
+          "Down": 1,
+          "Right": 8,
+          "Left": 4
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 70,
+          "Name": "Onion Knight",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 8,
+          "Down": 8,
+          "Right": 2,
+          "Left": 10
+        },
+        {
+          "Id": 29,
+          "Name": "Baderon Tenfingers",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 3,
+          "Down": 5,
+          "Right": 7,
+          "Left": 5
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 63,
+          "Name": "Nanamo Ul Namo",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 10,
+          "Down": 4,
+          "Right": 6,
+          "Left": 8
+        },
+        {
+          "Id": 31,
+          "Name": "Livia sas Junius",
+          "Rarity": 2,
+          "Family": "Garlean",
+          "Up": 3,
+          "Down": 7,
+          "Right": 7,
+          "Left": 1
+        },
+        {
+          "Id": 55,
+          "Name": "Shiva",
+          "Rarity": 4,
+          "Family": "Primal",
+          "Up": 1,
+          "Down": 8,
+          "Right": 8,
+          "Left": 8
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        }
+      ],
+      "IsDeterminized": true
+    },
+    {
+      "StartingPlayer": 1,
+      "Rules": "Swap, SuddenDeath",
+      "TurnCount": 7,
+      "RoundState": "Ongoing",
+      "PlayerToMove": 2,
+      "NextPlayerToMove": 1,
+      "Player1RevealedCards": [
+        {
+          "Id": 27,
+          "Name": "Scarface Bugaal Ja",
+          "Rarity": 2,
+          "Family": "Beastman",
+          "Up": 6,
+          "Down": 2,
+          "Right": 6,
+          "Left": 6
+        }
+      ],
+      "Player1ConcealedCards": [],
+      "Player2RevealedCards": [
+        {
+          "Id": 56,
+          "Name": "Minfilia",
+          "Rarity": 4,
+          "Family": "Scion",
+          "Up": 9,
+          "Down": 3,
+          "Right": 8,
+          "Left": 5
+        }
+      ],
+      "Player2ConcealedCards": [
+        {
+          "Id": 28,
+          "Name": "Momodi Modi",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 7,
+          "Down": 5,
+          "Right": 5,
+          "Left": 3
+        }
+      ],
+      "Ownership": [
+        2,
+        -1,
+        1,
+        1,
+        -1,
+        2,
+        1,
+        2,
+        1
+      ],
+      "Wardenship": [
+        2,
+        -1,
+        1,
+        1,
+        -1,
+        2,
+        1,
+        2,
+        1
+      ],
+      "BoardCards": [
+        {
+          "Id": 49,
+          "Name": "Y'shtola",
+          "Rarity": 3,
+          "Family": "Scion",
+          "Up": 7,
+          "Down": 1,
+          "Right": 8,
+          "Left": 4
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 70,
+          "Name": "Onion Knight",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 8,
+          "Down": 8,
+          "Right": 2,
+          "Left": 10
+        },
+        {
+          "Id": 29,
+          "Name": "Baderon Tenfingers",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 3,
+          "Down": 5,
+          "Right": 7,
+          "Left": 5
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 63,
+          "Name": "Nanamo Ul Namo",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 10,
+          "Down": 4,
+          "Right": 6,
+          "Left": 8
+        },
+        {
+          "Id": 31,
+          "Name": "Livia sas Junius",
+          "Rarity": 2,
+          "Family": "Garlean",
+          "Up": 3,
+          "Down": 7,
+          "Right": 7,
+          "Left": 1
+        },
+        {
+          "Id": 55,
+          "Name": "Shiva",
+          "Rarity": 4,
+          "Family": "Primal",
+          "Up": 1,
+          "Down": 8,
+          "Right": 8,
+          "Left": 8
+        },
+        {
+          "Id": 30,
+          "Name": "Mother Miounne",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 5,
+          "Down": 3,
+          "Right": 5,
+          "Left": 7
+        }
+      ],
+      "IsDeterminized": true
+    },
+    {
+      "StartingPlayer": 1,
+      "Rules": "Swap, SuddenDeath",
+      "TurnCount": 8,
+      "RoundState": "Ongoing",
+      "PlayerToMove": 1,
+      "NextPlayerToMove": 2,
+      "Player1RevealedCards": [
+        {
+          "Id": 27,
+          "Name": "Scarface Bugaal Ja",
+          "Rarity": 2,
+          "Family": "Beastman",
+          "Up": 6,
+          "Down": 2,
+          "Right": 6,
+          "Left": 6
+        }
+      ],
+      "Player1ConcealedCards": [],
+      "Player2RevealedCards": [
+        {
+          "Id": 28,
+          "Name": "Momodi Modi",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 7,
+          "Down": 5,
+          "Right": 5,
+          "Left": 3
+        }
+      ],
+      "Player2ConcealedCards": [],
+      "Ownership": [
+        2,
+        -1,
+        1,
+        1,
+        2,
+        2,
+        1,
+        2,
+        1
+      ],
+      "Wardenship": [
+        2,
+        -1,
+        1,
+        1,
+        2,
+        2,
+        1,
+        2,
+        1
+      ],
+      "BoardCards": [
+        {
+          "Id": 49,
+          "Name": "Y'shtola",
+          "Rarity": 3,
+          "Family": "Scion",
+          "Up": 7,
+          "Down": 1,
+          "Right": 8,
+          "Left": 4
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 70,
+          "Name": "Onion Knight",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 8,
+          "Down": 8,
+          "Right": 2,
+          "Left": 10
+        },
+        {
+          "Id": 29,
+          "Name": "Baderon Tenfingers",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 3,
+          "Down": 5,
+          "Right": 7,
+          "Left": 5
+        },
+        {
+          "Id": 56,
+          "Name": "Minfilia",
+          "Rarity": 4,
+          "Family": "Scion",
+          "Up": 9,
+          "Down": 3,
+          "Right": 8,
+          "Left": 5
+        },
+        {
+          "Id": 63,
+          "Name": "Nanamo Ul Namo",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 10,
+          "Down": 4,
+          "Right": 6,
+          "Left": 8
+        },
+        {
+          "Id": 31,
+          "Name": "Livia sas Junius",
+          "Rarity": 2,
+          "Family": "Garlean",
+          "Up": 3,
+          "Down": 7,
+          "Right": 7,
+          "Left": 1
+        },
+        {
+          "Id": 55,
+          "Name": "Shiva",
+          "Rarity": 4,
+          "Family": "Primal",
+          "Up": 1,
+          "Down": 8,
+          "Right": 8,
+          "Left": 8
+        },
+        {
+          "Id": 30,
+          "Name": "Mother Miounne",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 5,
+          "Down": 3,
+          "Right": 5,
+          "Left": 7
+        }
+      ],
+      "IsDeterminized": true
+    },
+    {
+      "StartingPlayer": 1,
+      "Rules": "Swap, SuddenDeath",
+      "TurnCount": 9,
+      "RoundState": "Player1Win",
+      "PlayerToMove": 2,
+      "NextPlayerToMove": 1,
+      "Player1RevealedCards": [],
+      "Player1ConcealedCards": [],
+      "Player2RevealedCards": [
+        {
+          "Id": 28,
+          "Name": "Momodi Modi",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 7,
+          "Down": 5,
+          "Right": 5,
+          "Left": 3
+        }
+      ],
+      "Player2ConcealedCards": [],
+      "Ownership": [
+        2,
+        1,
+        1,
+        1,
+        2,
+        2,
+        1,
+        2,
+        1
+      ],
+      "Wardenship": [
+        2,
+        1,
+        1,
+        1,
+        1,
+        2,
+        1,
+        2,
+        1
+      ],
+      "BoardCards": [
+        {
+          "Id": 49,
+          "Name": "Y'shtola",
+          "Rarity": 3,
+          "Family": "Scion",
+          "Up": 7,
+          "Down": 1,
+          "Right": 8,
+          "Left": 4
+        },
+        {
+          "Id": 27,
+          "Name": "Scarface Bugaal Ja",
+          "Rarity": 2,
+          "Family": "Beastman",
+          "Up": 6,
+          "Down": 2,
+          "Right": 6,
+          "Left": 6
+        },
+        {
+          "Id": 70,
+          "Name": "Onion Knight",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 8,
+          "Down": 8,
+          "Right": 2,
+          "Left": 10
+        },
+        {
+          "Id": 29,
+          "Name": "Baderon Tenfingers",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 3,
+          "Down": 5,
+          "Right": 7,
+          "Left": 5
+        },
+        {
+          "Id": 56,
+          "Name": "Minfilia",
+          "Rarity": 4,
+          "Family": "Scion",
+          "Up": 9,
+          "Down": 3,
+          "Right": 8,
+          "Left": 5
+        },
+        {
+          "Id": 63,
+          "Name": "Nanamo Ul Namo",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 10,
+          "Down": 4,
+          "Right": 6,
+          "Left": 8
+        },
+        {
+          "Id": 31,
+          "Name": "Livia sas Junius",
+          "Rarity": 2,
+          "Family": "Garlean",
+          "Up": 3,
+          "Down": 7,
+          "Right": 7,
+          "Left": 1
+        },
+        {
+          "Id": 55,
+          "Name": "Shiva",
+          "Rarity": 4,
+          "Family": "Primal",
+          "Up": 1,
+          "Down": 8,
+          "Right": 8,
+          "Left": 8
+        },
+        {
+          "Id": 30,
+          "Name": "Mother Miounne",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 5,
+          "Down": 3,
+          "Right": 5,
+          "Left": 7
+        }
+      ],
+      "IsDeterminized": true
+    }
+  ]
+}

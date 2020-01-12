@@ -1,0 +1,2029 @@
+{
+  "Start": "2018-12-07T23:22:24.7234078-06:00",
+  "End": "2018-12-07T23:23:09.6750793-06:00",
+  "RegionalRule1": "Plus",
+  "RegionalRule2": "None",
+  "MatchRule1": "Order",
+  "MatchRule2": "None",
+  "Player1Name": "Default",
+  "Player2Name": "Buscarron",
+  "Player1SelectedDeck": [
+    {
+      "Id": 109,
+      "Name": "Coeurlregina",
+      "Rarity": 3,
+      "Family": "None",
+      "Up": 5,
+      "Down": 5,
+      "Right": 5,
+      "Left": 8
+    },
+    {
+      "Id": 108,
+      "Name": "Vedrfolnir",
+      "Rarity": 3,
+      "Family": "None",
+      "Up": 8,
+      "Down": 7,
+      "Right": 2,
+      "Left": 4
+    },
+    {
+      "Id": 50,
+      "Name": "Urianger",
+      "Rarity": 3,
+      "Family": "Scion",
+      "Up": 8,
+      "Down": 4,
+      "Right": 1,
+      "Left": 7
+    },
+    {
+      "Id": 38,
+      "Name": "Behemoth",
+      "Rarity": 3,
+      "Family": "None",
+      "Up": 7,
+      "Down": 4,
+      "Right": 8,
+      "Left": 2
+    },
+    {
+      "Id": 70,
+      "Name": "Onion Knight",
+      "Rarity": 5,
+      "Family": "None",
+      "Up": 8,
+      "Down": 8,
+      "Right": 2,
+      "Left": 10
+    }
+  ],
+  "Player2SelectedDeck": [
+    {
+      "Id": 66,
+      "Name": "Kan-E-Senna",
+      "Rarity": 5,
+      "Family": "None",
+      "Up": 9,
+      "Down": 1,
+      "Right": 10,
+      "Left": 7
+    },
+    {
+      "Id": 52,
+      "Name": "Odin",
+      "Rarity": 4,
+      "Family": "Primal",
+      "Up": 8,
+      "Down": 1,
+      "Right": 8,
+      "Left": 8
+    },
+    {
+      "Id": 43,
+      "Name": "Good King Moggle Mog XII",
+      "Rarity": 3,
+      "Family": "Primal",
+      "Up": 7,
+      "Down": 7,
+      "Right": 6,
+      "Left": 1
+    },
+    {
+      "Id": 48,
+      "Name": "Papalymo & Yda",
+      "Rarity": 3,
+      "Family": "Scion",
+      "Up": 3,
+      "Down": 8,
+      "Right": 7,
+      "Left": 2
+    },
+    {
+      "Id": 42,
+      "Name": "Garuda",
+      "Rarity": 3,
+      "Family": "Primal",
+      "Up": 7,
+      "Down": 1,
+      "Right": 6,
+      "Left": 7
+    },
+    {
+      "Id": 39,
+      "Name": "Gilgamesh & Enkidu",
+      "Rarity": 3,
+      "Family": "None",
+      "Up": 8,
+      "Down": 7,
+      "Right": 3,
+      "Left": 3
+    },
+    {
+      "Id": 44,
+      "Name": "Raya-O-Senna & A-Ruhn-Senna",
+      "Rarity": 3,
+      "Family": "None",
+      "Up": 5,
+      "Down": 6,
+      "Right": 6,
+      "Left": 6
+    }
+  ],
+  "MoveHistory": [
+    {
+      "Card": {
+        "Id": 66,
+        "Name": "Kan-E-Senna",
+        "Rarity": 5,
+        "Family": "None",
+        "Up": 9,
+        "Down": 1,
+        "Right": 10,
+        "Left": 7
+      },
+      "Position": 0
+    },
+    {
+      "Card": {
+        "Id": 109,
+        "Name": "Coeurlregina",
+        "Rarity": 3,
+        "Family": "None",
+        "Up": 5,
+        "Down": 5,
+        "Right": 5,
+        "Left": 8
+      },
+      "Position": 4
+    },
+    {
+      "Card": {
+        "Id": 52,
+        "Name": "Odin",
+        "Rarity": 4,
+        "Family": "Primal",
+        "Up": 8,
+        "Down": 1,
+        "Right": 8,
+        "Left": 8
+      },
+      "Position": 1
+    },
+    {
+      "Card": {
+        "Id": 108,
+        "Name": "Vedrfolnir",
+        "Rarity": 3,
+        "Family": "None",
+        "Up": 8,
+        "Down": 7,
+        "Right": 2,
+        "Left": 4
+      },
+      "Position": 3
+    },
+    {
+      "Card": {
+        "Id": 43,
+        "Name": "Good King Moggle Mog XII",
+        "Rarity": 3,
+        "Family": "Primal",
+        "Up": 7,
+        "Down": 7,
+        "Right": 6,
+        "Left": 1
+      },
+      "Position": 5
+    },
+    {
+      "Card": {
+        "Id": 50,
+        "Name": "Urianger",
+        "Rarity": 3,
+        "Family": "Scion",
+        "Up": 8,
+        "Down": 4,
+        "Right": 1,
+        "Left": 7
+      },
+      "Position": 2
+    },
+    {
+      "Card": {
+        "Id": 39,
+        "Name": "Gilgamesh & Enkidu",
+        "Rarity": 3,
+        "Family": "None",
+        "Up": 8,
+        "Down": 7,
+        "Right": 3,
+        "Left": 3
+      },
+      "Position": 7
+    },
+    {
+      "Card": {
+        "Id": 38,
+        "Name": "Behemoth",
+        "Rarity": 3,
+        "Family": "None",
+        "Up": 7,
+        "Down": 4,
+        "Right": 8,
+        "Left": 2
+      },
+      "Position": 6
+    },
+    {
+      "Card": {
+        "Id": 48,
+        "Name": "Papalymo & Yda",
+        "Rarity": 3,
+        "Family": "Scion",
+        "Up": 3,
+        "Down": 8,
+        "Right": 7,
+        "Left": 2
+      },
+      "Position": 8
+    }
+  ],
+  "RoundHistory": [
+    {
+      "StartingPlayer": 2,
+      "Rules": "Order, Plus",
+      "TurnCount": 1,
+      "RoundState": "Ongoing",
+      "PlayerToMove": 1,
+      "NextPlayerToMove": 2,
+      "Player1RevealedCards": [
+        {
+          "Id": 109,
+          "Name": "Coeurlregina",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 5,
+          "Down": 5,
+          "Right": 5,
+          "Left": 8
+        },
+        {
+          "Id": 108,
+          "Name": "Vedrfolnir",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 8,
+          "Down": 7,
+          "Right": 2,
+          "Left": 4
+        },
+        {
+          "Id": 50,
+          "Name": "Urianger",
+          "Rarity": 3,
+          "Family": "Scion",
+          "Up": 8,
+          "Down": 4,
+          "Right": 1,
+          "Left": 7
+        },
+        {
+          "Id": 38,
+          "Name": "Behemoth",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 7,
+          "Down": 4,
+          "Right": 8,
+          "Left": 2
+        },
+        {
+          "Id": 70,
+          "Name": "Onion Knight",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 8,
+          "Down": 8,
+          "Right": 2,
+          "Left": 10
+        }
+      ],
+      "Player1ConcealedCards": [],
+      "Player2RevealedCards": [
+        {
+          "Id": 52,
+          "Name": "Odin",
+          "Rarity": 4,
+          "Family": "Primal",
+          "Up": 8,
+          "Down": 1,
+          "Right": 8,
+          "Left": 8
+        },
+        {
+          "Id": 43,
+          "Name": "Good King Moggle Mog XII",
+          "Rarity": 3,
+          "Family": "Primal",
+          "Up": 7,
+          "Down": 7,
+          "Right": 6,
+          "Left": 1
+        }
+      ],
+      "Player2ConcealedCards": [
+        {
+          "Id": 48,
+          "Name": "Papalymo & Yda",
+          "Rarity": 3,
+          "Family": "Scion",
+          "Up": 3,
+          "Down": 8,
+          "Right": 7,
+          "Left": 2
+        },
+        {
+          "Id": 42,
+          "Name": "Garuda",
+          "Rarity": 3,
+          "Family": "Primal",
+          "Up": 7,
+          "Down": 1,
+          "Right": 6,
+          "Left": 7
+        },
+        {
+          "Id": 39,
+          "Name": "Gilgamesh & Enkidu",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 8,
+          "Down": 7,
+          "Right": 3,
+          "Left": 3
+        },
+        {
+          "Id": 44,
+          "Name": "Raya-O-Senna & A-Ruhn-Senna",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 5,
+          "Down": 6,
+          "Right": 6,
+          "Left": 6
+        }
+      ],
+      "Ownership": [
+        2,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "Wardenship": [
+        2,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "BoardCards": [
+        {
+          "Id": 66,
+          "Name": "Kan-E-Senna",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 9,
+          "Down": 1,
+          "Right": 10,
+          "Left": 7
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        }
+      ],
+      "IsDeterminized": false
+    },
+    {
+      "StartingPlayer": 2,
+      "Rules": "Order, Plus",
+      "TurnCount": 2,
+      "RoundState": "Ongoing",
+      "PlayerToMove": 2,
+      "NextPlayerToMove": 1,
+      "Player1RevealedCards": [
+        {
+          "Id": 108,
+          "Name": "Vedrfolnir",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 8,
+          "Down": 7,
+          "Right": 2,
+          "Left": 4
+        },
+        {
+          "Id": 50,
+          "Name": "Urianger",
+          "Rarity": 3,
+          "Family": "Scion",
+          "Up": 8,
+          "Down": 4,
+          "Right": 1,
+          "Left": 7
+        },
+        {
+          "Id": 38,
+          "Name": "Behemoth",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 7,
+          "Down": 4,
+          "Right": 8,
+          "Left": 2
+        },
+        {
+          "Id": 70,
+          "Name": "Onion Knight",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 8,
+          "Down": 8,
+          "Right": 2,
+          "Left": 10
+        }
+      ],
+      "Player1ConcealedCards": [],
+      "Player2RevealedCards": [
+        {
+          "Id": 52,
+          "Name": "Odin",
+          "Rarity": 4,
+          "Family": "Primal",
+          "Up": 8,
+          "Down": 1,
+          "Right": 8,
+          "Left": 8
+        },
+        {
+          "Id": 43,
+          "Name": "Good King Moggle Mog XII",
+          "Rarity": 3,
+          "Family": "Primal",
+          "Up": 7,
+          "Down": 7,
+          "Right": 6,
+          "Left": 1
+        }
+      ],
+      "Player2ConcealedCards": [
+        {
+          "Id": 48,
+          "Name": "Papalymo & Yda",
+          "Rarity": 3,
+          "Family": "Scion",
+          "Up": 3,
+          "Down": 8,
+          "Right": 7,
+          "Left": 2
+        },
+        {
+          "Id": 42,
+          "Name": "Garuda",
+          "Rarity": 3,
+          "Family": "Primal",
+          "Up": 7,
+          "Down": 1,
+          "Right": 6,
+          "Left": 7
+        },
+        {
+          "Id": 39,
+          "Name": "Gilgamesh & Enkidu",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 8,
+          "Down": 7,
+          "Right": 3,
+          "Left": 3
+        },
+        {
+          "Id": 44,
+          "Name": "Raya-O-Senna & A-Ruhn-Senna",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 5,
+          "Down": 6,
+          "Right": 6,
+          "Left": 6
+        }
+      ],
+      "Ownership": [
+        2,
+        -1,
+        -1,
+        -1,
+        1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "Wardenship": [
+        2,
+        -1,
+        -1,
+        -1,
+        1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "BoardCards": [
+        {
+          "Id": 66,
+          "Name": "Kan-E-Senna",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 9,
+          "Down": 1,
+          "Right": 10,
+          "Left": 7
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 109,
+          "Name": "Coeurlregina",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 5,
+          "Down": 5,
+          "Right": 5,
+          "Left": 8
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        }
+      ],
+      "IsDeterminized": false
+    },
+    {
+      "StartingPlayer": 2,
+      "Rules": "Order, Plus",
+      "TurnCount": 3,
+      "RoundState": "Ongoing",
+      "PlayerToMove": 1,
+      "NextPlayerToMove": 2,
+      "Player1RevealedCards": [
+        {
+          "Id": 108,
+          "Name": "Vedrfolnir",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 8,
+          "Down": 7,
+          "Right": 2,
+          "Left": 4
+        },
+        {
+          "Id": 50,
+          "Name": "Urianger",
+          "Rarity": 3,
+          "Family": "Scion",
+          "Up": 8,
+          "Down": 4,
+          "Right": 1,
+          "Left": 7
+        },
+        {
+          "Id": 38,
+          "Name": "Behemoth",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 7,
+          "Down": 4,
+          "Right": 8,
+          "Left": 2
+        },
+        {
+          "Id": 70,
+          "Name": "Onion Knight",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 8,
+          "Down": 8,
+          "Right": 2,
+          "Left": 10
+        }
+      ],
+      "Player1ConcealedCards": [],
+      "Player2RevealedCards": [
+        {
+          "Id": 43,
+          "Name": "Good King Moggle Mog XII",
+          "Rarity": 3,
+          "Family": "Primal",
+          "Up": 7,
+          "Down": 7,
+          "Right": 6,
+          "Left": 1
+        }
+      ],
+      "Player2ConcealedCards": [
+        {
+          "Id": 48,
+          "Name": "Papalymo & Yda",
+          "Rarity": 3,
+          "Family": "Scion",
+          "Up": 3,
+          "Down": 8,
+          "Right": 7,
+          "Left": 2
+        },
+        {
+          "Id": 42,
+          "Name": "Garuda",
+          "Rarity": 3,
+          "Family": "Primal",
+          "Up": 7,
+          "Down": 1,
+          "Right": 6,
+          "Left": 7
+        },
+        {
+          "Id": 39,
+          "Name": "Gilgamesh & Enkidu",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 8,
+          "Down": 7,
+          "Right": 3,
+          "Left": 3
+        },
+        {
+          "Id": 44,
+          "Name": "Raya-O-Senna & A-Ruhn-Senna",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 5,
+          "Down": 6,
+          "Right": 6,
+          "Left": 6
+        }
+      ],
+      "Ownership": [
+        2,
+        2,
+        -1,
+        -1,
+        1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "Wardenship": [
+        2,
+        2,
+        -1,
+        -1,
+        2,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "BoardCards": [
+        {
+          "Id": 66,
+          "Name": "Kan-E-Senna",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 9,
+          "Down": 1,
+          "Right": 10,
+          "Left": 7
+        },
+        {
+          "Id": 52,
+          "Name": "Odin",
+          "Rarity": 4,
+          "Family": "Primal",
+          "Up": 8,
+          "Down": 1,
+          "Right": 8,
+          "Left": 8
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 109,
+          "Name": "Coeurlregina",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 5,
+          "Down": 5,
+          "Right": 5,
+          "Left": 8
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        }
+      ],
+      "IsDeterminized": false
+    },
+    {
+      "StartingPlayer": 2,
+      "Rules": "Order, Plus",
+      "TurnCount": 4,
+      "RoundState": "Ongoing",
+      "PlayerToMove": 2,
+      "NextPlayerToMove": 1,
+      "Player1RevealedCards": [
+        {
+          "Id": 50,
+          "Name": "Urianger",
+          "Rarity": 3,
+          "Family": "Scion",
+          "Up": 8,
+          "Down": 4,
+          "Right": 1,
+          "Left": 7
+        },
+        {
+          "Id": 38,
+          "Name": "Behemoth",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 7,
+          "Down": 4,
+          "Right": 8,
+          "Left": 2
+        },
+        {
+          "Id": 70,
+          "Name": "Onion Knight",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 8,
+          "Down": 8,
+          "Right": 2,
+          "Left": 10
+        }
+      ],
+      "Player1ConcealedCards": [],
+      "Player2RevealedCards": [
+        {
+          "Id": 43,
+          "Name": "Good King Moggle Mog XII",
+          "Rarity": 3,
+          "Family": "Primal",
+          "Up": 7,
+          "Down": 7,
+          "Right": 6,
+          "Left": 1
+        }
+      ],
+      "Player2ConcealedCards": [
+        {
+          "Id": 48,
+          "Name": "Papalymo & Yda",
+          "Rarity": 3,
+          "Family": "Scion",
+          "Up": 3,
+          "Down": 8,
+          "Right": 7,
+          "Left": 2
+        },
+        {
+          "Id": 42,
+          "Name": "Garuda",
+          "Rarity": 3,
+          "Family": "Primal",
+          "Up": 7,
+          "Down": 1,
+          "Right": 6,
+          "Left": 7
+        },
+        {
+          "Id": 39,
+          "Name": "Gilgamesh & Enkidu",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 8,
+          "Down": 7,
+          "Right": 3,
+          "Left": 3
+        },
+        {
+          "Id": 44,
+          "Name": "Raya-O-Senna & A-Ruhn-Senna",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 5,
+          "Down": 6,
+          "Right": 6,
+          "Left": 6
+        }
+      ],
+      "Ownership": [
+        2,
+        2,
+        -1,
+        1,
+        1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "Wardenship": [
+        2,
+        2,
+        -1,
+        1,
+        2,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "BoardCards": [
+        {
+          "Id": 66,
+          "Name": "Kan-E-Senna",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 9,
+          "Down": 1,
+          "Right": 10,
+          "Left": 7
+        },
+        {
+          "Id": 52,
+          "Name": "Odin",
+          "Rarity": 4,
+          "Family": "Primal",
+          "Up": 8,
+          "Down": 1,
+          "Right": 8,
+          "Left": 8
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 108,
+          "Name": "Vedrfolnir",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 8,
+          "Down": 7,
+          "Right": 2,
+          "Left": 4
+        },
+        {
+          "Id": 109,
+          "Name": "Coeurlregina",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 5,
+          "Down": 5,
+          "Right": 5,
+          "Left": 8
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        }
+      ],
+      "IsDeterminized": false
+    },
+    {
+      "StartingPlayer": 2,
+      "Rules": "Order, Plus",
+      "TurnCount": 5,
+      "RoundState": "Ongoing",
+      "PlayerToMove": 1,
+      "NextPlayerToMove": 2,
+      "Player1RevealedCards": [
+        {
+          "Id": 50,
+          "Name": "Urianger",
+          "Rarity": 3,
+          "Family": "Scion",
+          "Up": 8,
+          "Down": 4,
+          "Right": 1,
+          "Left": 7
+        },
+        {
+          "Id": 38,
+          "Name": "Behemoth",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 7,
+          "Down": 4,
+          "Right": 8,
+          "Left": 2
+        },
+        {
+          "Id": 70,
+          "Name": "Onion Knight",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 8,
+          "Down": 8,
+          "Right": 2,
+          "Left": 10
+        }
+      ],
+      "Player1ConcealedCards": [],
+      "Player2RevealedCards": [],
+      "Player2ConcealedCards": [
+        {
+          "Id": 48,
+          "Name": "Papalymo & Yda",
+          "Rarity": 3,
+          "Family": "Scion",
+          "Up": 3,
+          "Down": 8,
+          "Right": 7,
+          "Left": 2
+        },
+        {
+          "Id": 42,
+          "Name": "Garuda",
+          "Rarity": 3,
+          "Family": "Primal",
+          "Up": 7,
+          "Down": 1,
+          "Right": 6,
+          "Left": 7
+        },
+        {
+          "Id": 39,
+          "Name": "Gilgamesh & Enkidu",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 8,
+          "Down": 7,
+          "Right": 3,
+          "Left": 3
+        },
+        {
+          "Id": 44,
+          "Name": "Raya-O-Senna & A-Ruhn-Senna",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 5,
+          "Down": 6,
+          "Right": 6,
+          "Left": 6
+        }
+      ],
+      "Ownership": [
+        2,
+        2,
+        -1,
+        1,
+        1,
+        2,
+        -1,
+        -1,
+        -1
+      ],
+      "Wardenship": [
+        2,
+        2,
+        -1,
+        1,
+        2,
+        2,
+        -1,
+        -1,
+        -1
+      ],
+      "BoardCards": [
+        {
+          "Id": 66,
+          "Name": "Kan-E-Senna",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 9,
+          "Down": 1,
+          "Right": 10,
+          "Left": 7
+        },
+        {
+          "Id": 52,
+          "Name": "Odin",
+          "Rarity": 4,
+          "Family": "Primal",
+          "Up": 8,
+          "Down": 1,
+          "Right": 8,
+          "Left": 8
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 108,
+          "Name": "Vedrfolnir",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 8,
+          "Down": 7,
+          "Right": 2,
+          "Left": 4
+        },
+        {
+          "Id": 109,
+          "Name": "Coeurlregina",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 5,
+          "Down": 5,
+          "Right": 5,
+          "Left": 8
+        },
+        {
+          "Id": 43,
+          "Name": "Good King Moggle Mog XII",
+          "Rarity": 3,
+          "Family": "Primal",
+          "Up": 7,
+          "Down": 7,
+          "Right": 6,
+          "Left": 1
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        }
+      ],
+      "IsDeterminized": false
+    },
+    {
+      "StartingPlayer": 2,
+      "Rules": "Order, Plus",
+      "TurnCount": 6,
+      "RoundState": "Ongoing",
+      "PlayerToMove": 2,
+      "NextPlayerToMove": 1,
+      "Player1RevealedCards": [
+        {
+          "Id": 38,
+          "Name": "Behemoth",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 7,
+          "Down": 4,
+          "Right": 8,
+          "Left": 2
+        },
+        {
+          "Id": 70,
+          "Name": "Onion Knight",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 8,
+          "Down": 8,
+          "Right": 2,
+          "Left": 10
+        }
+      ],
+      "Player1ConcealedCards": [],
+      "Player2RevealedCards": [],
+      "Player2ConcealedCards": [
+        {
+          "Id": 48,
+          "Name": "Papalymo & Yda",
+          "Rarity": 3,
+          "Family": "Scion",
+          "Up": 3,
+          "Down": 8,
+          "Right": 7,
+          "Left": 2
+        },
+        {
+          "Id": 42,
+          "Name": "Garuda",
+          "Rarity": 3,
+          "Family": "Primal",
+          "Up": 7,
+          "Down": 1,
+          "Right": 6,
+          "Left": 7
+        },
+        {
+          "Id": 39,
+          "Name": "Gilgamesh & Enkidu",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 8,
+          "Down": 7,
+          "Right": 3,
+          "Left": 3
+        },
+        {
+          "Id": 44,
+          "Name": "Raya-O-Senna & A-Ruhn-Senna",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 5,
+          "Down": 6,
+          "Right": 6,
+          "Left": 6
+        }
+      ],
+      "Ownership": [
+        2,
+        2,
+        1,
+        1,
+        1,
+        2,
+        -1,
+        -1,
+        -1
+      ],
+      "Wardenship": [
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        -1,
+        -1,
+        -1
+      ],
+      "BoardCards": [
+        {
+          "Id": 66,
+          "Name": "Kan-E-Senna",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 9,
+          "Down": 1,
+          "Right": 10,
+          "Left": 7
+        },
+        {
+          "Id": 52,
+          "Name": "Odin",
+          "Rarity": 4,
+          "Family": "Primal",
+          "Up": 8,
+          "Down": 1,
+          "Right": 8,
+          "Left": 8
+        },
+        {
+          "Id": 50,
+          "Name": "Urianger",
+          "Rarity": 3,
+          "Family": "Scion",
+          "Up": 8,
+          "Down": 4,
+          "Right": 1,
+          "Left": 7
+        },
+        {
+          "Id": 108,
+          "Name": "Vedrfolnir",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 8,
+          "Down": 7,
+          "Right": 2,
+          "Left": 4
+        },
+        {
+          "Id": 109,
+          "Name": "Coeurlregina",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 5,
+          "Down": 5,
+          "Right": 5,
+          "Left": 8
+        },
+        {
+          "Id": 43,
+          "Name": "Good King Moggle Mog XII",
+          "Rarity": 3,
+          "Family": "Primal",
+          "Up": 7,
+          "Down": 7,
+          "Right": 6,
+          "Left": 1
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        }
+      ],
+      "IsDeterminized": false
+    },
+    {
+      "StartingPlayer": 2,
+      "Rules": "Order, Plus",
+      "TurnCount": 7,
+      "RoundState": "Ongoing",
+      "PlayerToMove": 1,
+      "NextPlayerToMove": 2,
+      "Player1RevealedCards": [
+        {
+          "Id": 38,
+          "Name": "Behemoth",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 7,
+          "Down": 4,
+          "Right": 8,
+          "Left": 2
+        },
+        {
+          "Id": 70,
+          "Name": "Onion Knight",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 8,
+          "Down": 8,
+          "Right": 2,
+          "Left": 10
+        }
+      ],
+      "Player1ConcealedCards": [],
+      "Player2RevealedCards": [],
+      "Player2ConcealedCards": [
+        {
+          "Id": 48,
+          "Name": "Papalymo & Yda",
+          "Rarity": 3,
+          "Family": "Scion",
+          "Up": 3,
+          "Down": 8,
+          "Right": 7,
+          "Left": 2
+        },
+        {
+          "Id": 42,
+          "Name": "Garuda",
+          "Rarity": 3,
+          "Family": "Primal",
+          "Up": 7,
+          "Down": 1,
+          "Right": 6,
+          "Left": 7
+        },
+        {
+          "Id": 44,
+          "Name": "Raya-O-Senna & A-Ruhn-Senna",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 5,
+          "Down": 6,
+          "Right": 6,
+          "Left": 6
+        }
+      ],
+      "Ownership": [
+        2,
+        2,
+        1,
+        1,
+        1,
+        2,
+        -1,
+        2,
+        -1
+      ],
+      "Wardenship": [
+        2,
+        1,
+        1,
+        1,
+        2,
+        1,
+        -1,
+        2,
+        -1
+      ],
+      "BoardCards": [
+        {
+          "Id": 66,
+          "Name": "Kan-E-Senna",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 9,
+          "Down": 1,
+          "Right": 10,
+          "Left": 7
+        },
+        {
+          "Id": 52,
+          "Name": "Odin",
+          "Rarity": 4,
+          "Family": "Primal",
+          "Up": 8,
+          "Down": 1,
+          "Right": 8,
+          "Left": 8
+        },
+        {
+          "Id": 50,
+          "Name": "Urianger",
+          "Rarity": 3,
+          "Family": "Scion",
+          "Up": 8,
+          "Down": 4,
+          "Right": 1,
+          "Left": 7
+        },
+        {
+          "Id": 108,
+          "Name": "Vedrfolnir",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 8,
+          "Down": 7,
+          "Right": 2,
+          "Left": 4
+        },
+        {
+          "Id": 109,
+          "Name": "Coeurlregina",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 5,
+          "Down": 5,
+          "Right": 5,
+          "Left": 8
+        },
+        {
+          "Id": 43,
+          "Name": "Good King Moggle Mog XII",
+          "Rarity": 3,
+          "Family": "Primal",
+          "Up": 7,
+          "Down": 7,
+          "Right": 6,
+          "Left": 1
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 39,
+          "Name": "Gilgamesh & Enkidu",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 8,
+          "Down": 7,
+          "Right": 3,
+          "Left": 3
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        }
+      ],
+      "IsDeterminized": false
+    },
+    {
+      "StartingPlayer": 2,
+      "Rules": "Order, Plus",
+      "TurnCount": 8,
+      "RoundState": "Ongoing",
+      "PlayerToMove": 2,
+      "NextPlayerToMove": 1,
+      "Player1RevealedCards": [
+        {
+          "Id": 70,
+          "Name": "Onion Knight",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 8,
+          "Down": 8,
+          "Right": 2,
+          "Left": 10
+        }
+      ],
+      "Player1ConcealedCards": [],
+      "Player2RevealedCards": [],
+      "Player2ConcealedCards": [
+        {
+          "Id": 48,
+          "Name": "Papalymo & Yda",
+          "Rarity": 3,
+          "Family": "Scion",
+          "Up": 3,
+          "Down": 8,
+          "Right": 7,
+          "Left": 2
+        },
+        {
+          "Id": 42,
+          "Name": "Garuda",
+          "Rarity": 3,
+          "Family": "Primal",
+          "Up": 7,
+          "Down": 1,
+          "Right": 6,
+          "Left": 7
+        },
+        {
+          "Id": 44,
+          "Name": "Raya-O-Senna & A-Ruhn-Senna",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 5,
+          "Down": 6,
+          "Right": 6,
+          "Left": 6
+        }
+      ],
+      "Ownership": [
+        2,
+        2,
+        1,
+        1,
+        1,
+        2,
+        1,
+        2,
+        -1
+      ],
+      "Wardenship": [
+        2,
+        1,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1,
+        -1
+      ],
+      "BoardCards": [
+        {
+          "Id": 66,
+          "Name": "Kan-E-Senna",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 9,
+          "Down": 1,
+          "Right": 10,
+          "Left": 7
+        },
+        {
+          "Id": 52,
+          "Name": "Odin",
+          "Rarity": 4,
+          "Family": "Primal",
+          "Up": 8,
+          "Down": 1,
+          "Right": 8,
+          "Left": 8
+        },
+        {
+          "Id": 50,
+          "Name": "Urianger",
+          "Rarity": 3,
+          "Family": "Scion",
+          "Up": 8,
+          "Down": 4,
+          "Right": 1,
+          "Left": 7
+        },
+        {
+          "Id": 108,
+          "Name": "Vedrfolnir",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 8,
+          "Down": 7,
+          "Right": 2,
+          "Left": 4
+        },
+        {
+          "Id": 109,
+          "Name": "Coeurlregina",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 5,
+          "Down": 5,
+          "Right": 5,
+          "Left": 8
+        },
+        {
+          "Id": 43,
+          "Name": "Good King Moggle Mog XII",
+          "Rarity": 3,
+          "Family": "Primal",
+          "Up": 7,
+          "Down": 7,
+          "Right": 6,
+          "Left": 1
+        },
+        {
+          "Id": 38,
+          "Name": "Behemoth",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 7,
+          "Down": 4,
+          "Right": 8,
+          "Left": 2
+        },
+        {
+          "Id": 39,
+          "Name": "Gilgamesh & Enkidu",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 8,
+          "Down": 7,
+          "Right": 3,
+          "Left": 3
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        }
+      ],
+      "IsDeterminized": false
+    },
+    {
+      "StartingPlayer": 2,
+      "Rules": "Order, Plus",
+      "TurnCount": 9,
+      "RoundState": "Player1Win",
+      "PlayerToMove": 1,
+      "NextPlayerToMove": 2,
+      "Player1RevealedCards": [
+        {
+          "Id": 70,
+          "Name": "Onion Knight",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 8,
+          "Down": 8,
+          "Right": 2,
+          "Left": 10
+        }
+      ],
+      "Player1ConcealedCards": [],
+      "Player2RevealedCards": [],
+      "Player2ConcealedCards": [],
+      "Ownership": [
+        2,
+        2,
+        1,
+        1,
+        1,
+        2,
+        1,
+        2,
+        2
+      ],
+      "Wardenship": [
+        2,
+        1,
+        1,
+        1,
+        2,
+        2,
+        1,
+        1,
+        2
+      ],
+      "BoardCards": [
+        {
+          "Id": 66,
+          "Name": "Kan-E-Senna",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 9,
+          "Down": 1,
+          "Right": 10,
+          "Left": 7
+        },
+        {
+          "Id": 52,
+          "Name": "Odin",
+          "Rarity": 4,
+          "Family": "Primal",
+          "Up": 8,
+          "Down": 1,
+          "Right": 8,
+          "Left": 8
+        },
+        {
+          "Id": 50,
+          "Name": "Urianger",
+          "Rarity": 3,
+          "Family": "Scion",
+          "Up": 8,
+          "Down": 4,
+          "Right": 1,
+          "Left": 7
+        },
+        {
+          "Id": 108,
+          "Name": "Vedrfolnir",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 8,
+          "Down": 7,
+          "Right": 2,
+          "Left": 4
+        },
+        {
+          "Id": 109,
+          "Name": "Coeurlregina",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 5,
+          "Down": 5,
+          "Right": 5,
+          "Left": 8
+        },
+        {
+          "Id": 43,
+          "Name": "Good King Moggle Mog XII",
+          "Rarity": 3,
+          "Family": "Primal",
+          "Up": 7,
+          "Down": 7,
+          "Right": 6,
+          "Left": 1
+        },
+        {
+          "Id": 38,
+          "Name": "Behemoth",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 7,
+          "Down": 4,
+          "Right": 8,
+          "Left": 2
+        },
+        {
+          "Id": 39,
+          "Name": "Gilgamesh & Enkidu",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 8,
+          "Down": 7,
+          "Right": 3,
+          "Left": 3
+        },
+        {
+          "Id": 48,
+          "Name": "Papalymo & Yda",
+          "Rarity": 3,
+          "Family": "Scion",
+          "Up": 3,
+          "Down": 8,
+          "Right": 7,
+          "Left": 2
+        }
+      ],
+      "IsDeterminized": true
+    }
+  ]
+}

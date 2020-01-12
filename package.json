@@ -1,0 +1,28 @@
+{
+  "name": "ttt",
+  "version": "1.0.0",
+  "description": "TTTCG",
+  "main": "nodes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "helmet": "^3.21.2",
+    "https": "^1.0.0",
+    "jimp": "^0.9.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nallelcm/midyl-ttt-server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nallelcm/midyl-ttt-server/issues"
+  },
+  "homepage": "https://github.com/nallelcm/midyl-ttt-server#readme"
+}

@@ -1,0 +1,1875 @@
+{
+  "Start": "2018-12-14T20:54:43.4315618-06:00",
+  "End": "2018-12-14T20:55:13.45688-06:00",
+  "RegionalRule1": "Plus",
+  "RegionalRule2": "None",
+  "MatchRule1": "ThreeOpen",
+  "MatchRule2": "None",
+  "Player1Name": "Default",
+  "Player2Name": "Piralnaut",
+  "Player1SelectedDeck": [
+    {
+      "Id": 109,
+      "Name": "Coeurlregina",
+      "Rarity": 3,
+      "Family": "None",
+      "Up": 5,
+      "Down": 5,
+      "Right": 5,
+      "Left": 8
+    },
+    {
+      "Id": 108,
+      "Name": "Vedrfolnir",
+      "Rarity": 3,
+      "Family": "None",
+      "Up": 8,
+      "Down": 7,
+      "Right": 2,
+      "Left": 4
+    },
+    {
+      "Id": 50,
+      "Name": "Urianger",
+      "Rarity": 3,
+      "Family": "Scion",
+      "Up": 8,
+      "Down": 4,
+      "Right": 1,
+      "Left": 7
+    },
+    {
+      "Id": 38,
+      "Name": "Behemoth",
+      "Rarity": 3,
+      "Family": "None",
+      "Up": 7,
+      "Down": 4,
+      "Right": 8,
+      "Left": 2
+    },
+    {
+      "Id": 70,
+      "Name": "Onion Knight",
+      "Rarity": 5,
+      "Family": "None",
+      "Up": 8,
+      "Down": 8,
+      "Right": 2,
+      "Left": 10
+    }
+  ],
+  "Player2SelectedDeck": [
+    {
+      "Id": 56,
+      "Name": "Minfilia",
+      "Rarity": 4,
+      "Family": "Scion",
+      "Up": 9,
+      "Down": 3,
+      "Right": 8,
+      "Left": 5
+    },
+    {
+      "Id": 24,
+      "Name": "Succubus",
+      "Rarity": 2,
+      "Family": "None",
+      "Up": 7,
+      "Down": 2,
+      "Right": 3,
+      "Left": 6
+    },
+    {
+      "Id": 35,
+      "Name": "Frixio",
+      "Rarity": 2,
+      "Family": "Beastman",
+      "Up": 6,
+      "Down": 6,
+      "Right": 2,
+      "Left": 6
+    },
+    {
+      "Id": 44,
+      "Name": "Raya-O-Senna & A-Ruhn-Senna",
+      "Rarity": 3,
+      "Family": "None",
+      "Up": 5,
+      "Down": 6,
+      "Right": 6,
+      "Left": 6
+    },
+    {
+      "Id": 30,
+      "Name": "Mother Miounne",
+      "Rarity": 2,
+      "Family": "None",
+      "Up": 5,
+      "Down": 3,
+      "Right": 5,
+      "Left": 7
+    },
+    {
+      "Id": 10,
+      "Name": "Coeurl",
+      "Rarity": 1,
+      "Family": "None",
+      "Up": 2,
+      "Down": 2,
+      "Right": 5,
+      "Left": 5
+    },
+    {
+      "Id": 18,
+      "Name": "Sahagin",
+      "Rarity": 1,
+      "Family": "Beastman",
+      "Up": 4,
+      "Down": 3,
+      "Right": 5,
+      "Left": 3
+    },
+    {
+      "Id": 14,
+      "Name": "Amalj'aa",
+      "Rarity": 1,
+      "Family": "Beastman",
+      "Up": 1,
+      "Down": 7,
+      "Right": 4,
+      "Left": 1
+    }
+  ],
+  "MoveHistory": [
+    {
+      "Card": {
+        "Id": 38,
+        "Name": "Behemoth",
+        "Rarity": 3,
+        "Family": "None",
+        "Up": 7,
+        "Down": 4,
+        "Right": 8,
+        "Left": 2
+      },
+      "Position": 0
+    },
+    {
+      "Card": {
+        "Id": 56,
+        "Name": "Minfilia",
+        "Rarity": 4,
+        "Family": "Scion",
+        "Up": 9,
+        "Down": 3,
+        "Right": 8,
+        "Left": 5
+      },
+      "Position": 3
+    },
+    {
+      "Card": {
+        "Id": 50,
+        "Name": "Urianger",
+        "Rarity": 3,
+        "Family": "Scion",
+        "Up": 8,
+        "Down": 4,
+        "Right": 1,
+        "Left": 7
+      },
+      "Position": 2
+    },
+    {
+      "Card": {
+        "Id": 30,
+        "Name": "Mother Miounne",
+        "Rarity": 2,
+        "Family": "None",
+        "Up": 5,
+        "Down": 3,
+        "Right": 5,
+        "Left": 7
+      },
+      "Position": 5
+    },
+    {
+      "Card": {
+        "Id": 70,
+        "Name": "Onion Knight",
+        "Rarity": 5,
+        "Family": "None",
+        "Up": 8,
+        "Down": 8,
+        "Right": 2,
+        "Left": 10
+      },
+      "Position": 8
+    },
+    {
+      "Card": {
+        "Id": 24,
+        "Name": "Succubus",
+        "Rarity": 2,
+        "Family": "None",
+        "Up": 7,
+        "Down": 2,
+        "Right": 3,
+        "Left": 6
+      },
+      "Position": 1
+    },
+    {
+      "Card": {
+        "Id": 109,
+        "Name": "Coeurlregina",
+        "Rarity": 3,
+        "Family": "None",
+        "Up": 5,
+        "Down": 5,
+        "Right": 5,
+        "Left": 8
+      },
+      "Position": 6
+    },
+    {
+      "Card": {
+        "Id": 35,
+        "Name": "Frixio",
+        "Rarity": 2,
+        "Family": "Beastman",
+        "Up": 6,
+        "Down": 6,
+        "Right": 2,
+        "Left": 6
+      },
+      "Position": 7
+    },
+    {
+      "Card": {
+        "Id": 108,
+        "Name": "Vedrfolnir",
+        "Rarity": 3,
+        "Family": "None",
+        "Up": 8,
+        "Down": 7,
+        "Right": 2,
+        "Left": 4
+      },
+      "Position": 4
+    }
+  ],
+  "RoundHistory": [
+    {
+      "StartingPlayer": 1,
+      "Rules": "ThreeOpen, Plus",
+      "TurnCount": 1,
+      "RoundState": "Ongoing",
+      "PlayerToMove": 2,
+      "NextPlayerToMove": 1,
+      "Player1RevealedCards": [
+        {
+          "Id": 109,
+          "Name": "Coeurlregina",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 5,
+          "Down": 5,
+          "Right": 5,
+          "Left": 8
+        },
+        {
+          "Id": 108,
+          "Name": "Vedrfolnir",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 8,
+          "Down": 7,
+          "Right": 2,
+          "Left": 4
+        },
+        {
+          "Id": 50,
+          "Name": "Urianger",
+          "Rarity": 3,
+          "Family": "Scion",
+          "Up": 8,
+          "Down": 4,
+          "Right": 1,
+          "Left": 7
+        },
+        {
+          "Id": 70,
+          "Name": "Onion Knight",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 8,
+          "Down": 8,
+          "Right": 2,
+          "Left": 10
+        }
+      ],
+      "Player1ConcealedCards": [],
+      "Player2RevealedCards": [
+        {
+          "Id": 56,
+          "Name": "Minfilia",
+          "Rarity": 4,
+          "Family": "Scion",
+          "Up": 9,
+          "Down": 3,
+          "Right": 8,
+          "Left": 5
+        },
+        {
+          "Id": 24,
+          "Name": "Succubus",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 7,
+          "Down": 2,
+          "Right": 3,
+          "Left": 6
+        },
+        {
+          "Id": 35,
+          "Name": "Frixio",
+          "Rarity": 2,
+          "Family": "Beastman",
+          "Up": 6,
+          "Down": 6,
+          "Right": 2,
+          "Left": 6
+        },
+        {
+          "Id": 30,
+          "Name": "Mother Miounne",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 5,
+          "Down": 3,
+          "Right": 5,
+          "Left": 7
+        },
+        {
+          "Id": 18,
+          "Name": "Sahagin",
+          "Rarity": 1,
+          "Family": "Beastman",
+          "Up": 4,
+          "Down": 3,
+          "Right": 5,
+          "Left": 3
+        }
+      ],
+      "Player2ConcealedCards": [],
+      "Ownership": [
+        1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "Wardenship": [
+        1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "BoardCards": [
+        {
+          "Id": 38,
+          "Name": "Behemoth",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 7,
+          "Down": 4,
+          "Right": 8,
+          "Left": 2
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        }
+      ],
+      "IsDeterminized": true
+    },
+    {
+      "StartingPlayer": 1,
+      "Rules": "ThreeOpen, Plus",
+      "TurnCount": 2,
+      "RoundState": "Ongoing",
+      "PlayerToMove": 1,
+      "NextPlayerToMove": 2,
+      "Player1RevealedCards": [
+        {
+          "Id": 109,
+          "Name": "Coeurlregina",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 5,
+          "Down": 5,
+          "Right": 5,
+          "Left": 8
+        },
+        {
+          "Id": 108,
+          "Name": "Vedrfolnir",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 8,
+          "Down": 7,
+          "Right": 2,
+          "Left": 4
+        },
+        {
+          "Id": 50,
+          "Name": "Urianger",
+          "Rarity": 3,
+          "Family": "Scion",
+          "Up": 8,
+          "Down": 4,
+          "Right": 1,
+          "Left": 7
+        },
+        {
+          "Id": 70,
+          "Name": "Onion Knight",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 8,
+          "Down": 8,
+          "Right": 2,
+          "Left": 10
+        }
+      ],
+      "Player1ConcealedCards": [],
+      "Player2RevealedCards": [
+        {
+          "Id": 24,
+          "Name": "Succubus",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 7,
+          "Down": 2,
+          "Right": 3,
+          "Left": 6
+        },
+        {
+          "Id": 35,
+          "Name": "Frixio",
+          "Rarity": 2,
+          "Family": "Beastman",
+          "Up": 6,
+          "Down": 6,
+          "Right": 2,
+          "Left": 6
+        },
+        {
+          "Id": 30,
+          "Name": "Mother Miounne",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 5,
+          "Down": 3,
+          "Right": 5,
+          "Left": 7
+        },
+        {
+          "Id": 18,
+          "Name": "Sahagin",
+          "Rarity": 1,
+          "Family": "Beastman",
+          "Up": 4,
+          "Down": 3,
+          "Right": 5,
+          "Left": 3
+        }
+      ],
+      "Player2ConcealedCards": [],
+      "Ownership": [
+        1,
+        -1,
+        -1,
+        2,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "Wardenship": [
+        1,
+        -1,
+        -1,
+        2,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "BoardCards": [
+        {
+          "Id": 38,
+          "Name": "Behemoth",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 7,
+          "Down": 4,
+          "Right": 8,
+          "Left": 2
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 56,
+          "Name": "Minfilia",
+          "Rarity": 4,
+          "Family": "Scion",
+          "Up": 9,
+          "Down": 3,
+          "Right": 8,
+          "Left": 5
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        }
+      ],
+      "IsDeterminized": true
+    },
+    {
+      "StartingPlayer": 1,
+      "Rules": "ThreeOpen, Plus",
+      "TurnCount": 3,
+      "RoundState": "Ongoing",
+      "PlayerToMove": 2,
+      "NextPlayerToMove": 1,
+      "Player1RevealedCards": [
+        {
+          "Id": 109,
+          "Name": "Coeurlregina",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 5,
+          "Down": 5,
+          "Right": 5,
+          "Left": 8
+        },
+        {
+          "Id": 108,
+          "Name": "Vedrfolnir",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 8,
+          "Down": 7,
+          "Right": 2,
+          "Left": 4
+        },
+        {
+          "Id": 70,
+          "Name": "Onion Knight",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 8,
+          "Down": 8,
+          "Right": 2,
+          "Left": 10
+        }
+      ],
+      "Player1ConcealedCards": [],
+      "Player2RevealedCards": [
+        {
+          "Id": 24,
+          "Name": "Succubus",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 7,
+          "Down": 2,
+          "Right": 3,
+          "Left": 6
+        },
+        {
+          "Id": 35,
+          "Name": "Frixio",
+          "Rarity": 2,
+          "Family": "Beastman",
+          "Up": 6,
+          "Down": 6,
+          "Right": 2,
+          "Left": 6
+        },
+        {
+          "Id": 30,
+          "Name": "Mother Miounne",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 5,
+          "Down": 3,
+          "Right": 5,
+          "Left": 7
+        },
+        {
+          "Id": 18,
+          "Name": "Sahagin",
+          "Rarity": 1,
+          "Family": "Beastman",
+          "Up": 4,
+          "Down": 3,
+          "Right": 5,
+          "Left": 3
+        }
+      ],
+      "Player2ConcealedCards": [],
+      "Ownership": [
+        1,
+        -1,
+        1,
+        2,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "Wardenship": [
+        1,
+        -1,
+        1,
+        2,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "BoardCards": [
+        {
+          "Id": 38,
+          "Name": "Behemoth",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 7,
+          "Down": 4,
+          "Right": 8,
+          "Left": 2
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 50,
+          "Name": "Urianger",
+          "Rarity": 3,
+          "Family": "Scion",
+          "Up": 8,
+          "Down": 4,
+          "Right": 1,
+          "Left": 7
+        },
+        {
+          "Id": 56,
+          "Name": "Minfilia",
+          "Rarity": 4,
+          "Family": "Scion",
+          "Up": 9,
+          "Down": 3,
+          "Right": 8,
+          "Left": 5
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        }
+      ],
+      "IsDeterminized": true
+    },
+    {
+      "StartingPlayer": 1,
+      "Rules": "ThreeOpen, Plus",
+      "TurnCount": 4,
+      "RoundState": "Ongoing",
+      "PlayerToMove": 1,
+      "NextPlayerToMove": 2,
+      "Player1RevealedCards": [
+        {
+          "Id": 109,
+          "Name": "Coeurlregina",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 5,
+          "Down": 5,
+          "Right": 5,
+          "Left": 8
+        },
+        {
+          "Id": 108,
+          "Name": "Vedrfolnir",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 8,
+          "Down": 7,
+          "Right": 2,
+          "Left": 4
+        },
+        {
+          "Id": 70,
+          "Name": "Onion Knight",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 8,
+          "Down": 8,
+          "Right": 2,
+          "Left": 10
+        }
+      ],
+      "Player1ConcealedCards": [],
+      "Player2RevealedCards": [
+        {
+          "Id": 24,
+          "Name": "Succubus",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 7,
+          "Down": 2,
+          "Right": 3,
+          "Left": 6
+        },
+        {
+          "Id": 35,
+          "Name": "Frixio",
+          "Rarity": 2,
+          "Family": "Beastman",
+          "Up": 6,
+          "Down": 6,
+          "Right": 2,
+          "Left": 6
+        },
+        {
+          "Id": 18,
+          "Name": "Sahagin",
+          "Rarity": 1,
+          "Family": "Beastman",
+          "Up": 4,
+          "Down": 3,
+          "Right": 5,
+          "Left": 3
+        }
+      ],
+      "Player2ConcealedCards": [],
+      "Ownership": [
+        1,
+        -1,
+        1,
+        2,
+        -1,
+        2,
+        -1,
+        -1,
+        -1
+      ],
+      "Wardenship": [
+        1,
+        -1,
+        1,
+        2,
+        -1,
+        2,
+        -1,
+        -1,
+        -1
+      ],
+      "BoardCards": [
+        {
+          "Id": 38,
+          "Name": "Behemoth",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 7,
+          "Down": 4,
+          "Right": 8,
+          "Left": 2
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 50,
+          "Name": "Urianger",
+          "Rarity": 3,
+          "Family": "Scion",
+          "Up": 8,
+          "Down": 4,
+          "Right": 1,
+          "Left": 7
+        },
+        {
+          "Id": 56,
+          "Name": "Minfilia",
+          "Rarity": 4,
+          "Family": "Scion",
+          "Up": 9,
+          "Down": 3,
+          "Right": 8,
+          "Left": 5
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 30,
+          "Name": "Mother Miounne",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 5,
+          "Down": 3,
+          "Right": 5,
+          "Left": 7
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        }
+      ],
+      "IsDeterminized": true
+    },
+    {
+      "StartingPlayer": 1,
+      "Rules": "ThreeOpen, Plus",
+      "TurnCount": 5,
+      "RoundState": "Ongoing",
+      "PlayerToMove": 2,
+      "NextPlayerToMove": 1,
+      "Player1RevealedCards": [
+        {
+          "Id": 109,
+          "Name": "Coeurlregina",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 5,
+          "Down": 5,
+          "Right": 5,
+          "Left": 8
+        },
+        {
+          "Id": 108,
+          "Name": "Vedrfolnir",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 8,
+          "Down": 7,
+          "Right": 2,
+          "Left": 4
+        }
+      ],
+      "Player1ConcealedCards": [],
+      "Player2RevealedCards": [
+        {
+          "Id": 24,
+          "Name": "Succubus",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 7,
+          "Down": 2,
+          "Right": 3,
+          "Left": 6
+        },
+        {
+          "Id": 35,
+          "Name": "Frixio",
+          "Rarity": 2,
+          "Family": "Beastman",
+          "Up": 6,
+          "Down": 6,
+          "Right": 2,
+          "Left": 6
+        },
+        {
+          "Id": 18,
+          "Name": "Sahagin",
+          "Rarity": 1,
+          "Family": "Beastman",
+          "Up": 4,
+          "Down": 3,
+          "Right": 5,
+          "Left": 3
+        }
+      ],
+      "Player2ConcealedCards": [],
+      "Ownership": [
+        1,
+        -1,
+        1,
+        2,
+        -1,
+        2,
+        -1,
+        -1,
+        1
+      ],
+      "Wardenship": [
+        1,
+        -1,
+        1,
+        2,
+        -1,
+        1,
+        -1,
+        -1,
+        1
+      ],
+      "BoardCards": [
+        {
+          "Id": 38,
+          "Name": "Behemoth",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 7,
+          "Down": 4,
+          "Right": 8,
+          "Left": 2
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 50,
+          "Name": "Urianger",
+          "Rarity": 3,
+          "Family": "Scion",
+          "Up": 8,
+          "Down": 4,
+          "Right": 1,
+          "Left": 7
+        },
+        {
+          "Id": 56,
+          "Name": "Minfilia",
+          "Rarity": 4,
+          "Family": "Scion",
+          "Up": 9,
+          "Down": 3,
+          "Right": 8,
+          "Left": 5
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 30,
+          "Name": "Mother Miounne",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 5,
+          "Down": 3,
+          "Right": 5,
+          "Left": 7
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 70,
+          "Name": "Onion Knight",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 8,
+          "Down": 8,
+          "Right": 2,
+          "Left": 10
+        }
+      ],
+      "IsDeterminized": true
+    },
+    {
+      "StartingPlayer": 1,
+      "Rules": "ThreeOpen, Plus",
+      "TurnCount": 6,
+      "RoundState": "Ongoing",
+      "PlayerToMove": 1,
+      "NextPlayerToMove": 2,
+      "Player1RevealedCards": [
+        {
+          "Id": 109,
+          "Name": "Coeurlregina",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 5,
+          "Down": 5,
+          "Right": 5,
+          "Left": 8
+        },
+        {
+          "Id": 108,
+          "Name": "Vedrfolnir",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 8,
+          "Down": 7,
+          "Right": 2,
+          "Left": 4
+        }
+      ],
+      "Player1ConcealedCards": [],
+      "Player2RevealedCards": [
+        {
+          "Id": 35,
+          "Name": "Frixio",
+          "Rarity": 2,
+          "Family": "Beastman",
+          "Up": 6,
+          "Down": 6,
+          "Right": 2,
+          "Left": 6
+        },
+        {
+          "Id": 18,
+          "Name": "Sahagin",
+          "Rarity": 1,
+          "Family": "Beastman",
+          "Up": 4,
+          "Down": 3,
+          "Right": 5,
+          "Left": 3
+        }
+      ],
+      "Player2ConcealedCards": [],
+      "Ownership": [
+        1,
+        2,
+        1,
+        2,
+        -1,
+        2,
+        -1,
+        -1,
+        1
+      ],
+      "Wardenship": [
+        1,
+        2,
+        1,
+        2,
+        -1,
+        1,
+        -1,
+        -1,
+        1
+      ],
+      "BoardCards": [
+        {
+          "Id": 38,
+          "Name": "Behemoth",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 7,
+          "Down": 4,
+          "Right": 8,
+          "Left": 2
+        },
+        {
+          "Id": 24,
+          "Name": "Succubus",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 7,
+          "Down": 2,
+          "Right": 3,
+          "Left": 6
+        },
+        {
+          "Id": 50,
+          "Name": "Urianger",
+          "Rarity": 3,
+          "Family": "Scion",
+          "Up": 8,
+          "Down": 4,
+          "Right": 1,
+          "Left": 7
+        },
+        {
+          "Id": 56,
+          "Name": "Minfilia",
+          "Rarity": 4,
+          "Family": "Scion",
+          "Up": 9,
+          "Down": 3,
+          "Right": 8,
+          "Left": 5
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 30,
+          "Name": "Mother Miounne",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 5,
+          "Down": 3,
+          "Right": 5,
+          "Left": 7
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 70,
+          "Name": "Onion Knight",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 8,
+          "Down": 8,
+          "Right": 2,
+          "Left": 10
+        }
+      ],
+      "IsDeterminized": true
+    },
+    {
+      "StartingPlayer": 1,
+      "Rules": "ThreeOpen, Plus",
+      "TurnCount": 7,
+      "RoundState": "Ongoing",
+      "PlayerToMove": 2,
+      "NextPlayerToMove": 1,
+      "Player1RevealedCards": [
+        {
+          "Id": 108,
+          "Name": "Vedrfolnir",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 8,
+          "Down": 7,
+          "Right": 2,
+          "Left": 4
+        }
+      ],
+      "Player1ConcealedCards": [],
+      "Player2RevealedCards": [
+        {
+          "Id": 35,
+          "Name": "Frixio",
+          "Rarity": 2,
+          "Family": "Beastman",
+          "Up": 6,
+          "Down": 6,
+          "Right": 2,
+          "Left": 6
+        },
+        {
+          "Id": 18,
+          "Name": "Sahagin",
+          "Rarity": 1,
+          "Family": "Beastman",
+          "Up": 4,
+          "Down": 3,
+          "Right": 5,
+          "Left": 3
+        }
+      ],
+      "Player2ConcealedCards": [],
+      "Ownership": [
+        1,
+        2,
+        1,
+        2,
+        -1,
+        2,
+        1,
+        -1,
+        1
+      ],
+      "Wardenship": [
+        1,
+        2,
+        1,
+        2,
+        -1,
+        1,
+        1,
+        -1,
+        1
+      ],
+      "BoardCards": [
+        {
+          "Id": 38,
+          "Name": "Behemoth",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 7,
+          "Down": 4,
+          "Right": 8,
+          "Left": 2
+        },
+        {
+          "Id": 24,
+          "Name": "Succubus",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 7,
+          "Down": 2,
+          "Right": 3,
+          "Left": 6
+        },
+        {
+          "Id": 50,
+          "Name": "Urianger",
+          "Rarity": 3,
+          "Family": "Scion",
+          "Up": 8,
+          "Down": 4,
+          "Right": 1,
+          "Left": 7
+        },
+        {
+          "Id": 56,
+          "Name": "Minfilia",
+          "Rarity": 4,
+          "Family": "Scion",
+          "Up": 9,
+          "Down": 3,
+          "Right": 8,
+          "Left": 5
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 30,
+          "Name": "Mother Miounne",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 5,
+          "Down": 3,
+          "Right": 5,
+          "Left": 7
+        },
+        {
+          "Id": 109,
+          "Name": "Coeurlregina",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 5,
+          "Down": 5,
+          "Right": 5,
+          "Left": 8
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 70,
+          "Name": "Onion Knight",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 8,
+          "Down": 8,
+          "Right": 2,
+          "Left": 10
+        }
+      ],
+      "IsDeterminized": true
+    },
+    {
+      "StartingPlayer": 1,
+      "Rules": "ThreeOpen, Plus",
+      "TurnCount": 8,
+      "RoundState": "Ongoing",
+      "PlayerToMove": 1,
+      "NextPlayerToMove": 2,
+      "Player1RevealedCards": [
+        {
+          "Id": 108,
+          "Name": "Vedrfolnir",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 8,
+          "Down": 7,
+          "Right": 2,
+          "Left": 4
+        }
+      ],
+      "Player1ConcealedCards": [],
+      "Player2RevealedCards": [
+        {
+          "Id": 18,
+          "Name": "Sahagin",
+          "Rarity": 1,
+          "Family": "Beastman",
+          "Up": 4,
+          "Down": 3,
+          "Right": 5,
+          "Left": 3
+        }
+      ],
+      "Player2ConcealedCards": [],
+      "Ownership": [
+        1,
+        2,
+        1,
+        2,
+        -1,
+        2,
+        1,
+        2,
+        1
+      ],
+      "Wardenship": [
+        1,
+        2,
+        1,
+        2,
+        -1,
+        1,
+        2,
+        2,
+        1
+      ],
+      "BoardCards": [
+        {
+          "Id": 38,
+          "Name": "Behemoth",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 7,
+          "Down": 4,
+          "Right": 8,
+          "Left": 2
+        },
+        {
+          "Id": 24,
+          "Name": "Succubus",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 7,
+          "Down": 2,
+          "Right": 3,
+          "Left": 6
+        },
+        {
+          "Id": 50,
+          "Name": "Urianger",
+          "Rarity": 3,
+          "Family": "Scion",
+          "Up": 8,
+          "Down": 4,
+          "Right": 1,
+          "Left": 7
+        },
+        {
+          "Id": 56,
+          "Name": "Minfilia",
+          "Rarity": 4,
+          "Family": "Scion",
+          "Up": 9,
+          "Down": 3,
+          "Right": 8,
+          "Left": 5
+        },
+        {
+          "Id": 0,
+          "Name": null,
+          "Rarity": 0,
+          "Family": "None",
+          "Up": 0,
+          "Down": 0,
+          "Right": 0,
+          "Left": 0
+        },
+        {
+          "Id": 30,
+          "Name": "Mother Miounne",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 5,
+          "Down": 3,
+          "Right": 5,
+          "Left": 7
+        },
+        {
+          "Id": 109,
+          "Name": "Coeurlregina",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 5,
+          "Down": 5,
+          "Right": 5,
+          "Left": 8
+        },
+        {
+          "Id": 35,
+          "Name": "Frixio",
+          "Rarity": 2,
+          "Family": "Beastman",
+          "Up": 6,
+          "Down": 6,
+          "Right": 2,
+          "Left": 6
+        },
+        {
+          "Id": 70,
+          "Name": "Onion Knight",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 8,
+          "Down": 8,
+          "Right": 2,
+          "Left": 10
+        }
+      ],
+      "IsDeterminized": true
+    },
+    {
+      "StartingPlayer": 1,
+      "Rules": "ThreeOpen, Plus",
+      "TurnCount": 9,
+      "RoundState": "Player1Win",
+      "PlayerToMove": 2,
+      "NextPlayerToMove": 1,
+      "Player1RevealedCards": [],
+      "Player1ConcealedCards": [],
+      "Player2RevealedCards": [
+        {
+          "Id": 18,
+          "Name": "Sahagin",
+          "Rarity": 1,
+          "Family": "Beastman",
+          "Up": 4,
+          "Down": 3,
+          "Right": 5,
+          "Left": 3
+        }
+      ],
+      "Player2ConcealedCards": [],
+      "Ownership": [
+        1,
+        2,
+        1,
+        2,
+        1,
+        2,
+        1,
+        2,
+        1
+      ],
+      "Wardenship": [
+        1,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "BoardCards": [
+        {
+          "Id": 38,
+          "Name": "Behemoth",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 7,
+          "Down": 4,
+          "Right": 8,
+          "Left": 2
+        },
+        {
+          "Id": 24,
+          "Name": "Succubus",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 7,
+          "Down": 2,
+          "Right": 3,
+          "Left": 6
+        },
+        {
+          "Id": 50,
+          "Name": "Urianger",
+          "Rarity": 3,
+          "Family": "Scion",
+          "Up": 8,
+          "Down": 4,
+          "Right": 1,
+          "Left": 7
+        },
+        {
+          "Id": 56,
+          "Name": "Minfilia",
+          "Rarity": 4,
+          "Family": "Scion",
+          "Up": 9,
+          "Down": 3,
+          "Right": 8,
+          "Left": 5
+        },
+        {
+          "Id": 108,
+          "Name": "Vedrfolnir",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 8,
+          "Down": 7,
+          "Right": 2,
+          "Left": 4
+        },
+        {
+          "Id": 30,
+          "Name": "Mother Miounne",
+          "Rarity": 2,
+          "Family": "None",
+          "Up": 5,
+          "Down": 3,
+          "Right": 5,
+          "Left": 7
+        },
+        {
+          "Id": 109,
+          "Name": "Coeurlregina",
+          "Rarity": 3,
+          "Family": "None",
+          "Up": 5,
+          "Down": 5,
+          "Right": 5,
+          "Left": 8
+        },
+        {
+          "Id": 35,
+          "Name": "Frixio",
+          "Rarity": 2,
+          "Family": "Beastman",
+          "Up": 6,
+          "Down": 6,
+          "Right": 2,
+          "Left": 6
+        },
+        {
+          "Id": 70,
+          "Name": "Onion Knight",
+          "Rarity": 5,
+          "Family": "None",
+          "Up": 8,
+          "Down": 8,
+          "Right": 2,
+          "Left": 10
+        }
+      ],
+      "IsDeterminized": true
+    }
+  ]
+}

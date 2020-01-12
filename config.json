@@ -1,0 +1,6 @@
+{
+    "port":3001,
+    "url":"slothnet.ca",
+    "https":true,
+    "image_path": "/images" 
+}
