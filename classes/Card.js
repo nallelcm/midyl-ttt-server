@@ -1,3 +1,4 @@
+const config = require('../config.json');
 const Jimp = require('jimp');
 class Card {
     constructor(id, name, rarity, family, up, down, right, left) {
@@ -9,6 +10,17 @@ class Card {
         this.down = down;
         this.right = right;
         this.left = left;
+        let proto = "http";
+        if (config.https)
+        {
+            proto = "https";
+        }
+        let port = ":"+config.port
+        if (config.port == 80)
+        {
+            port = "";
+        }
+        this.imageurl = proto + "://" + config.url + port + "/cards/" + this.id + "/imagefile";
     }
     async generateImage() {
         const [image, rarity, up, down, right, left, family, background] = await Promise.all([

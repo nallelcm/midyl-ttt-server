@@ -58,7 +58,7 @@ app.use(function (req, res, next) {
   })
 
 /***** ROUTES ****/
-app.get('/', (req, res) => {
+app.get('/matches', (req, res) => {
     res.send(matches);
 });
 
